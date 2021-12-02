@@ -1,0 +1,1 @@
+Data->segmenty->paket->frame->

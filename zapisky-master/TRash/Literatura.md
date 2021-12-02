@@ -1,0 +1,3 @@
+Tropy, figury
+
+metafora, metonimie

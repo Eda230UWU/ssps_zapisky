@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "67dd5b2c40443576",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddced9a8217d3906",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zapisky-master/Matematika/Odmocniny.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c388526bfa6d4692",
+    "type": "split",
+    "children": [
+      {
+        "id": "03f8b7a0bea1e6e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0965b629a015792f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8851e02e11c4d810",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af0ab7e3a190d97a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ecb07106f2c1d7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecaabac968e78075",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zapisky-master/Matematika/Odmocniny.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ddced9a8217d3906",
+  "lastOpenFiles": [
+    "zapisky-master/Matematika/Odmocniny.md",
+    "zapisky-master/Matematika/Mocniny.md",
+    "zapisky-master/Matematika/Množiny.md",
+    "zapisky-master/Dějepis/24.11.md",
+    "zapisky-master/Dějepis/Dějepis test 1.md",
+    "zapisky-master/Dějepis/Referáty.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "zapisky-master/Čeština/Literatura/Antika.md",
+    "zapisky-master/Chemie/Zábavné cvičení.md"
+  ]
+}

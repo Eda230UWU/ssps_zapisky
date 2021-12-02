@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "8f77f5629c57cba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc624ca755f72f47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Matematika/Mocniny.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eafcd30b014d2615",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3da476bd5fcb18f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21cb4acf62436ef9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "67a0507ee4354f32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306
+  },
+  "right": {
+    "id": "10497a8d79c15203",
+    "type": "split",
+    "children": [
+      {
+        "id": "991ad900d7c12014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb86778f62aaddc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Matematika/Mocniny.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc624ca755f72f47",
+  "lastOpenFiles": [
+    "Matematika/Mocniny.md",
+    "Matematika/Výroková logika.md",
+    "Čeština/Jazyky.md",
+    "Čeština/Slovní zásoba.md",
+    "Čeština/Distanční výuka.md",
+    "Čeština/Domácí úkol-29.09.md",
+    "Čeština/Jméno.md",
+    "Čeština/Základní literární pojmy.md",
+    "Chemie/Radioaktivita.md",
+    "Fyzika+Elektrotechnika/Úkol 15.11.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Jádro cívky, feromagnetický materiál "magneticky měkký"
