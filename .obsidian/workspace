@@ -7,11 +7,8 @@
         "id": "ddced9a8217d3906",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "zapisky-master/Matematika/Odmocniny.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-master/Matematika/Odmocniny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "ddced9a8217d3906",
   "lastOpenFiles": [
-    "zapisky-master/Matematika/Odmocniny.md",
-    "zapisky-master/Matematika/Mocniny.md",
-    "zapisky-master/Matematika/Množiny.md",
-    "zapisky-master/Dějepis/24.11.md",
-    "zapisky-master/Dějepis/Dějepis test 1.md",
-    "zapisky-master/Dějepis/Referáty.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "zapisky-master/Čeština/Literatura/Antika.md",
-    "zapisky-master/Chemie/Zábavné cvičení.md"
+    "zapisky-master/Dějepis/Zbraně WW1.md",
+    "zapisky-master/Fyzika+Elektrotechnika/Pohyb.md",
+    "zapisky-master/Fyzika+Elektrotechnika/Příklady lmao.md",
+    "zapisky-master/Fyzika+Elektrotechnika/Cívka.md",
+    "zapisky-master/Fyzika+Elektrotechnika/04.11.2021 hodina (otazky).md",
+    "zapisky-master/Fyzika+Elektrotechnika/Úkol 15.11.md",
+    "zapisky-master/Fyzika+Elektrotechnika/Ilustrace toku elektrického proudu.md",
+    "zapisky-master/Fyzika+Elektrotechnika/ELEKTŘINAAAAAA.md",
+    "zapisky-master/Fyzika+Elektrotechnika/Elektřina.md",
+    "zapisky-master/Fyzika+Elektrotechnika/Fyz. veličiny.md"
   ]
 }
