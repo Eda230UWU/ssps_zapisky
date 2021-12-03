@@ -36,3 +36,7 @@ $s = 137,81m$
 ---
 
 ## Pohyb po kružnici
+$T=\frac{1}{f}$
+$v=\frac{2\pi r}{T}$
+$\omega = \frac{2\pi}{T}$
+$a=\omega^2 *r$
