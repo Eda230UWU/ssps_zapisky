@@ -5,7 +5,11 @@
 	$$ U = 15 800 000 mV = 15,8 kV $$
 
 2.   Vypočtěte hodnotu odporu, který je sériově připojen k odporu o velikosti 3 400 Ω, aby touto sériovou kombinací protékal proud 0,86 mA. Odpory jsou připojeny k napětí 5 V. Nakreslete a popište schéma zapojení. 
-	  $$ R = U/I $$ $$ R = 5 000mV/0,86mA $$ $$ R = 5814 m\Omega $$
+	  $$ Rc = U/I $$ 
+	  $R1+3400 \Omega = 5V / O,86mA$
+	  $R1 = 5V /86 -3400 \Omega$
+	  $R1 = 5813 \Omega - 3400 \Omega$
+	  $R1 = 2413 \Omega$
 	 
     
 
@@ -16,11 +20,13 @@
     
 
 4.   Vypočtěte úbytek napětí na vodiči, který má vodivost 344 mS a protéká jím proud 144 μA.
-   $$ V = 344mV = 0,344V $$
+   $R = 344mV = 0,344 \Omega$
    
-  $$ I = 144uA (mikro) = 0,000144A $$
- $$ R = \frac{V}{I} $$
- $$ R = \frac{0,344}{0,000144} $$ $$ R = 2388,8 \Omega $$
+  $I = 144uA (mikro) = 0,000144A$
+ $U = R*I$
+ $U = 344\Omega * 0,000144A$
+ $U = 0,049536V$
+ $U = 49,3 mV$
  
   ## Řazení rezistorů
   
