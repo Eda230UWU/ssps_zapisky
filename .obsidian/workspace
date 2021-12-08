@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "priklady.md",
+            "file": "zapisky-master/Dějepis/24.11.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "priklady.md",
+                "file": "zapisky-master/Dějepis/24.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
+    "zapisky-master/Dějepis/24.11.md",
+    "zapisky-master/Čeština/Literatura/Antika.md",
+    "zapisky-master/Čeština/Slovní zásoba.md",
     "priklady.md",
     "zapisky-master/Fyzika+Elektrotechnika/Úkol 15.11.md",
     "zapisky-master/Fyzika+Elektrotechnika/Pohyb.md",
     "zapisky-master/Fyzika+Elektrotechnika/Příklady lmao.md",
     "zapisky-master/Fyzika+Elektrotechnika/Fyz. veličiny.md",
     "zapisky-master/Dějepis/Zbraně WW1.md",
-    "zapisky-master/Fyzika+Elektrotechnika/Cívka.md",
-    "zapisky-master/Fyzika+Elektrotechnika/04.11.2021 hodina (otazky).md",
-    "zapisky-master/Fyzika+Elektrotechnika/Ilustrace toku elektrického proudu.md",
-    "zapisky-master/Fyzika+Elektrotechnika/ELEKTŘINAAAAAA.md"
+    "zapisky-master/Fyzika+Elektrotechnika/Cívka.md"
   ]
 }
