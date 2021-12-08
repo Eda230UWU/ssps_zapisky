@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-master/Dějepis/24.11.md",
+            "file": "zapisky-master/Čeština/Literatura/Antika.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-master/Dějepis/24.11.md",
+                "file": "zapisky-master/Čeština/Literatura/Antika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
-    "zapisky-master/Dějepis/24.11.md",
     "zapisky-master/Čeština/Literatura/Antika.md",
-    "zapisky-master/Čeština/Slovní zásoba.md",
+    "zapisky-master/Dějepis/24.11.md",
     "priklady.md",
-    "zapisky-master/Fyzika+Elektrotechnika/Úkol 15.11.md",
-    "zapisky-master/Fyzika+Elektrotechnika/Pohyb.md",
-    "zapisky-master/Fyzika+Elektrotechnika/Příklady lmao.md",
-    "zapisky-master/Fyzika+Elektrotechnika/Fyz. veličiny.md",
-    "zapisky-master/Dějepis/Zbraně WW1.md",
-    "zapisky-master/Fyzika+Elektrotechnika/Cívka.md"
+    "zapisky-master/Matematika/Množiny - Intervaly.md",
+    "zapisky-master/Matematika/Mocniny.md",
+    "zapisky-master/Matematika/Odmocniny.md",
+    "zapisky-master/Matematika/Výroková logika.md",
+    "zapisky-master/Matematika/17.9. hodina.md",
+    "zapisky-master/Dějepis/3. hodina.md",
+    "zapisky-master/Čeština/Slovní zásoba.md"
   ]
 }
