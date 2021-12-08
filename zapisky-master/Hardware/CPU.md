@@ -75,3 +75,7 @@ snaha o co nejkoplexnější vnitřní program CPU
  příliš mnoho instrukcí vyžaduje víceúroňový dekódér -> zpomalení práce
  Instrukce nemají jednotný formát, potřebuji složitý řadič -> zpomalení práce
  CISC složitější adresování
+ 
+ ## RISC
+ Reduced Intruction set of Computer
+ ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
