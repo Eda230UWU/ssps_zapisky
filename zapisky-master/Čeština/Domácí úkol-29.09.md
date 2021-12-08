@@ -62,7 +62,7 @@ z dálky vykoukl strom personifikace
 
 provolným krokem on zločince doprovází-inverze
 
-> růžový večer epiteton
+> růžový večer epitetona
 
 světlo a tma kontrast
 

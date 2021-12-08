@@ -29,3 +29,4 @@ ignorovat varování, náhlý pád dolů, ke dnu
 moc sebejistý
 ### Sisifoská práce
 tlačit balvan do kopce -> zbytečná práce
+sadsada

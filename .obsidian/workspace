@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-master/Čeština/Literatura/Antika.md",
+            "file": "zapisky-master/Čeština/Domácí úkol-29.09.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-master/Čeština/Literatura/Antika.md",
+                "file": "zapisky-master/Čeština/Domácí úkol-29.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
+    "zapisky-master/Čeština/Domácí úkol-29.09.md",
+    "zapisky-master/Čeština/Literatura/Základní literární pojmy.md",
     "zapisky-master/Čeština/Literatura/Antika.md",
     "zapisky-master/Dějepis/24.11.md",
     "priklady.md",
@@ -95,8 +97,6 @@
     "zapisky-master/Matematika/Mocniny.md",
     "zapisky-master/Matematika/Odmocniny.md",
     "zapisky-master/Matematika/Výroková logika.md",
-    "zapisky-master/Matematika/17.9. hodina.md",
-    "zapisky-master/Dějepis/3. hodina.md",
-    "zapisky-master/Čeština/Slovní zásoba.md"
+    "zapisky-master/Matematika/17.9. hodina.md"
   ]
 }
