@@ -37,3 +37,41 @@ výrobce
 
 ## Architektura CPU
 MCU (micro controller unit) -> Nejjednoduší procesory (žehlička na vlasy, lednička, mikrovlnka) malá možnost rozšíření -> nízká cena a výkon
+
+GPU (Graphic processor unit) 
+speciální procesory, které jsou součástí grafických karet, zpracovává hlavně obrazová data a výpočty fyziky ve 3D
+
+CPU (Central processor unit)
+Základní řídící jednotka počítače
+
+APU (Accelerated processing Unit)
+Čip, do kterého je v jednom pouzdře integrováno jádro/jádra CPU a GPU (dva v jednom)
+
+DSP (Digital signal processor)
+Vysoký výkon
+zpracovává velké objemy dat v konkrétních specifikacích
+
+NPU (Network processor Unit)
+součást switchů, směrovačů a dalších síťových zařízení
+
+---
+
+## Architektura CPU
+bez ohledu na výrobe, architektura je pojem, který označují šířku datové a adresové směrnice (kolika bitový procesor je)
+
+vnitřní stavba procesoru, souvisí s instrukční sadou
+
+## Instrukční sady a strojový kód
+instrukční sada je vnitřní programové vybavení procesoru
+strojový kód (101010000011011011011100110)
+skládá se ze složitějších instrukcí  které jsou řadičem CPU dekódovány na tzv. mikroinstrukce
+těmi se řídí zbytek počítače i části samotné CPU
+Intrukční sada jsou intrukce kterým CPU rozumí
+
+## CISC
+Complete instruction seet of Computer
+
+snaha o co nejkoplexnější vnitřní program CPU
+ příliš mnoho instrukcí vyžaduje víceúroňový dekódér -> zpomalení práce
+ Instrukce nemají jednotný formát, potřebuji složitý řadič -> zpomalení práce
+ CISC složitější adresování
