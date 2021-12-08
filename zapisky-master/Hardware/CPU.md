@@ -61,14 +61,14 @@ bez ohledu na výrobe, architektura je pojem, který označují šířku datové
 
 vnitřní stavba procesoru, souvisí s instrukční sadou
 
-## Instrukční sady a strojový kód
+###  Instrukční sady a strojový kód
 instrukční sada je vnitřní programové vybavení procesoru
 strojový kód (101010000011011011011100110)
 skládá se ze složitějších instrukcí  které jsou řadičem CPU dekódovány na tzv. mikroinstrukce
 těmi se řídí zbytek počítače i části samotné CPU
 Intrukční sada jsou intrukce kterým CPU rozumí
 
-## CISC
+###  CISC
 Complete instruction seet of Computer
 
 snaha o co nejkoplexnější vnitřní program CPU
@@ -76,6 +76,19 @@ snaha o co nejkoplexnější vnitřní program CPU
  Instrukce nemají jednotný formát, potřebuji složitý řadič -> zpomalení práce
  CISC složitější adresování
  
- ## RISC
+ ###  RISC
  Reduced Intruction set of Computer
- ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+ 
+ 80% programů používa pouze čtvrťinu CISC -> důvod vytvoření RISC
+ Často jednotný formát -> jednoduše se adresují
+ minimální instrukční repertoár
+ Většina instrukcí se provádí během jednoho strojového cyklu
+ nevýhoda jsou složitější resp. komplexnější programy a především nutnost použité velkého množství rýchlých a drahých pamětí - registrů
+ 
+ Výrobce se rozhoduje CISC a RISC podle využití CPU (který typ intrukcí bude mít majoritní zastoupení v instrukční sadě)
+ 
+ ### Architektura 86x
+ navazující architektury nové generace, mimo jiné kombinující a rozšiřující podle vývojových větví instrukčních sad CISC a RISC
+ 
+ 
+ 
