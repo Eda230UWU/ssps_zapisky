@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-master/Hardware/CPU.md",
+            "file": "zapisky-master/Chemie/Zábavné cvičení.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-master/Hardware/CPU.md",
+                "file": "zapisky-master/Chemie/Zábavné cvičení.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
+    "zapisky-master/Chemie/Zábavné cvičení.md",
+    "zapisky-master/Chemie/Periodická tabulka prvků.md",
+    "zapisky-master/Chemie/Atomový obal.md",
+    "priklady.md",
+    "zapisky-master/Matematika/Výroková logika.md",
+    "zapisky-master/Matematika/Množiny.md",
+    "zapisky-master/Matematika/Odmocniny.md",
     "zapisky-master/Hardware/CPU.md",
     "zapisky-master/Hardware/Odevzdání zápisků.md",
-    "zapisky-master/Hardware/idk.md",
-    "zapisky-master/Hardware/Historie Počítačů.md",
-    "Mrdka.md",
-    "zapisky-master/Čeština/Domácí úkol-29.09.md",
-    "zapisky-master/Čeština/Literatura/Základní literární pojmy.md",
-    "zapisky-master/Čeština/Literatura/Antika.md",
-    "zapisky-master/Dějepis/24.11.md",
-    "priklady.md"
+    "zapisky-master/Hardware/idk.md"
   ]
 }

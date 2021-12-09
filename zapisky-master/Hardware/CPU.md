@@ -1,4 +1,4 @@
-Základní úlohou procesoru je pracovat podle pokynů určitého programu nebo hardwaru v počítači či jiném podobném zařízení (tablet, smartphone...)
+ Základní úlohou procesoru je pracovat podle pokynů určitého programu nebo hardwaru v počítači či jiném podobném zařízení (tablet, smartphone...)
 
 Využívá různě složitých programových instrukcí, které jsou zpracovávány na základně jednoduchých logických operací
 

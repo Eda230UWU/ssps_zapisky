@@ -58,3 +58,47 @@ RED: O -1-> -2 1
 
 ---
 KClO3 + H2SO4 -> HClO4 + ClO2 + KHSO4 + H2O
+
+---
+
+$^2H-deuterium$   $^3H-tritium$
+Výroba vodíku : reakce zinku s kyselinou chlorovodíkovou $Zn + 2HCl -> H2 + ZnCl2$
+
+Laboratorní výroba vodíku:
+Rozklad metanu na vodík při 1000°C (CH4)
+
+Užití vodíku v praxi: redukční činidlo, raketové palivo, Svařování/Řezání kyslíko-vodíkovým plamenem(3000°C)
+
+---
+
+Výskyt kyslíku v atmosféře-Litosféra, hydrosféra, biosféra
+Výroba -> Destilace zkapalňeného vzduchu
+
+Laboratorní příprava: Termický rozklad oxidu Stříbrného
+$2Ag2O => 4Ag + O2$
+
+Využití v praxi: Svařování/Řezání, lékařství, výroba oceli, oxidační činidlo v raketovém palivu
+
+Dělení oxidů: 
+#### Kyselé
+
+Většinou to jsou oxidy od kovů s oxidačním číslem vyšším než pět a nebo od nekovových prvků. S vodou reagují za vzniku kyslíkatých kyselin, popřípadě, pokud nejsou rozpustné ve vodě, s bází za vzniku solí.
+
+#### Bazické
+
+Oxidy od elektropozitivních prvků (typicky I.A a II.A skupina). S vodou reagují za vzniků hydroxidů daného kovu.
+
+#### Neutrální
+
+Oxidy nereagující s kyselinami ani zásadami. Příklady mohou být oxidy dusnatý a uhelnatý
+
+kyselinotvorné oxidy $CO_2 + H_2O -> H_2CO_3$
+
+Zásadotvorné kyseliny $H_2O + Li_2O -> 2 LiOH + H2O2$
+
+Příprava oxidů
+$S+O_2 -> SO_2$ spalování síry
+$2Mg + O_2 -> 2MgO$ spalování hořčíkové pásky
+
+peroxid vodíku (bělidlo, dezinfekce, odbarvování vlasů)
+
