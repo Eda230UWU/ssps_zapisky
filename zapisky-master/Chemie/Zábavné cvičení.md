@@ -102,3 +102,13 @@ $2Mg + O_2 -> 2MgO$ spalování hořčíkové pásky
 
 peroxid vodíku (bělidlo, dezinfekce, odbarvování vlasů)
 
+Tvrdost: Měkká, tvrdá, destilovaná
+měkká málo minerálu
+tvrdá hodně minerálů
+destilovaná - čistá voda
+
+pH: Kyselá 0 , neutrální 7, zásaditá 14
+
+
+
+
