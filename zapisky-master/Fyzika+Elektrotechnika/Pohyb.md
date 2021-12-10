@@ -40,3 +40,12 @@ $T=\frac{1}{f}$
 $v=\frac{2\pi r}{T}$
 $\omega = \frac{2\pi}{T}$
 $a=\omega^2 *r$
+
+---
+
+Vzajemne pusobeni teles
+1. deformace
+2. Změna pohybového stavu
+styk s tělesem, fyzikální síly
+
+Síla, [F] jednotka: N

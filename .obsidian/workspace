@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-master/Chemie/Zábavné cvičení.md",
+            "file": "zapisky-master/Chemie/Prvky.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-master/Chemie/Zábavné cvičení.md",
+                "file": "zapisky-master/Chemie/Prvky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,14 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
+    "zapisky-master/Chemie/Prvky.md",
     "zapisky-master/Chemie/Zábavné cvičení.md",
+    "priklady.md",
+    "zapisky-master/Fyzika+Elektrotechnika/Pohyb.md",
+    "zapisky-master/Fyzika+Elektrotechnika/Příklady lmao.md",
     "zapisky-master/Chemie/Periodická tabulka prvků.md",
     "zapisky-master/Chemie/Atomový obal.md",
-    "priklady.md",
     "zapisky-master/Matematika/Výroková logika.md",
-    "zapisky-master/Matematika/Množiny.md",
-    "zapisky-master/Matematika/Odmocniny.md",
-    "zapisky-master/Hardware/CPU.md",
-    "zapisky-master/Hardware/Odevzdání zápisků.md",
-    "zapisky-master/Hardware/idk.md"
+    "zapisky-master/Matematika/Množiny.md"
   ]
 }

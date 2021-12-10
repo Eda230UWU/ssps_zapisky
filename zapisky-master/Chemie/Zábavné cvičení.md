@@ -1,4 +1,4 @@
-1. 
+w1. 
 Kovalentní 
 iontové
 méně elektronegativní
