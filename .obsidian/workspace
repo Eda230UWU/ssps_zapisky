@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-master/Čeština/Literatura/Antika.md",
+            "file": "zapisky-master/Dějepis/24.11.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-master/Čeština/Literatura/Antika.md",
+                "file": "zapisky-master/Dějepis/24.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
+    "zapisky-master/Dějepis/24.11.md",
+    "zapisky-master/Dějepis/20. století.md",
+    "zapisky-master/Dějepis/3. hodina.md",
+    "zapisky-master/Čeština/Literatura/Prečíst do konce roku.md",
     "zapisky-master/Čeština/Literatura/Antika.md",
-    "zapisky-master/Čeština/Distanční výuka.md",
-    "zapisky-master/Čeština/Literatura/Základní literární pojmy.md",
-    "zapisky-master/Chemie/Prvky.md",
-    "zapisky-master/Chemie/Zábavné cvičení.md",
-    "priklady.md",
-    "zapisky-master/Fyzika+Elektrotechnika/Pohyb.md",
-    "zapisky-master/Fyzika+Elektrotechnika/Příklady lmao.md",
-    "zapisky-master/Chemie/Periodická tabulka prvků.md",
-    "zapisky-master/Chemie/Atomový obal.md"
+    "zapisky-master/Čeština/Jazyky.md",
+    "zapisky-master/Čeština/Domácí úkol-29.09.md",
+    "zapisky-master/Čeština/Jméno.md",
+    "zapisky-master/Čeština/Slovní zásoba.md",
+    "zapisky-master/Čeština/Literatura/Základní literární pojmy.md"
   ]
 }

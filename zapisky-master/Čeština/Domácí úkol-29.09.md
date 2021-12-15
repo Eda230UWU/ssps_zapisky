@@ -77,3 +77,6 @@ kapka štěstí metafora
 > bojovat za kalich metonimie
 
 pojďme, pojďme, ale zticha epizeuxis
+
+---
+
