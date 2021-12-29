@@ -91,4 +91,59 @@ snaha o co nejkoplexnější vnitřní program CPU
  navazující architektury nové generace, mimo jiné kombinující a rozšiřující podle vývojových větví instrukčních sad CISC a RISC
  
  
+ ## Rozšiřující instrukční sady
+ více instrukcí z konkrétní oblasti
+ urychlují zpracovávání dat
+ nejsou nutně povinné k použití
  
+ MMX - multimediální instrukce
+ 3DNow (AMD procesory pro 3D grafiku)
+ KNI pro 3D aplikace
+ SSE (Intel verze 3DNow, pro SIMD zpracování)
+ 
+ ---
+ 
+ ## Pipelining
+ Proudové zpracování instrukcí
+ rozdělení zpracování jedné instrukce mezi různé části procesu, čímž získáte možnost zpracování více instrukcí najednou v jednom cyklu
+ 
+ je rozdělena do posloupnosti
+ 4-5 fází
+
+1. Výběr intrukce IF instruc. fetch
+2. Dekódování ID instruc. decode
+3. Výběr operadnů, provedení operace EX execute
+4. čtení zápis do paměti MEM memory acces
+5. zápis výsledku WB writeback
+
+---
+
+#### sekvenční zpracování
+dříve se intrukce zpracovávali jednotliově
+
+#### Skalární zpracování
+Všechny operace probíhají součastně v n různých sekcích
+během každého taktu se načítá nová instrukce
+
+#### Superskalární zpracování
+dvě a více jednotek provádí pipelining
+
+#### Hyperpipelining
+Až dvě desítky fází v jedné pipelině
+problém s datovými závislostmi, což může částečně řešit hyper threading
+
+---
+
+#### nevýhody pipeliningu
+jedna instrukce potřebuje data, která jsouvýsledkem předchozí instrukce
+
+intrukce nezná adresu paměti, odkud má přečíst data
+
+delší pipeline znamená více datových i adresových závislostí
+
+vznikají prázdná místa "bubliny" -> snížení výkonu
+
+
+
+---
+

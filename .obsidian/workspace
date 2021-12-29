@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-master/Matematika/Polynom.md",
-            "mode": "source"
+            "file": "zapisky-master/Čeština/Literatura/Vypravování - Slohová práce.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-master/Matematika/Polynom.md",
+                "file": "zapisky-master/Čeština/Literatura/Vypravování - Slohová práce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
-    "zapisky-master/Matematika/Polynom.md",
-    "zapisky-master/Dějepis/24.11.md",
-    "zapisky-master/Dějepis/20. století.md",
-    "zapisky-master/Dějepis/3. hodina.md",
-    "zapisky-master/Čeština/Literatura/Prečíst do konce roku.md",
-    "zapisky-master/Čeština/Literatura/Antika.md",
-    "zapisky-master/Čeština/Jazyky.md",
-    "zapisky-master/Čeština/Domácí úkol-29.09.md",
-    "zapisky-master/Čeština/Jméno.md",
-    "zapisky-master/Čeština/Slovní zásoba.md"
+    "zapisky-master/Čeština/Literatura/Vypravování - Slohová práce.md",
+    "zapisky-master/Čeština/Literatura/Základní literární pojmy.md",
+    "zapisky-master/Fyzika+Elektrotechnika/Elektřina.md",
+    "zapisky-master/Fyzika+Elektrotechnika/Cívka.md",
+    "zapisky-master/Fyzika+Elektrotechnika/04.11.2021 hodina (otazky).md",
+    "zapisky-master/Chemie/Molární hmotnost.md",
+    "zapisky-master/Chemie/Zábavné cvičení.md",
+    "zapisky-master/Chemie/Radioaktivita.md",
+    "zapisky-master/Chemie/Prvky.md",
+    "zapisky-master/Chemie/Periodická tabulka prvků.md"
   ]
 }

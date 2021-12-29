@@ -110,5 +110,3 @@ destilovaná - čistá voda
 pH: Kyselá 0 , neutrální 7, zásaditá 14
 
 
-
-

@@ -52,7 +52,7 @@ Ve vodě se natačí molekuly tak, aby + bylo k - a nnaopak
 V ledu se molekuly uspořídají -> +- -> +- -> +-
 
 ### Vodíkový můstek
-![[Pasted image 20211015092102.png]]
+
 10x slabší než normální vazba
 
 # Určování typů vazeb
