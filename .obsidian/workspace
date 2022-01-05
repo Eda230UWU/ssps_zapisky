@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-master/Čeština/Literatura/Vypravování - Slohová práce.md",
+            "file": "zapisky-master/Hardware/Základová deska.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-master/Čeština/Literatura/Vypravování - Slohová práce.md",
+                "file": "zapisky-master/Hardware/Základová deska.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
+    "zapisky-master/Hardware/Základová deska.md",
+    "zapisky-master/Čeština/Literatura/Bible.md",
     "zapisky-master/Čeština/Literatura/Vypravování - Slohová práce.md",
     "zapisky-master/Čeština/Literatura/Vypravování - Slohová práce.md",
     "zapisky-master/Čeština/Literatura/Základní literární pojmy.md",
@@ -96,8 +98,6 @@
     "zapisky-master/Matematika/Vietovy vzorce.md",
     "zapisky-master/Angličtina/Past tense.md",
     "zapisky-master/Angličtina/Slovesa, Časování.md",
-    "zapisky-master/Čeština/Domácí úkol-29.09.md",
-    "zapisky-master/Fyzika+Elektrotechnika/Elektřina.md",
-    "zapisky-master/Fyzika+Elektrotechnika/Cívka.md"
+    "zapisky-master/Čeština/Domácí úkol-29.09.md"
   ]
 }
