@@ -15,11 +15,16 @@ napájí jednotlivé komponenty
 obstarává komunikaci periferií s CPU
 výběr rozhoduje o další možnosti upgrade celého počítače
 
+
+---
 ## Severní můstek
 Procesor, RAM, Grafická karta
 
 
 ## Jižní můstek
+IO, SATA, monitory, LANka
+
+
 
 
 ---
