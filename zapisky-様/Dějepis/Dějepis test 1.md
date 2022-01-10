@@ -13,3 +13,20 @@
 12.   Dříve tudy protékaly řeka a měli více úrodné půdy (Změna toku řeky)
 13.   Babylon - na dolním toku řeky Eufrat poblíž města Baghdát
 14.   x
+
+
+
+---
+
+
+1. nadprodukce, vyrobilo se toho více, než bylo potřeba
+2. Banka nedisponuje pěnezmi, které má od klientů, jelikož je půjčuje atd. a všichni si je chtěli vybrat
+3. Empty state building -> nikdo si nechtěl koupit tak prestižní bydlení
+4. New deal -> státní kontrola bank a společností, nastartovat ekonomiku, budování věcí, kde je potřeba nekvalifikovaná práce
+5. Adolf Hitler -> Německý socialismus, nacismus je zkratka nacionální  socialismus
+6. komunisti, konkurenti nacistické strany
+7. Hitler měl moc velikou moc
+8. "Německá verze Stalinových čistek"
+9. 1. Svatá říše římská národa německého
+	2. Německé císařství (zaniká na konci WWI)
+	3. Hitlerova třetí říše

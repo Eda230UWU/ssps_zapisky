@@ -4,7 +4,7 @@ energie, které se uvolní při vzniku vazby
 ## Disociační energie
 energie, kterou musíme dodat, aby se vazba přerušila
 
-(vazebná a disociační energie se lyší pouze znaménkem, jsou stejně velké)!
+(vazebná a disociační energie se lyší pouze znaménkem, jsou stejně velké)
 
 ---
 
