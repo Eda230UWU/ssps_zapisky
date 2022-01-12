@@ -35,6 +35,8 @@ patice (socket) -> podpora čipové sady na motherboardu
 podpora modulů operační paměti
 výrobce
 
+---
+
 ## Architektura CPU
 MCU (micro controller unit) -> Nejjednoduší procesory (žehlička na vlasy, lednička, mikrovlnka) malá možnost rozšíření -> nízká cena a výkon
 
@@ -69,7 +71,7 @@ těmi se řídí zbytek počítače i části samotné CPU
 Intrukční sada jsou intrukce kterým CPU rozumí
 
 ###  CISC
-Complete instruction seet of Computer
+Complete instruction set of Computer
 
 snaha o co nejkoplexnější vnitřní program CPU
  příliš mnoho instrukcí vyžaduje víceúroňový dekódér -> zpomalení práce
