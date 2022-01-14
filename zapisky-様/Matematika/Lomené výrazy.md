@@ -19,13 +19,24 @@ $\frac{x}{3}-\frac{x}{x+2}-\frac{2}{1}$
 
 $x \ne -2$
 
-$\frac{(x*x+2)()}{}$
+$-\frac{(x*(x+2))+(x*3)}{3(x+2)}-\frac{2}{1}$
+$-\frac{(x^2+2x)+(3x)}{3x+6}-\frac{2}{1}$
+$-\frac{x^2+5x}{3x+6}-\frac{2}{1}$
+$-\frac{x^2+5x + 2(3x+6)}{3x+6}$
+$-\frac{x^2+11x+6}{3x+6}$
+---
+
+
 
 ---
 
-$\frac{x}{x+2}-\frac{x+1}{x-3}$
-$x \ne -2; 3$
-$\frac{x^2+x}{x^2-x-6}$
+$\frac{y}{y^2-x^2}-\frac{x}{x-y}$
+$\frac{xy-y^2-y^2+x^3}{(y^2+x^2)(x-y)}$
+$\frac{xy-2y^2+x^3}{xy^2-y^3+x^3-x^2y}$
+$\frac{xy-2y^2+x^3}{-y^3+x^3}$
+blbě
 
 ---
 
+
+$\frac{8-5x}{8+2x}$
