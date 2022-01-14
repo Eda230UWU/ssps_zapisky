@@ -56,4 +56,4 @@ $$ A = {x \in \mathbb{R}: x < -3} $$
  
  C-B
  ![[Pasted image 20211022084520.png]]
- $$ C-B = \lange C: B)
+ $$ C-B = \lange C: B) $$
