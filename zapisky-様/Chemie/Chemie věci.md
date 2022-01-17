@@ -1,4 +1,4 @@
-
+## Hmotnostní zlomek
 
 Hmotnostní zlomek w(A) látky ve směsi
 bezrozměrné číslo
@@ -10,3 +10,5 @@ Střelný prach
 75% KNO3
 15% S
 10% C
+
+---
