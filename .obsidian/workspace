@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-様/Hardware/Input a Output.md",
+            "file": "priklady.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Hardware/Input a Output.md",
+                "file": "priklady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
+    "priklady.md",
     "zapisky-様/Hardware/Input a Output.md",
     "zapisky-様/Matematika/Lomené výrazy.md",
     "zapisky-様/Matematika/Množiny.md",
@@ -97,7 +98,6 @@
     "zapisky-様/Matematika/Odmocniny.md",
     "zapisky-様/Matematika/Polynom.md",
     "zapisky-様/Matematika/Výroková logika.md",
-    "zapisky-様/Matematika/Nejmenší násobek a největší dělitel.md",
-    "priklady.md"
+    "zapisky-様/Matematika/Nejmenší násobek a největší dělitel.md"
   ]
 }

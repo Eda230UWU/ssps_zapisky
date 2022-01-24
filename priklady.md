@@ -70,3 +70,54 @@ $x \ne 0$
 ---
 
 $\frac{3x^2+2x-16}{x^2-2x+4}$
+
+---
+
+Příklady na Ohmův zákon pro celý obvod
+
+1) Ponorným vařičem prochází při napětí 230 V proud 3,8 A. Určete odpor vařiče. Proč musí být vařič vždy zcela ponořen do vody?
+U = 230V
+I = 3,8A
+R = U/I
+R = 230 / 3,8
+R = 60,52 $\Omega$
+
+
+2) Tři stejné rezistory o odporu 2 kΩ jsou spojeny dvojím způsobem a) a b) podle obr. 5-13.
+Určete odpory obvodů.
+a]
+$R = R3 + \frac{1}{R1+R2}$
+$R = 2 000 + \frac{1}{4000}$
+$R = 2000,00025 \Omega$
+
+$\frac{1}{R} =  \frac{1}{R1}+\frac{1}{R2+R3}$
+$\frac{1}{R} = 0,001 \Omega + 0,002 \Omega$
+$\frac{1}{R} = 0,003 \Omega$
+$R = 333,3 \Omega$
+
+ 
+
+3) Čtyři stejné rezistory o odporu 1 kΩ jsou spojeny dvojím způsobem a) a b) podle obr. 5-14.
+Dokažte, že celkový odpor obou obvodů je stejný.
+
+$\frac{1}{R}=\frac{1}{R1+R2}+\frac{1}{R3+R4}$
+$\frac{1}{R}=\frac{1}{2+2}+\frac{1}{1+1}$
+$\frac{1}{R}=\frac{3}{4}$
+$R = 1,33 \Omega$
+
+
+
+$R=($
+
+
+
+
+
+4) Čtyři stejné rezistory jsou spojeny dvojím způsobem podle obr. 5-15. Určete, při kterém spojení má obvod větší celkový odpor.
+
+
+
+
+
+Zdroj příkladů:
+Sbírka úloh z fyziky (spn 1988)
