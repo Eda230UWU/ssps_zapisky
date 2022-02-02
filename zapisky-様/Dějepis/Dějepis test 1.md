@@ -30,3 +30,18 @@
 9. 1. Svatá říše římská národa německého
 	2. Německé císařství (zaniká na konci WWI)
 	3. Hitlerova třetí říše
+
+---
+
+1. nrvim
+2. Američani vědeli kde jssou
+3. Slavný vojevůdce SŘŘ
+4. a. leningrad, b. Moskva, c. Stalingrad
+5. Rasputica, Ruská propaganda
+6. nevím
+7. S Německem, Finové se bránili Sovětskému svazu
+8. Jmenovalo se po vůdci SSSR
+9. Volgograd, Stalingrad, Volgograd
+10. Čeští legionáři, nevim
+11. Největší tanková bitva všech dob 
+12. Náhražky jídla, Zásobování přes Ladožské jezero

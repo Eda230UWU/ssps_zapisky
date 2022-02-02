@@ -24,7 +24,87 @@ Procesor, RAM, Grafická karta
 ## Jižní můstek
 IO, SATA, monitory, LANka
 
+I/O konektory
+
 
 
 
 ---
+
+# BIOS
+
+Basic input output system
+Je uložen na čipu na základní desce
+Startuje vždy při zapnutí počítače
+
+Rozpoznává a aktivuje komunikace všeho hardwaru na motherboardu
+testuje funkčnost součástí PC, POST (Power on self test)
+Zavádí operační systém ze spouštěcího oddílu pevného disku
+"Tlumočník" mezi HW a OS
+
+```ad-note
+title: UEFI
+color: 200, 0, 0
+nový standard BIOSu
+
+podpora secure boot
+-  kontrola certifikovaných SW komponentů
+- při zavádění OS jsou kontrolovány elektronické klíče (certifikáty)
+
+ ukončení zpětné kompatibility s 16bitovými procesory 8086
+ lepší využití schopností nových procesorů
+ 
+mohou zavádět OS z pevných disků větších než 2TB
+```
+
+
+## Tři vrstvy BIOS
+1. 
+Je z výroby uložena do ROM paměti
+(Dnes už Flash ROM -> Jednoduší aktualizace)
+musí být automaticky k dispozici ihned po startu OS
+jsou v ní uložené neměnitelné vlastnosti a nastavení PC
+detekuje připojení HW
+
+2. 
+tvoří čip CMOS, energeticky zavislá pamět (potřebuje baterii na MB)
+ukládá se do ní nastavení programu SETUP (konfigurace volitelných vlastností BIOS resp. HW)
+
+3. 
+Ovladače jádra OS
+zavádějí se v průběhu spouštení systému
+ovladače jsou uloženy
+- na základní desce
+- v rozšiřujících kartách
+- v pamětech
+- v procesoru
+
+## POST (Power on self test)
+testuje config systému
+hledá přídavné karty (jejich ROM-BIOS)
+porovnává zjištěnou konfiguraci s CMOS pamětí
+v případě shody pokračuje v zavádění OS
+chyby hlásí výpisem či zvukem (tzv. Beep Code)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -86,28 +86,32 @@ R = 60,52 $\Omega$
 2) Tři stejné rezistory o odporu 2 kΩ jsou spojeny dvojím způsobem a) a b) podle obr. 5-13.
 Určete odpory obvodů.
 a]
-$R = R3 + \frac{1}{R1+R2}$
-$R = 2 000 + \frac{1}{4000}$
-$R = 2000,00025 \Omega$
+$R = R3 + \frac{1}{\frac{1}{R2}+\frac{1}{R3}}$
+$R = 2 000 + \frac{1}{0,001}$
+$R = 3000 \Omega$
 
+b
 $\frac{1}{R} =  \frac{1}{R1}+\frac{1}{R2+R3}$
-$\frac{1}{R} = 0,001 \Omega + 0,002 \Omega$
-$\frac{1}{R} = 0,003 \Omega$
-$R = 333,3 \Omega$
+$\frac{1}{R} = 0,001 \Omega + 0,0005 \Omega$
+$\frac{1}{R} = 0,0015 \Omega$
+$R = 666,66 \Omega$
 
  
 
 3) Čtyři stejné rezistory o odporu 1 kΩ jsou spojeny dvojím způsobem a) a b) podle obr. 5-14.
 Dokažte, že celkový odpor obou obvodů je stejný.
-
+a
 $\frac{1}{R}=\frac{1}{R1+R2}+\frac{1}{R3+R4}$
-$\frac{1}{R}=\frac{1}{2+2}+\frac{1}{1+1}$
-$\frac{1}{R}=\frac{3}{4}$
-$R = 1,33 \Omega$
+$\frac{1}{R}=\frac{1}{2000+2000}+\frac{1}{1000+1000}$
+$\frac{1}{R}=0,00025+0,0005$
+$R = 3333,333 \Omega$
 
-
-
-$R=($
+b
+$R=(\frac{1}{R1}+\frac{1}{R2})+(\frac{1}{R3}+\frac{1}{R4})$
+$R = (0,0005+0,0005)+(0,001+0,001)$
+$R = 0,001+0,002$
+$R = 0,0003$
+$R =3333,333\Omega$ 
 
 
 
@@ -116,8 +120,18 @@ $R=($
 4) Čtyři stejné rezistory jsou spojeny dvojím způsobem podle obr. 5-15. Určete, při kterém spojení má obvod větší celkový odpor.
 
 
+a
+$R = R1+R2+\frac{1}{\frac{1}{R3}+\frac{1}{R4}}$
+$R = 1000+1000+\frac{1}{0,002}$
+$R = 2000 + 500$
+$R = 2500 \Omega$
 
+b
 
+$R=R1+\frac{1}{\frac{1}{R2}+\frac{1}{R3+R4}}$
+$R=1000+\frac{1}{0,0015}$
+$R=1000+666,66$
+$R = 1666,666 \Omega$
 
 Zdroj příkladů:
 Sbírka úloh z fyziky (spn 1988)

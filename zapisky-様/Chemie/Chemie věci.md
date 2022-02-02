@@ -12,3 +12,6 @@ Střelný prach
 10% C
 
 ---
+
+
+## Stechiomterické výpočty

@@ -1,4 +1,4 @@
-## Vazebná energie
+a## Vazebná energie
 energie, které se uvolní při vzniku vazby
 
 ## Disociační energie
