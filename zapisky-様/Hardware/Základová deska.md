@@ -118,15 +118,79 @@ CMOS battery state low
 
 ## Sběrnice
 
+sbírá data a příkazy a drstribuuje je mezi perifériemi a vnitřníkomponenty ZD
+
+nesdílená sběrnice -> přenáší pouze jistý typ informace
+sdílené sběrnice -> stejné adresové a datové vodiče pro přenos různých typů informace (nutnost režie, ovykle pmocí řadiče)
+
+#### Řadiče sběrnic
+řídí přenosy dat po sběrnicích
+periférie s vyšší prioritou má přednost
+
+
+
+soustava měděných vodičů
+vzájemně propojuje jednotlivé komponenty
+přenáší se data a adresy dat (datová a adresová sběrnice)
+datová propustnost ovlivňuje výkon systému
+
+	Parametry ovlivňující výkon sběrnic
+	- šířka přenosu dat
+	- rychlost přenosu dat
+	- datová propustnost
+
+další rozdělení:
+
+podle přenosu:
+- sériově
+- paralérní
+
+podle směru:
+- jednosměrné
+- obousměrné
+
+podle synchronizace:
+
+### Synchroní
+- funguje na základě stanovených pravidel (návaznost na CLK)
+- komunikace probíhá v reálném čase
+- mimo datový kanál existuje ještě synchronizační kanál -> řídící sběrnice
+- při komunikaci na sebe zařízení vzájemně čekají
+- pomalejší technologicky náročnější ale jistější způsob komunikace
+
+### Asynchorní
+- komunikace není závislá na čase
+- zařízení spolu komunikují pouze v případě potřeby, potvrzují si jen přijetí dat
+- jednoduchý aa rychlý systém přenosu dat
+
+### Multimastering
+- možnosti, kdy provoz sběrnice může řídit některá z rozširujících karet
+- karta vykonává část práce za CPU, který nemusí provozem sběrnice zdržovat
+- režim je velmi výhodný v případě, kdy si mezi sebou vyměňuji data dvě periferie
+
+#### PCI
+Peripheral component interconnect
+
+- Používá paralelní přenos dat (šířka 32 nebo 64 bitů u verze PCI-X)
+- rychlost sběrnice je 33MHz pro 32bit resp. 66MHz a 133MHz pro 64bit
+- v jednom počítači může být více na sobě závislých PCI sběrnic
+- synchronní sběrnice, možno použít nejen v PC ale např i v Macintosh
+- nejvyšší teoretická datová propustnost je 1066MB/s
+
+#### AGP
+accelerated graphics port
+
+- nízká propustnost PCI sběrnice vedla k vytvoření specializovaného portu AGP určeného pro grafické karty
+- AGP slot není klasická sběrnice, protože lze připojit pouze jedno zařízení
+
+## Typy sběrnic
+- systémová CPU -- chipset
+- paměťová CPU -- RAM
+- rozšiřující PCI, PCIe 1x, 2x, 4x
+- grafická pro grafické karty typu PCIe 16x
+
 
 ---
-
-
-
-
-
-
-
 
 
 
