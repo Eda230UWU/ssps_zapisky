@@ -45,3 +45,37 @@
 10. Čeští legionáři, nevim
 11. Největší tanková bitva všech dob 
 12. Náhražky jídla, Zásobování přes Ladožské jezero
+
+---
+
+1. snaží se prosadit své zájmy
+2. nepodařilo se jim výzmamě poškodit základu či letadlové lodě
+3. Čistě letecká bitva
+4. letadlové lodě
+5. zvednutí morálky
+6. spojenecká letecká základna
+7. invaze na Sicílii
+8. Němci si nemysleli, že by byl útok tak pravděpodobný v Normandii jako v kanálu La manche
+9. x
+10. Omaha beach
+11. atentát na Hitlera ze strany Německých důstojníků, nedostatečná exploze, Hitler měl štěstí
+12. Koncentrovaná bombardace třístivými a zápalnými pumami, které způsobí rozsáhlé požáry
+13. Nebyl to Vojenský cíl 
+
+
+
+---
+
+1. Kolaborant, holá hlava, Dříve Masarykovec
+2. Pracovní tábor Lety a Terezín, vyhlazeni
+3. Student medicíny zastřelen při demonstraci, jeho smrt byla jedním z důvodů demonstrací, Uctění památky Opletala před sametovou revolucí
+4. ÚVOD, Sabotáže, Informování západu, 
+5. Zaplatili životem za svojí statečné chování, Josef Mašín, Josed Balabán, Václav Morávek
+6. Napadení sovětského svazu
+7. Kobylická střelnice, Vladislav Mančura 
+8. průkaz odboje v čechách
+9. pravidelnost cesty Heidrycha, jezdil tudy každý den ve stejný čas, vůz musel spomalit
+10. Kubiš - Kulometčík, Gabčík - granát
+11. Kostel Sv. Cyrila a Metoděje
+12. Akce nebyla plánovaná komunisty 
+13. 

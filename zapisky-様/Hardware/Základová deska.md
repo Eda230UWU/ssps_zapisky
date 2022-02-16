@@ -20,14 +20,18 @@ výběr rozhoduje o další možnosti upgrade celého počítače
 ## Severní můstek
 Procesor, RAM, Grafická karta
 
+Rychlé přesuny dat mezi klíčovými perifériemi
+- grafická karta
+- paměti
+
+
 
 ## Jižní můstek
-IO, SATA, monitory, LANka
+Obsahuje ostatní periférie
 
-I/O konektory
-
-
-
+- Pevné disky 
+- USB
+- Zajišťuje služby BIOSu
 
 ---
 
@@ -85,6 +89,35 @@ hledá přídavné karty (jejich ROM-BIOS)
 porovnává zjištěnou konfiguraci s CMOS pamětí
 v případě shody pokračuje v zavádění OS
 chyby hlásí výpisem či zvukem (tzv. Beep Code)
+
+
+### Příklady chybových hlášení
+No CPU installed
+System failed CPU
+System failed memory test
+No keyboard detected
+CPU temperature too high
+CPU fan failed
+CPU voltage out of range
+Address Line short
+CMOS battery state low
+
+-> Beep codes -> Vypípáva chyby
+
+---
+
+## Chipset
+ #### Hlavní  řídící obvod zíkladní desky
+ Vnitřní hodiny počítače
+ Generátor pracovního cyklu
+ je zdrojem taktovacího signálu pro CPU
+ udává takt procesoru, sběrnici i perifériím
+ řídí komunikaci na základní desce
+
+ Northbrdige a South Bridge
+
+## Sběrnice
+
 
 ---
 
