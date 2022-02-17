@@ -9,3 +9,12 @@
 7.a
 11/5
 this, long, weight, size, much, how, whose
+
+---
+
+1) D
+2) C
+3) x
+4) x
+5) C
+6) A
