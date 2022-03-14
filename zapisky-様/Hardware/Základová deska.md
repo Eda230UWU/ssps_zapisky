@@ -190,10 +190,52 @@ accelerated graphics port
 - grafická pro grafické karty typu PCIe 16x
 
 
+
+### PCI express
+PCIE-E
+- vytvořena jako náhrada za starší standardy PCI (PCI-X) a AGP
+- označení sběrnice není zcela správné, protože se jedná o dvoubodové spoje
+- data jsou přenášena bez potřeby adresy (adresace zařízení)
+- používá sériový přenos  dat (na rozdíl od svých předchůdců)
+- full duplex, komunikace oběma směry najednou skrze dva vodiče (linka)
+- verze jsou označovány podle počtu těchto linek (x1, x2, x4, x8, x16)
+- nezávislá komunikace mezi jednotlivými zařízeními
+- nemusí se čekat na uvolnění sběrnice pro jiné zařízení
+- nejvyšší teoretická datová propustnost verze 3.0 je 16GB/s v každém směru
+
+
+
 ---
 
+## Standarty a formáty
+
+#### Co se skrývá pod pojem "standart formátu PC"?
+- všechny součásti v počítači musí být mezi sebou kompatibilní
+- rozměry a rozmístění jednotlivých komponent, sběrnic a jejich výstupů
+- elektrické napětí
+- pro každý stadard existuje několik variant
+
+#### Standart PC/AT (advanced technology)
+starý dnes již nepoužívaný formát
+formát uvedla dva roky po začátku sériové výroby procesorů 80286 firma IVM)změnil se napájecí zdroj -> Vyšší výkon
+přímo spínatelný zdroj
+
+#### Standard PC/ATX (advanced technology extended)
+
+- aktuální standard od roku 1995
+- nová napěťová větev 3,3V a počítač je napájen i po vypnutí (Standby mode)
+- SW řízení napájení i spínání (wake on Lan), dále pomocí speciálních obvodů na základní desce
+- změnily se rozměry a uspořádání prakticky všech komponent počítače
+- vysoký výkon napájecích zdrojů
 
 
+#### Standard BTX (Balanced Technology Extended)
+- slepá vývojová větev firmy intel z roku 2004/05
+- i když je v ohledech lepší tak se nikdy neprosadil
+
+
+
+---
 
 
 

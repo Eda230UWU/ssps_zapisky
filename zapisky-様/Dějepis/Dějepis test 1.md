@@ -79,3 +79,31 @@
 11. Kostel Sv. Cyrila a Metoděje
 12. Akce nebyla plánovaná komunisty 
 13. 
+
+---
+
+1. pomník, pamětní areál
+2. Kostel Sv. konstantina a metoděje, spáchají sebevraždu
+3. Tobruk, Sokolov, Kyjev, Dukly
+4. Na množství nehleďte -> Tož sú boží bojovnící
+5. Frantisek Faitl
+6.  Ludvík Svoboda, Tesařík, Brušík, Sochor
+zlatá hvězda hrdiny  sovětského svazu
+7. USA, UK a USSR, neutrální půda -> nikdo neměl výhodu svého uzemí
+8. Slezko
+9. Na Krymu, rozdělení na 4. okupační zóny (pro francii UK, USSR a USA)
+10. Kvůli sférách vlivu, demarkační linie
+11. Podkarpatská rus
+12. ?
+---
+
+1. Chtěli dosadit vlastní vládu
+2. SIlní němečtí obránci
+3. Nebyli spojováni s němci
+4. Mají početní převahu a hraje jim do karet počasí
+5. Torgau
+6. Kvůli Demarkační linii
+7. úprava fotky pro západní tisk
+8. námořní pěchota
+9. nevhodný terén 9
+10. 
