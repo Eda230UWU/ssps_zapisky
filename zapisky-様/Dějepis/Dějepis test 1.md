@@ -105,5 +105,5 @@ zlatá hvězda hrdiny  sovětského svazu
 6. Kvůli Demarkační linii
 7. úprava fotky pro západní tisk
 8. námořní pěchota
-9. nevhodný terén 9
-10. 
+9. nevhodný terén (bomba musí vybuchnout několik desítek metrů nad zemí aby byla účinná)
+10. postavena Janem Letzlem, českým architektem

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-様/Dějepis/Dějepis test 1.md",
+            "file": "zapisky-様/Hardware/Úložistě.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Dějepis/Dějepis test 1.md",
+                "file": "zapisky-様/Hardware/Úložistě.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
+    "zapisky-様/Hardware/Úložistě.md",
+    "zapisky-様/Hardware/Opakování a vyhodnocení testu.md",
+    "zapisky-様/Hardware/Input a Output.md",
+    "zapisky-様/Matematika/Funkce.md",
     "zapisky-様/Dějepis/Dějepis test 1.md",
+    "zapisky-様/Hardware/Pojmy.md",
+    "zapisky-様/Hardware/IQRF.md",
+    "zapisky-様/Hardware/CPU.md",
     "zapisky-様/Dějepis/24.11.md",
-    "zapisky-様/Dějepis/Referáty.md",
-    "zapisky-様/Fyzika+Elektrotechnika/ELEKTŘINAAAAAA.md",
-    "zapisky-様/Fyzika+Elektrotechnika/Elektřina.md",
-    "zapisky-様/Fyzika+Elektrotechnika/Pohyb.md",
-    "zapisky-様/Fyzika+Elektrotechnika/Ilustrace toku elektrického proudu.md",
-    "zapisky-様/Fyzika+Elektrotechnika/goniometrické funkce.md",
-    "zapisky-様/Matematika/Rovnice s více mnohočleny.md",
-    "zapisky-様/Matematika/Funkce.md"
+    "zapisky-様/Dějepis/3. hodina.md"
   ]
 }
