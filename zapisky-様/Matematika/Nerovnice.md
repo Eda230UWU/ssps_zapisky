@@ -28,4 +28,4 @@ $-4x \leq 8$
 $-x \leq 2$
 $x \geq-2$
 
-$K = \lange -2 ; \infty$
+$K = \langle -2 ; \infty)$
