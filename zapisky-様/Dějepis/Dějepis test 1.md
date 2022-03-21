@@ -107,3 +107,11 @@ zlatá hvězda hrdiny  sovětského svazu
 8. námořní pěchota
 9. nevhodný terén (bomba musí vybuchnout několik desítek metrů nad zemí aby byla účinná)
 10. postavena Janem Letzlem, českým architektem
+
+---
+
+1. alternativa pro lepší rozddělení společnosti
+2. kvůli volbám, Churchill prohrál volby
+3. Demilitarizace, demokratizace, denacifikace, dekartelizace
+4. popravit důstojníky a vojáky
+5. 
