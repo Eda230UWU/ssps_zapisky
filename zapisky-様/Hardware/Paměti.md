@@ -28,14 +28,30 @@ kapacita roste směrem od procesoru
 ---
 
 ### Rozdělení pamětí
+## Vnitřní a Vnější pamět
+Vnitřní jsou závislé na energii
 
-ROM (Read only memory)
+### ROM (Read only memory)
+jen pro čtení, většinou se programuje přímo u výrobce
+nedá se přeprogramovat, je statická a energeticky nezávislá
+
+PROM
+programovatelná, energeticky nezávislá
+programuje se na speciálním zařízení, princip destrukce vodivých cest
+
+EPROM 
+
 RWM (Read Write memory)
+
+
 SRAM (statická RAM)
+
+
 DRAM (dynamická RAM)
 
 x
 
+Vnější nejsou závislé na energii
 polovodičové:
 Flash
 SSD
@@ -48,3 +64,15 @@ Optické:
 CD
 DVD
 BD
+
+---
+
+Registry > Vyrovnávací paměti > Operační paměti > SSD a flash disky > HDD > Optické mechaniky > Magnetické pásky
+
+Roste kapacita a klesá cena
+
+
+---
+
+
+
