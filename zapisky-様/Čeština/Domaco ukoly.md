@@ -58,4 +58,17 @@ Sv. Prokop
 Dabel upoutany na reteze na symbol vyhanni dabla
 
 6. text je zkracena verze animovaneho filmu
-7. 
+
+---
+
+1.
+a modlitebna, Dykova ulice Praha 10
+b dub u hradu Lichnice
+c prot. církev v čR
+d město založené husity
+
+2
+aa Republiku si rozvracet nedáme
+a ?
+b velké písmeno, Pravda je Ježíš, Husův citát
+c slovo Kurva bylo napsané v knize

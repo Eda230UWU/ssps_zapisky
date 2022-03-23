@@ -29,3 +29,14 @@ $-x \leq 2$
 $x \geq-2$
 
 $K = \langle -2 ; \infty)$
+
+---
+
+$\frac{5-x}{x-1}-3 \geq 2$
+$5-x - 3x - 3 \geq 2x - 2$
+$2 - 4x \geq 2x - 2$
+$4 \geq 6x$
+$6x \leq 4$
+$x \leq 4/6$
+$x \leq 2/3$
+$$
