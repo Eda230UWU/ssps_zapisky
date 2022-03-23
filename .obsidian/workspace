@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-様/Matematika/Kvadratické rovnice.md",
+            "file": "zapisky-様/Hardware/Paměti.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Matematika/Kvadratické rovnice.md",
+                "file": "zapisky-様/Hardware/Paměti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
+    "zapisky-様/Hardware/Paměti.md",
+    "zapisky-様/Čeština/Jan Hus.md",
     "zapisky-様/Matematika/Kvadratické rovnice.md",
     "zapisky-様/Matematika/Rovnice.md",
     "zapisky-様/Matematika/Rovnice s více mnohočleny.md",
@@ -96,8 +98,6 @@
     "zapisky-様/Dějepis/Dějepis test 1.md",
     "zapisky-様/Matematika/Výroková logika.md",
     "zapisky-様/Matematika/Odmocniny.md",
-    "zapisky-様/Matematika/Nejmenší násobek a největší dělitel.md",
-    "zapisky-様/Matematika/Mocniny.md",
-    "zapisky-様/Matematika/Množiny - Intervaly.md"
+    "zapisky-様/Matematika/Nejmenší násobek a největší dělitel.md"
   ]
 }
