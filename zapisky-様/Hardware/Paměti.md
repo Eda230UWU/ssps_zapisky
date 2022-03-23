@@ -39,15 +39,28 @@ PROM
 programovatelná, energeticky nezávislá
 programuje se na speciálním zařízení, princip destrukce vodivých cest
 
-EPROM 
+EPROM (Eraseable PROM)
+přepisovatelná, vymazání informací se provádí ultrafialovým zařízením
+
+EEPROM (Electrically Eraseable PROM)
+dá se mazat a programovat elektrickým prodem
 
 RWM (Read Write memory)
 
+## RAM (RAandom acces memory)
+hlavní součástka je unipolární tranzistor a kondenzátor
+energeticky závislá (kondenzátor se vybíjí)
 
 SRAM (statická RAM)
-
+informaci nese bistabilní
+nemusí se refreshovat je rychlejší
+vyšší cena, používa se u vyrovnávacích pamětí
 
 DRAM (dynamická RAM)
+informaci nese stav kondenzátoru (nabitý x vybitý)
+samovolné vybíjení, nutno obnovovat informace
+menší počet tranzistorů == větší paměť
+hlavní operační paměť
 
 x
 
