@@ -39,4 +39,53 @@ $4 \geq 6x$
 $6x \leq 4$
 $x \leq 4/6$
 $x \leq 2/3$
-$$
+
+
+
+
+---
+
+$x \ne 3$
+$3-x < 0$
+$3-x > 0$
+$x < 3$
+$x > 3$
+
+
+
+$x-2 + 6 -2x \leq 7$ 
+$-x + 4 \leq 7$
+$-x \leq 3$
+$x \geq -3$
+$K \in \langle-3, 3) \cup (3, \infty)$
+
+
+$K = $
+
+
+---
+
+$x \ne 1$
+
+$\frac{5-x}{x-1}-3 \geq 2$
+$\frac{5-x}{x-1}-5 \geq 0$
+$\frac{5-x + 5(x-1)}{x-1}$
+$5-x + 5x - 5 / x-1$
+$4x/x-1 \geq 0$
+1.
+$4x \geq 0$
+$x \geq 0$
+$x-1 < 0$
+$x < 1$
+$x_1 \in \langle0, 1)$
+
+
+
+2.
+$4x \leq 0$
+$x-1 > 0$
+$x \leq 0$
+$x > +1$
+$x_2 \in \varnothing$
+
+$K = \{\langle 0, 1) \}$

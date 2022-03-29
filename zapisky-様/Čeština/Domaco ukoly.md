@@ -72,3 +72,47 @@ aa Republiku si rozvracet nedáme
 a ?
 b velké písmeno, Pravda je Ježíš, Husův citát
 c slovo Kurva bylo napsané v knize
+
+---
+
+1.
+a) Noty jsou jinak zapisovány
+b) Husité bojují za boží vůli
+2.
+- kdo
+- historismus
+- Bojovnící za vůli boží
+- metonymie
+- archaismy
+- historismy
+- chránit
+- hrrrr na ně,
+3.
+Defenestrace, vyhození někoho z okna, Přažská defenestrace 1419
+dát mu co proto
+Jezdecká socha na Vítkově, Jan Žižka z Trocnova
+![Pomník Jana Žižky na Vítkově – Wikipedie](https://upload.wikimedia.org/wikipedia/commons/9/90/Jan_Zizka_Vitkov.jpg)
+
+Husité byla armáda plná venkovanů, stejně vyhráli většinu bitev 
+Rabování a vykrádání
+
+trebušet, vozová hradba, 
+
+4.
+- Literární dílo, šíření náboženšví a politických ideologií
+- Zákaz náboženských činností na území
+- Filozofická škola
+- Dekret od Jana Husa, který upravoval hlasování na školách ve prospěch lidí
+- Kazatelé?
+- Výklad textu, nejčastěji biblického
+- soubor duchovních písní určených pro křesťansou bohoslužbu
+- umění sporu, literární žánr
+- jednohlasný zpěv
+- program Husitů k reformé církve
+- ?
+- zdvojenné písmeno jako ch
+- člověk, který má jiný názor než církev (obecně vystupuje proti církvi)
+- skladby pro krále Zikmunda Lucemburského
+- sbírka písní v latině a češtině
+- kronika psaná v latině od spisovatele Vavřince z Březové
+- Významný představitel české reformace

@@ -121,3 +121,19 @@ zlatá hvězda hrdiny  sovětského svazu
 9. ve zbrojení, dobytí vesmíru
 10. leteccký most, zásobování letecky
 11. Odpoved na vytvoreni NATO
+
+
+---
+
+
+
+1.  součást košického vládního programu, pouze 4 politikcé strany, komunisté vyhravájí
+2. národní zákony, odsun Němců
+3. odplata za Heidrichiádu či Mnichov
+4. cca 25000 lidí
+5. antifašisti či odbornící
+6. ?
+7. popravovalo se bez odvolání ve stejný den jako rozsudek
+8. podílel se na Heidrichiádě
+9. povinná volební účast,, aby byla co největší účast
+10. stát je lépe zprovozní 
