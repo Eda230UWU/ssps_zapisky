@@ -87,5 +87,53 @@ Roste kapacita a klesá cena
 
 ---
 
+Moduly operační paměti RAM
+historické typy modulů
+
+- DIPP
+- SIPP
+- SIMM 30-pin
+- SIMM 72-pin
+- DIMM SDRAM
+- DIMM DDR
+
+SIMM (single in-line memory module)
+DIMM (dual in-line memory module)
+SDR (single data rate) - využívá synchronní signál s kmitočtem základní desky
+DDR (double data rate) - data jsou během jednoho cyklu přenášena dvakrát
+
+---
+# časování RAM
+
+Kromě frekvence a kapacity nás zajímá časování
+
+#### CL (CAS latency)
+-RAS (Row Acces Strobe) = adresa řádku
+-CAS (Column Access Strobe) = adresa sloupce
+	chceme co nejmenší číslo
+dáno technologickým možnostmi paměti/chipsetu/procesoru
+
+## 9-9-9-27 (TCL - TRCD - TRP - TRAS)
+TCL = TAS latency
+TRCD = RAS to CAS delay - zpoždění mezi výběrem řádku a adresací sloupce
+TRP = RAS Precharge - zpoždění po výběru řádky
+TRAS = Row Acces - doba potřebná pro adresaci řádku
+
+---
+
+###### Vyrovnávací pamět CACHE
+data se v cache uchovávají podle pravděpodobnosti použití
+cache uvolnuje pamět podle různých algoritmů
+
+###### CMOS RAM (Complementary Metal-Oxide Semiconductor RAM)
+polovodičová pamět
+používá se například k ukládání conf BIOS
+
+
+
+
+
+
+
 
 
