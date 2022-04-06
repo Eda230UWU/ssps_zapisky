@@ -137,3 +137,14 @@ zlatá hvězda hrdiny  sovětského svazu
 8. podílel se na Heidrichiádě
 9. povinná volební účast,, aby byla co největší účast
 10. stát je lépe zprovozní 
+
+---
+
+1. a
+2. a
+3. Vybrané strany
+4. a
+5. a
+6. a
+7. a
+8. a

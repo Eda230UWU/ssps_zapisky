@@ -89,3 +89,11 @@ $x > +1$
 $x_2 \in \varnothing$
 
 $K = \{\langle 0, 1) \}$
+
+---
+
+
+$2x-3+y \leq 0$
+$2x-2 \geq y+3$
+$2x \leq 3 - y$
+$2x \geq y+5$

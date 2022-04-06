@@ -47,7 +47,7 @@ dá se mazat a programovat elektrickým prodem
 
 RWM (Read Write memory)
 
-## RAM (RAandom acces memory)
+## RAM (Random acces memory)
 hlavní součástka je unipolární tranzistor a kondenzátor
 energeticky závislá (kondenzátor se vybíjí)
 
@@ -130,10 +130,46 @@ polovodičová pamět
 používá se například k ukládání conf BIOS
 
 
+---
+## HDD
+Hard disk drive
+elektromagnetický princim, mechanický disk
+náchylný na otřesy
+
+### Základní části pevného disku
+deky s magneticky citlivým povrchem (plotny)
+Raménko se čtecí a záznavou hlavou
+vychylovací cívky
+hnací motor s ložisky
+elektronika disku
 
 
+### Plotny
+rozměry, 2,5'' a 3,5''
+HDD může mít několik ploten nad sebou
+povrch musí být dokonale hladký
+5400 - 15000 ot/min 
+rychlejší určené pro servery
+
+### Cache
+stejný účel jako jinde
+Kapacita kolem 64MB (max 256MB)
 
 
+### SCSI (small computer system interface)
+integrován na desce nebo jako přídavná karta do slotu
+vytváří v PC samostatný systém, nezatěžuje hlavní sys
+umožňuje připojit externí zařízení
+
+### SATA
+serial ATA
+sériové rozhraní
+rychlá komunikace (6GHz frekvence)
+přímé připojení - každý disk má svůj port řadiče
 
 
+---
+## Připojení HDD
+EIDE kabelem
+konektory SCSI
 
