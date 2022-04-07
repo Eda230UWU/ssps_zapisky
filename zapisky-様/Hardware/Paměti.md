@@ -167,6 +167,15 @@ sériové rozhraní
 rychlá komunikace (6GHz frekvence)
 přímé připojení - každý disk má svůj port řadiče
 
+liší se přeedvším maximální teoretickou rychlostí
+3revize
+SATA 1.0
+SATA 2.0
+SATA 3.0
+
+
+
+
 
 ---
 ## Připojení HDD

@@ -5,6 +5,18 @@
 první větvení, poté druhé větvení a potom abeceda (přednosti)
 čislujeme tak abychom měli co nejblíže dvě větvení, název sestavíme abecedně (3-ethyl-1-methylcyklopentan)
 
+1. mono
+2. di
+3. tri
+4. tetra
+5. penta
+6. hexa
+7. hepta
+8. okta
+9. nona
+10. deka
+
+
 1. methan
 2. ethan
 3. propan
@@ -59,10 +71,11 @@ alkohol koncovka ol
 ---
 
 
-1. Prokop Drtina, Petr Zenkl
-2. Aby položili vládu
-3. ?
-4. Sjednocení s KSČ, nepodal demisi
-5. Vítězný únor
-6. Černinský palác, 10. březen 1948, Jan Masaryk byl nalezen mrtev na dvoře
-7. mnichovská dohoda a únorový převrat
+
+3,4,4-trimethyl-penten
+
+2-ethylpent-2-en
+
+4,7-dimethylokta-2,5-dien
+
+6-ethyl-7-methylnona-4-en
