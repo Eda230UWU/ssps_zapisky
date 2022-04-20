@@ -140,11 +140,13 @@ zlatá hvězda hrdiny  sovětského svazu
 
 ---
 
-1. a
-2. a
-3. Vybrané strany
-4. a
-5. a
-6. a
-7. a
-8. a
+1. ÚV KSČ, totalitní
+2. zabránit odporu ze strany zájmových spolků
+3. těžký a zbrojní průmysl, produkce je pdo cenou prodávána do SSSR
+4. rovnoprávnost k muži, zapojení do zemědělství, průmyslu
+5. bohatí a vlivní sedláci, měli veliké slovo a vliv
+6. lehčí práce pro lidi v zemědělství, 
+7. směr k nějakému rajskému stavu, rovnost, pokrok, revoluce
+8. Stalin je vnímán jako polobůh, lenin byl zabalzamován což není rovnoprávné
+9. 7 let, byl nežádoucí po smrti Stalina
+10. Socialistický realismus, srozumitelná forma pro všechny
