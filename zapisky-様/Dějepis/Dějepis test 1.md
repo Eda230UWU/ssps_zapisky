@@ -150,3 +150,16 @@ zlatá hvězda hrdiny  sovětského svazu
 8. Stalin je vnímán jako polobůh, lenin byl zabalzamován což není rovnoprávné
 9. 7 let, byl nežádoucí po smrti Stalina
 10. Socialistický realismus, srozumitelná forma pro všechny
+
+
+---
+
+ 1. okupace Sověty
+ 2. Stažení sovětů, reforma hospodářství, uvolnění režimu
+ 3. Rudé hvězdy, sochy Stalina, prvky na vlajce se sovětskými symboly
+ 4. tajná policie
+
+6. Vichr, maršál Koněv
+7.  x , odsouzen k smrti
+9. vyvrcholení pádu komunismu v Maďarsku
+10. Zápas ve vodním pólu Sověti proti Maďarům
