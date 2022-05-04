@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-様/Hardware/Paměti.md",
+            "file": "zapisky-様/Hardware/GPU.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Hardware/Paměti.md",
+                "file": "zapisky-様/Hardware/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
+    "zapisky-様/Hardware/GPU.md",
     "zapisky-様/Hardware/Paměti.md",
     "zapisky-様/Dějepis/Letadla 2ww.md",
     "zapisky-様/Dějepis/Zbraně WW1.md",
@@ -97,7 +98,6 @@
     "zapisky-様/Chemie/Alkoholy a Fenoly.md",
     "zapisky-様/Matematika/Funkce.md",
     "zapisky-様/Matematika/Soustavy více rovnic.md",
-    "zapisky-様/Matematika/Rovnice s více mnohočleny.md",
-    "zapisky-様/Matematika/Nerovnice.md"
+    "zapisky-様/Matematika/Rovnice s více mnohočleny.md"
   ]
 }

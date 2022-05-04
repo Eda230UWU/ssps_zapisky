@@ -184,17 +184,5 @@ konektory SCSI
 
 ---
 
-# GPU
-Grafické karty
 
-Výpočet grafického obrazu a jeho zobrazení na monitoru, displeji, projektoru, nebo televizní obrazovce
 
-Výrobci procesorů - AMD a Nvidia
-Výrobci karet - ASUS, Gygabyte a další
-
----
-
-#### karta do sběrnice (Dedikovaná) x integrovaná
-Dedikovaná - sběrnice -> PCI-E 16x, AGP, PCI
-
-integrovaná jako grafické jádro procáku, dříve v chipsetu (severní můstek)
