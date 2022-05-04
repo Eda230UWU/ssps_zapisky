@@ -182,3 +182,14 @@ SATA 3.0
 EIDE kabelem
 konektory SCSI
 
+---
+
+# GPU
+Grafické karty
+
+Výpočet grafického obrazu a jeho zobrazení na monitoru, displeji, projektoru, nebo televizní obrazovce
+
+Výrobci procesorů - AMD a Nvidia
+Výrobci karet - ASUS, Gygabyte a další
+
+karta do sběrnice x integrovaná

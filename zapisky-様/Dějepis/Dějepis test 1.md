@@ -163,3 +163,13 @@ zlatá hvězda hrdiny  sovětského svazu
 7.  x , odsouzen k smrti
 9. vyvrcholení pádu komunismu v Maďarsku
 10. Zápas ve vodním pólu Sověti proti Maďarům
+---
+1. ?
+2. M.A.S.H: A novel about Three Army Doctors
+3. Mobile Army Surgical Hospital, mobilní nemocnice, která se mohla přesunout blíže k frontě, tudíž trvalo menší čas dostat zraněné do nemocnic
+4. Moc se nepřesouvala
+5. Demilitarizovaná zóna
+6. Tepené zacelení
+7. Válka ve Vietnamu
+8. Liberární postoj hlavního hrdiny
+9. Direktor Centra historie medicíny a profesor historie medicíny na Michigenské univerzitě. Kvůli seriálu se rozhodl jít studovat medicínu
