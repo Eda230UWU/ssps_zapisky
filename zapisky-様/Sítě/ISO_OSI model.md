@@ -55,7 +55,7 @@ vygeneruje cíl ARP requestu
 unicast zpráva, oznamuje svojí MAC adresu k IP adrese
 
 
-
+AR
 
 
 ---
