@@ -1,3 +1,5 @@
+---
+
 # Data link layer
 #### LLC
 komunikace s ostatními vrstvami
@@ -17,10 +19,9 @@ Adresace
 Typ
 Control (quality of service)
 
----
+
 Data
 
----
 ### Trailer
 Error detection
 Frame stop
@@ -39,3 +40,22 @@ OUI - organization unique
 Vendor
 
 ## MAC tabulka
+
+# ARP protokol
+Address resolution
+
+
+ARP request - 
+Vygeneruje počítač
+broadcast (ff:ff:ff:ff:ff:ff) - who is 102.168.10.4
+
+
+ARP reply -
+vygeneruje cíl ARP requestu
+unicast zpráva, oznamuje svojí MAC adresu k IP adrese
+
+
+
+
+
+---
