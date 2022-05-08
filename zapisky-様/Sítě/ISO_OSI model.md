@@ -43,7 +43,7 @@ Vendor
 
 # ARP protokol
 Address resolution
-
+počítače a routery (na třetí vrstvě)
 
 ARP request - 
 Vygeneruje počítač
@@ -55,7 +55,38 @@ vygeneruje cíl ARP requestu
 unicast zpráva, oznamuje svojí MAC adresu k IP adrese
 
 
-AR
+ARP table
+IP adresy a MAC adresy
+arp -a = zobrazení tabulky ve windows
+show ip arp = ARP tabulka cisco routeru
+
+
+ARP spoofing - man in the middle útok
+
+
+# TCP 
+TCP handshake = three way handshake
+
+Navazuje a ukončuje spojení
+Transmission Control Protocol
+spolehlivost spojení
+trackování odeslaných a přijatých paketů
+Data mohou přijít ve špatném pořadí -> seřazení
+
+
+# UDP
+Nic neumí
+jak přijdou tak přijdou
+nenavazuje protokol
+Nespolehlivost
+
+# ports
+Well known ports
+Registered ports
+Private and dynamic ports
+
 
 
 ---
+
+data na segmenty na header na packet na frame

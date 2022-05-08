@@ -173,3 +173,41 @@ zlatá hvězda hrdiny  sovětského svazu
 7. Válka ve Vietnamu
 8. Liberární postoj hlavního hrdiny
 9. Direktor Centra historie medicíny a profesor historie medicíny na Michigenské univerzitě. Kvůli seriálu se rozhodl jít studovat medicínu
+---
+
+1. Rozvoj školství, fotografie a filmu
+2. C.K. polní maršálek, Vlasta Burian
+3. v USA
+4. Osvobozené divadlo a film
+5. varování před futurismem
+6. Vtipné historky a překlady
+7. Paříž
+8. Smysl pro detail
+9. Rondokubismus
+10. Pouze potřebné věci k výbavě bytu, na estetiku se tolik nedbalo
+---
+
+1. Německo přišlo o území, které mělo získat zpátky přes mnichovskou dohodu
+2. Velmoci, které zvítězili v 1WW
+3. Udržení klidu v Evropě
+4. Británie nechtěla válku, Francie chtěla moc
+5. Francie měla s ČS úmluvu
+6. Spor Maďarska a Slovenska, Itálie
+7. Zrada Francie
+8. x
+9. anexe, Spojení etnicit němců
+10. Skvělý a výjimečný rozhovor. A velmi poučný. Jsou Donbas a jiná území novodobé Sudety?
+Přijde mi, že vzhledem k tomu, že Hitler měl pro obsazení Sudet stejný důvod jako Putin k obsazení Krymu a Donbasu je otázka položena zbytečně
+
+---
+
+1. Budova českého rozhlasu
+2. Ruští dezertéři, s povstalci při pražském povstání
+3. Vzdát se američanům je lepší, než se vzdát sovětům
+4. 6. května, šeříky zrovna kvetly
+5. Na Smíchově, byl natřen na růžovo a poté odstraněn
+6. Praha
+7. šlo pouze o vyvraždení menšiny
+8. utekl do Argentiny a byl dopaden lovci nacistů
+9. Polsko, přišlo pětinu obyvatesltva
+10. morální zásady a přemýšlení nad nimy
