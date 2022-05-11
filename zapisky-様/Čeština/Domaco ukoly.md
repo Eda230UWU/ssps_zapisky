@@ -116,3 +116,9 @@ trebušet, vozová hradba,
 - sbírka písní v latině a češtině
 - kronika psaná v latině od spisovatele Vavřince z Březové
 - Významný představitel české reformace
+
+---
+
+Líčení, obrazný popis prvního obrazu
+
+Obraz je konstrastní

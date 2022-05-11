@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-様/Dějepis/Dějepis test 1.md",
+            "file": "zapisky-様/Hardware/GPU.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Dějepis/Dějepis test 1.md",
+                "file": "zapisky-様/Hardware/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
+    "zapisky-様/Hardware/GPU.md",
+    "zapisky-様/Dějepis/Referáty.md",
+    "zapisky-様/Čeština/Domaco ukoly.md",
+    "zapisky-様/Čeština/Poznamky k maturite.md",
+    "zapisky-様/Matematika/Soustavy více rovnic.md",
     "zapisky-様/Dějepis/Dějepis test 1.md",
     "zapisky-様/Fyzika+Elektrotechnika/Gravitace.md",
     "zapisky-様/Matematika/Mocniny.md",
     "zapisky-様/Matematika/Nejaky cviceni.md",
-    "zapisky-様/Sítě/ISO_OSI model.md",
-    "zapisky-様/Hardware/GPU.md",
-    "zapisky-様/Hardware/Paměti.md",
-    "zapisky-様/Dějepis/Letadla 2ww.md",
-    "zapisky-様/Dějepis/Zbraně WW1.md",
-    "zapisky-様/Chemie/Aldehydy.md"
+    "zapisky-様/Sítě/ISO_OSI model.md"
   ]
 }

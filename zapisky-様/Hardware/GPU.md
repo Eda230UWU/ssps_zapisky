@@ -67,3 +67,60 @@ DirectX - zpracování 2D a 3D grafiky
 Open GL
 
 ---
+
+## princip funkce GPU
+1. data od CPU do VRAM
+2. GPU čte data ve VRAM
+3. zpracování dat
+4. převod na digitální obraz
+5. převodníkk - zpracování signálu pro monitor
+
+---
+
+## Chlazení grafické karty
+#### Chlazení vzduchem
+aktvní chlazení, kovový chladič s ventilátorem
+kombinace s heatpipes
+pasivní chlazení
+- správné proudění vzduchu ve skříni
+
+#### Chlazení vodou
+Nejvýkonnější grafické karty
+kvalitní chlazení
+kombinace s chlazením procesoru nebo pamětí
+
+---
+
+### Propojení více grafických karet
+funkcejako jedna
+zvýšení výpočetního výkonu
+více monitorů
+PCI-E16x
+
+##### nVidia - SLI
+Scalable link interface
+stejný druh karet
+speciální kabel
+
+##### ATI - crossfire
+DVI kabel
+vyšší datová propustnost
+karty nemusí být stejné
+
+---
+
+### DB-15 (VGA, D-sub)
+D-subminiature
+analogový elektrický signál
+DB-15
+15 vodičů
+
+---
+
+### DVI
+Digital visual interface
+Digital/analog signál
+Částenčne kompatibilní s HDMI
+DVI-D
+DVI-I
+single link a dual link
