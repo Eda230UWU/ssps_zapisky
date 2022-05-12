@@ -11,6 +11,8 @@ Výpočetní jádro grafické karty
 Řadič paměti = přenos informací mezi GPU a grafickou pamětí
 
 
+### FLOPS
+Floating point operations per second
 
 
 
@@ -124,3 +126,22 @@ Digital/analog signál
 DVI-D
 DVI-I
 single link a dual link
+
+---
+
+#### HDMI
+High definition multimedia interface
+
+nekoprimovaný digitalní signál - obraz i zvuk v HD
+zvuk až 32 kanálů
+Full HD + 4K obraz
+zpětně kompatibilní s DVI
+zatížen licenčními poplatky
+
+---
+
+#### DisplayPort (1.0)
+Datováá propustnost až 10,8 Gb/s
+
+Do 3 metrů 2560x1600
+Do 15 Metrů 1920x1080

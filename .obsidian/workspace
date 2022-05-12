@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-様/Hardware/GPU.md",
+            "file": "zapisky-様/Matematika/Rovnice.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Hardware/GPU.md",
+                "file": "zapisky-様/Matematika/Rovnice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
+    "zapisky-様/Matematika/Rovnice.md",
     "zapisky-様/Hardware/GPU.md",
     "zapisky-様/Dějepis/Referáty.md",
     "zapisky-様/Čeština/Domaco ukoly.md",
@@ -97,7 +98,6 @@
     "zapisky-様/Dějepis/Dějepis test 1.md",
     "zapisky-様/Fyzika+Elektrotechnika/Gravitace.md",
     "zapisky-様/Matematika/Mocniny.md",
-    "zapisky-様/Matematika/Nejaky cviceni.md",
-    "zapisky-様/Sítě/ISO_OSI model.md"
+    "zapisky-様/Matematika/Nejaky cviceni.md"
   ]
 }
