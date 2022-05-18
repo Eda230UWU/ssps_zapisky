@@ -145,3 +145,13 @@ Datováá propustnost až 10,8 Gb/s
 
 Do 3 metrů 2560x1600
 Do 15 Metrů 1920x1080
+
+---
+
+## Parametry obrazu
+rozlišení = počet pixelů (vodorovně x svisle)
+rozlišení tiskáren: dpi (počet pixelů na 25,4mm)
+
+FHD - full high-definiton
+VGA - Video Graphics array
+XGA - extended  graphics array
