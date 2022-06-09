@@ -154,4 +154,40 @@ rozlišení tiskáren: dpi (počet pixelů na 25,4mm)
 
 FHD - full high-definiton
 VGA - Video Graphics array
-XGA - extended  graphics array
+XGA - extended graphics array
+
+#### 4K
+Nový standart pro rozlišení
+
+
+### RGB
+tři zákaldní barvy
+Bílá 255, 255 ,255
+Černá 0, 0, 0
+
+
+----
+
+
+### Zvýšení výkonu grafické karty
+Tweakovat výkon
+Zvýšení frekvence procesoru a pamětí
+přetaktování
+ztráta
+
+---
+
+### NVIDIA
+
+RTX nejvýkonnější karty pro hry
+GTX střední cesta
+GT méně výkonné
+
+### AMD
+RX 5000 - Nejlepší
+RX 500 - Dobrý
+R5 - méně výkonný
+
+---
+
+

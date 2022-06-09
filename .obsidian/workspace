@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-様/Hardware/GPU.md",
+            "file": "zapisky-様/Matematika/Priprava pololetka.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Hardware/GPU.md",
+                "file": "zapisky-様/Matematika/Priprava pololetka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0b3ca72d3c48f64c",
   "lastOpenFiles": [
-    "zapisky-様/Hardware/GPU.md",
-    "zapisky-様/Matematika/Rovnice.md",
-    "zapisky-様/Matematika/Funkce.md",
-    "zapisky-様/Matematika/Rovnice s více mnohočleny.md",
-    "zapisky-様/Matematika/Lomené výrazy.md",
-    "zapisky-様/Matematika/Kvadratické rovnice.md",
-    "zapisky-様/Matematika/Funkce teorie ig.md",
-    "zapisky-様/Matematika/Gaussova eliminační metoda.md",
+    "zapisky-様/Matematika/Priprava pololetka.md",
+    "zapisky-様/Matematika/Polynom.md",
+    "zapisky-様/Matematika/Nejmenší násobek a největší dělitel.md",
     "zapisky-様/Matematika/Nerovnice.md",
-    "zapisky-様/Matematika/Odmocniny.md"
+    "zapisky-様/Matematika/Odmocniny.md",
+    "zapisky-様/Matematika/Kvadratické rovnice.md",
+    "magor.md",
+    "zapisky-様/Matematika/Funkce.md",
+    "zapisky-様/Fyzika+Elektrotechnika/Pohyb v konstatním gravitačním poli.md",
+    "zapisky-様/Hardware/GPU.md"
   ]
 }
