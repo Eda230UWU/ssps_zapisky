@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0b3ca72d3c48f64c",
+        "id": "e269cd96e5cfc6af",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zapisky-様/Čeština/Hamlet.md",
+            "file": "zapisky-様/Matematika/2K/Opakování.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Čeština/Hamlet.md",
+                "file": "zapisky-様/Matematika/2K/Opakování.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 343,
     "collapsed": true
   },
-  "active": "0b3ca72d3c48f64c",
+  "active": "e269cd96e5cfc6af",
   "lastOpenFiles": [
-    "zapisky-様/Čeština/Hamlet.md",
-    "zapisky-様/Matematika/Priprava pololetka.md",
-    "zapisky-様/Matematika/Polynom.md",
-    "zapisky-様/Matematika/Nejmenší násobek a největší dělitel.md",
-    "zapisky-様/Matematika/Nerovnice.md",
-    "zapisky-様/Matematika/Odmocniny.md",
-    "zapisky-様/Matematika/Kvadratické rovnice.md",
-    "magor.md",
-    "zapisky-様/Matematika/Funkce.md",
-    "zapisky-様/Fyzika+Elektrotechnika/Pohyb v konstatním gravitačním poli.md"
+    "zapisky-様/Čeština/1K/Distanční výuka.md",
+    "zapisky-様/Matematika/2K/Opakování.md",
+    "zapisky-様/Čeština/1K/Poznamky k maturite.md",
+    "zapisky-様/Čeština/Umění/Untitled.md",
+    "zapisky-様/Čeština/Umění/sračka.md",
+    "zapisky-様/Matematika/1K/Polynom.md",
+    "zapisky-様/Učitele.md",
+    "zapisky-様/Čeština/1K/Hamlet.md",
+    "zapisky-様/Matematika/1K/Priprava pololetka.md",
+    "zapisky-様/Matematika/1K/Nejmenší násobek a největší dělitel.md"
   ]
 }
