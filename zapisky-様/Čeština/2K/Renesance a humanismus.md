@@ -33,11 +33,13 @@ Jeho matka se zabije
 
 ### Zkrocení zlé ženy
 Baptista má dvě dcery, Kateřinu a Blanku
+Kateřina se musí vdát, aby se mohla vdát Blanka  
 Petruccio si vezme Kateřinu, zlou ženu
 Blanka je hodná a žádaná
 Petruccio Kateřinu vychová tím, že se k ní chová stejně jako ona (hubuje, nedá jí najíst několik dní)
 V sázce s kamarády vyhraje, protože ho jeho žena poslechne
 
 
-### Othello
-žárlivý muž,
+### Othello, mouření Benátský
+Othello, žárlivý muž
+Jargon, mstivý muž
