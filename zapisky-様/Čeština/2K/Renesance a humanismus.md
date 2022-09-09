@@ -5,4 +5,4 @@ Renesance a humanismus je identická věc, ale renesance je umělecký směr a h
 ## Shakespear
 
 ## Romeo a Julie
-spor dvou rodin
+spor dvou rodin (Kapleti a Monteků0
