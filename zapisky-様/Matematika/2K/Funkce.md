@@ -6,7 +6,8 @@
 #### sudé funkce
 sudá funkce
 není prostá
-klesající od $(-\infty,0)$ od $0$
+klesající od $(-\infty,0)$ od $(0, \infty)$ stoupající
+$D = \mathbbr$ 
 
 
 #### 
