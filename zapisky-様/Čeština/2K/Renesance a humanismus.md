@@ -3,7 +3,14 @@
 Renesance a humanismus je identická věc, ale renesance je umělecký směr a humanismus je směr myšlenkový
 
 ## Shakespear
+## Život
+Stredfort, narození i smrt
+píše Sonety, tragédie ale i komedie a historické hry
+Sonety, 4,4,3,3 cca 150 děl
 
+
+
+## Díla
 ### Romeo a Julie
 spor dvou rodin (Kapleti a Monteků)
 Na plese se Romeo a Julie zamilovali
@@ -36,7 +43,7 @@ Baptista má dvě dcery, Kateřinu a Blanku
 Kateřina se musí vdát, aby se mohla vdát Blanka  
 Petruccio si vezme Kateřinu, zlou ženu
 Blanka je hodná a žádaná
-Petruccio Kateřinu vychová tím, že se k ní chová stejně jako ona (hubuje, nedá jí najíst několik dní)
+Petruccio Kateřinu vychová tím, že se k ní chová stejně jako ona (je k ní milý ale hubuje, nedá jí najíst několik dní atd.)
 V sázce s kamarády vyhraje, protože ho jeho žena poslechne
 
 
