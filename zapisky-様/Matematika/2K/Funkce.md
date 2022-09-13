@@ -1,13 +1,39 @@
 ### Mocninné funkce s celým expoentem 
 
 #### Liché funkce
+liché
+prostá
+Pořád roustoucí
+![[Pasted image 20220913131732.png]]
 
-
+$D = \mathbb R$
+$H = \mathbb R$
 #### sudé funkce
 sudá funkce
 není prostá
 klesající od $(-\infty,0)$ od $(0, \infty)$ stoupající
-$D = \mathbbr$ 
+$D = \mathbb R$ 
+$H = \langle 0, \infty) = R^+_0$
+![[Pasted image 20220913131720.png]]
+
+#### sudé záporné
+sudá
+
+$H = (0, \infty)$
+$D = \mathbb R- \{0\}$ 
+![[Pasted image 20220913131841.png]]
 
 
-#### 
+
+
+#### Liché záporné
+
+$D = \mathbb R- \{0\}$
+$H = \mathbb R- \{0\}$ 
+lichá
+![[Pasted image 20220913132401.png]]
+
+
+
+
+$y = ($
