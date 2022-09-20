@@ -7,4 +7,4 @@
 7. Co jsou to monstrprocesy
 8. Kdo proti sobě bojoval s korejské válce, jaké jsou výsledky
 9. krizové situace roku 1956
-10. Nejúspešnější olympionik v Helsinkách roku 1952, v čem tkvěl jeho úspěh
+10. Nejúspešnější olympionik v Helsinkách roku 1952, v čem tkvěl jeho úspěch

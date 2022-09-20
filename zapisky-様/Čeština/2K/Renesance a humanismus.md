@@ -12,7 +12,7 @@ Sonety, 4,4,3,3 cca 150 děl
 
 ### Díla
 #### Romeo a Julie
-spor dvou rodin (Kapleti a Monteků)
+spor dvou rodin (Kapuleti a Monteků)
 Na plese se Romeo a Julie zamilovali
 Julie vyznala lásku Romeovi z balkónu
 Oddal je Vavřín nebo Lorenzo (místní kněz) s myšlenkou že se rody usmíří
@@ -23,7 +23,6 @@ Romeo se zabil kvůli Julii, Julie se zabila když se probudila
 Tragédie usmířila dva rody
 
 
-+ přístí hodinu test
 #### Hamlet
 Otec Hamleta byl zavražděn jedem nakapaným do ucha
 Hamletovi se zjevil duh jeho otce kterž mu řekne, kým byl zavražděn Klaudiusem (bratr otce, strýc hamleta)
