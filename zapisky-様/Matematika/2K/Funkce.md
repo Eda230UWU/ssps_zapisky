@@ -6,8 +6,8 @@ prostá
 Pořád roustoucí
 ![[Pasted image 20220913131732.png]]
 
-$D = \mathbb R$
-$H = \mathbb R$
+$D = \mathbb R$ Defini4ni obor x
+$H = \mathbb R$ obor hodnot y
 #### sudé funkce
 sudá funkce
 není prostá
