@@ -7,6 +7,9 @@
 3. Mechanická myš - Kulička na spod a přenaší pohyb na dvě osy
 Optická myš - Ooužíva LED jako zdroj světla kterých odraz je následně snímán fotodiodami 
 
+Laserová myš - dražší ale přesnější myš než optická, používá laser místo led diody
+
 MechanickoOptická -  hybrid mezi výše zmíněnými
 
-4. 
+4. DPI (Dots per inch - citlivost myši)
+latence
