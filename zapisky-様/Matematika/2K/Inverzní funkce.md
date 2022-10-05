@@ -1,6 +1,9 @@
 ## Inverzní funkce
 souměrné s prostými funkcemi podle osy kvadrantů 1 a 3
 
+$D_f == H_F^{-1}$
+a naopak
+
 #### Příklady
 $f: y = 2x-1$
 $g: y = -x +3$ 
