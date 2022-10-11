@@ -1,6 +1,6 @@
 1. HID určené k vstupu dat od uživatele do počítače v prostoru - Myš, Grafický tablet
 2. /
-- Vynalezena Douglasem Engelbart v roce 1963
+- Vynalezena Douglasem Engelbartem v roce 1963
 - První počítač s myší byl Xerox Alto v roce 1973
 - 1980 první myš s optickým snímáním
 
