@@ -1,7 +1,7 @@
 $F_{v2}=F_2 - F_1 = h_2\rho gS-h_1\rho gS$
 $F_{v2}=\rho gS(h_2-h_1) = \rho gV = \rho gSh$
 $F_{v2}=p_kgV_T$
-^Vzoreček vztalku kde $\rho _K$ je hustota kapaliny, g je gravitační konstanta a $V_T$ je hmotnost látky děleno hustotou látky
+^Vzoreček vztalku kde $\rho _K$ je hustota kapaliny, g je gravitační konstanta a $V_T$ je hmotnost látky děleno hustotou látky (u plovoucí části je $V_T$ část látky, která je ponořená)
 $F = mg-F{v_2}$
 $F$ je síla kterou ukáže siloměr a $F{v_2}$ je vztlak 
 
