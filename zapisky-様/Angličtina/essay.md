@@ -4,6 +4,8 @@ I don't personally think homeschooling has many positives and it's just another 
 
 Yeah, you know what your child is learning and the "bad evil goverment can't force  propaganda your childs throat, these damn liberals",
 
-on a serious note the one positive to homeschooling i see is security. You always know what your child is doing, nobody is going to beat him up or he's not going to end up in a school shooti
+on a serious note the one positive to homeschooling i see is security. You always know what your child is doing, nobody is going to beat him up or he's not going to end up in a school shooting(This would probably only be a problem in USA but still). 
 
-but your child isn't going to really form any kind of friendships. This could lead to introverted personality, fear of places with a lot of people and generaly bad communication skills. I've personally had a classmate and he was homeschooled since kindergarden and he was allowed to go to school after completing his 5th grade. He was really introverted and hadn't talked that much. It gradually got better and he became more talkative as time went on. I think his only luck was that his mother let him join our school in Beroun
+There is one problem, your child isn't going to really form any kind of friendships. This could lead to introverted personality, fear of places with a lot of people and generaly bad communication skills. I've personally had a classmate and he was homeschooled since kindergarden and he was allowed to go to school after completing his 5th grade. He was really introverted and hadn't talked that much. It gradually got better and he became more talkative as time went on. I think his only luck was that his mother let him join our school in Beroun.
+
+To sum this essay up. Even if a parent is capable of teaching  their children all things normal children learn in school, they can't substitude friends and teachers, who are in my opinion a very big part of developing social skills 
