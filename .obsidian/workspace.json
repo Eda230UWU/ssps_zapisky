@@ -54,9 +54,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a10a6a95cdcc55bc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zapisky-様/Sítě/2K/TCP-IP.jpg"
+              }
+            }
+          },
+          {
+            "id": "32121a2a3afe61b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Sítě/CCNA SRWE/Switch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Čeština/Literatura/Mluvený projev/Témata.md",
+                "file": "zapisky-様/Sítě/CCNA SRWE/Switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +154,17 @@
     "width": 343,
     "collapsed": true
   },
-  "active": "9f0d7a6086120bd8",
+  "active": "32121a2a3afe61b4",
   "lastOpenFiles": [
+    "zapisky-様/Sítě/2K/TCP-IP.jpg",
+    "zapisky-様/Siťové aplikace/1. hodina.md",
+    "zapisky-様/Dějepis/2K/60. léta.md",
+    "zapisky-様/Čeština/Literatura/Mluvený projev/Témata.md",
     "zapisky-様/Matematika/2K/Vzorečky na exponenciální rovnice.md",
     "zapisky-様/Matematika/2K/Opakování.md",
     "zapisky-様/Matematika/2K/amongus dělení.md",
     "zapisky-様/Matematika/2K/čtení z grafu.md",
     "zapisky-様/Matematika/2K/Domaci ukol ig.md",
-    "zapisky-様/Matematika/2K/Inverzní funkce.md",
-    "zapisky-様/Matematika/2K/Exponenciální funkce.md",
-    "zapisky-様/Matematika/2K/Funkce.md",
-    "zapisky-様/Matematika/1K/Kvadratické rovnice.md",
-    "magor.md"
+    "zapisky-様/Matematika/2K/Inverzní funkce.md"
   ]
 }
