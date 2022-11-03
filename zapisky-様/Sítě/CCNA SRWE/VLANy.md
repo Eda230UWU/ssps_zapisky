@@ -55,4 +55,4 @@ no vlan vlan_id
 switchport mode trunk
 switchport nonegotiate <<
 
-statický trunk
+statický trunk (nezapne se automaticky na trunk, když je switch na druhé straně na trunk () )
