@@ -76,9 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d87bf4b8ec88d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Sítě/CCNA SRWE/VLANy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Sítě/CCNA SRWE/Switch.md",
+                "file": "zapisky-様/Sítě/CCNA SRWE/VLANy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,8 +166,9 @@
     "width": 343,
     "collapsed": true
   },
-  "active": "32121a2a3afe61b4",
+  "active": "8d87bf4b8ec88d50",
   "lastOpenFiles": [
+    "zapisky-様/Sítě/CCNA SRWE/Switch.md",
     "zapisky-様/Sítě/2K/TCP-IP.jpg",
     "zapisky-様/Siťové aplikace/1. hodina.md",
     "zapisky-様/Dějepis/2K/60. léta.md",
@@ -164,7 +177,6 @@
     "zapisky-様/Matematika/2K/Opakování.md",
     "zapisky-様/Matematika/2K/amongus dělení.md",
     "zapisky-様/Matematika/2K/čtení z grafu.md",
-    "zapisky-様/Matematika/2K/Domaci ukol ig.md",
-    "zapisky-様/Matematika/2K/Inverzní funkce.md"
+    "zapisky-様/Matematika/2K/Domaci ukol ig.md"
   ]
 }

@@ -17,10 +17,20 @@ pokud není tak multicast na všechny kromě hosta, od kterého rámec přišel
 
 ### Metody forwardování
 Store and forward - přečte a pošle
-Cut and forward - přečte destinaci a hned odešle  
-
+Cut and forward - přečte destinaci a hned odešle  (rychlejší, bez checku integrity dat)
 
 ---
+
+## Collision Domains
+Switche se snaží zamezit kolizím
+
+Full duplex na všech zařízeních -> žádné kolize
+
+Jedno či více na half duplexu, je kolize možná 
+Vetšina cisco a ms používá automatickou domluvu
+
+---
+
 
 
 
