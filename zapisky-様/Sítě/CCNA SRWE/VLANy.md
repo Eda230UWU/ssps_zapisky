@@ -50,4 +50,9 @@ no vlan vlan_id
 ![[Pasted image 20221103182312.png]]
 *Trunk configurace*
 
-### DTP Dynamic Trunking Protoco;
+### DTP (Dynamic Trunking Protocol)
+
+switchport mode trunk
+switchport nonegotiate <<
+
+statický trunk
