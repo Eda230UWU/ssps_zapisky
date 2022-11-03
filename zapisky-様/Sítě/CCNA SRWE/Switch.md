@@ -12,4 +12,15 @@ přidává MAC adresy do tabulky, pokud ji nezná
 po pěti minutách se vymaže když se host neozve (neodesílá)
 
 #### Forward
-Forward pokud je v  
+Forward pokud je v MAC (CAM) tabulce
+pokud není tak multicast na všechny kromě hosta, od kterého rámec přišel
+
+### Metody forwardování
+Store and forward - přečte a pošle
+Cut and forward - přečte destinaci a hned odešle  
+
+
+---
+
+
+
