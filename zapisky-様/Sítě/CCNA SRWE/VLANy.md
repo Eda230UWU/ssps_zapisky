@@ -55,4 +55,10 @@ no vlan vlan_id
 switchport mode trunk
 switchport nonegotiate <<
 
-statický trunk (nezapne se automaticky na trunk, když je switch na druhé straně na trunk () )
+statický trunk (nezapne se automaticky na trunk, když je switch na druhé straně na trunk (pouze na jednom portu))
+
+![[Pasted image 20221103182726.png]]
+
+chceme vypnout z důvodu bezpečnosti dynamic auto a dynamic desirable
+
+show dtp ``interface
