@@ -29,7 +29,6 @@ proudění se v závislosti na čase mění
 -----
 
 
-
 ## Rovnice spojitosti
 zákon o zachování hmotnosti pro tekutiny
 
