@@ -2,7 +2,13 @@
 
 -----
 ## Proudnice
-Proudnice je pomyslná čára, která znázorňuje směr proudu
+Proudnice je pomyslná čára, která znázorňuje směr proudu (pohyb částic) v toku
+
+#### Vlastnosti:
+- Znázorňuje trajetorie jednotlivých částic
+- Každým bodem může procházet pouze jedna proudnice
+- proudnice se nepromítají
+
 
 příklady:
 - proudění vody a plynu v domácnosti
