@@ -6,4 +6,4 @@ Bernoulliho rovnice je Součet kinetické a tlakové potenciální energie kapal
 $$\frac{1}{2}*\rho*v^2+p = konst$$
 Zákon pro zachování mechanické energie pro kapaliny
 
-Vyjadřuje souvislost mezi velikostí rychlosti kapaliny v daném místě trubice (v) a tlakem (p) v tomto místě. Čím větší 
+Vyjadřuje souvislost mezi velikostí rychlosti kapaliny v daném místě trubice (v) a tlakem (p) v tomto místě. Čím větší rychlost, tím menší tlak a naopak
