@@ -19,4 +19,4 @@ $$Q_v = \frac{V}{t} = \frac{Sh}{t} = Sv$$
 ### Hmotnostní tok $Q_m$
 Udává hmotnost kapaliny, která proteče průřezem za jednotku času
 
-$Q_m = $
+$Q_m = \frac{}{}$
