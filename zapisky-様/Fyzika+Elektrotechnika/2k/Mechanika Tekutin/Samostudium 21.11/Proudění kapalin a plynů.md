@@ -15,4 +15,4 @@ zákon o zachování hmotnosti pro tekutiny
 
 ### Objemový tok 
 Fyzikální veličina udávající objem kapaliny, která průzeřem proteče za jednotku času
-$$Q_v = \frac $$
+$$Q_v = \frac{V}{t} = ($$
