@@ -1,4 +1,27 @@
 
+
+-----
+## Proudnice
+Proudnice je pomyslná čára, která znázorňuje směr proudu
+
+příklady:
+- proudění vody a plynu v domácnosti
+- rozvod oleje a maziv ve strojích
+- krevní oběh
+
+pohybují se jednotlivé částnice a ne celé těleso
+
+### Typy proudění
+#### Ustálené (stacionární)
+okamžitá rychlost se v bodě v zásvislosti na čase nemění
+
+#### Neustálnené (nestacionární)
+proudění se v závislosti na čase mění
+
+
+
+-----
+
 ## Bernoulliho rovnice
 Bernoulliho rovnice je Součet kinetické a tlakové potenciální energie kapaliny o jednotkovém objemu je ve všech částech vodorovné trubice stejný.
 
@@ -25,7 +48,7 @@ Když kapalina neodtéká ani nepřitéka platí že
 $$Q_1 = Q_2$$
 tudíž
 $$S_1 *v_1 = S_2 *v_2$$
-
+(s větším průřezem je průtok pomalejší a naopak)
 
 
 ---
