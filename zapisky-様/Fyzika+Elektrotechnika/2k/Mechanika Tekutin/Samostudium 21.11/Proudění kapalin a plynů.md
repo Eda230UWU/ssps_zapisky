@@ -13,4 +13,6 @@ Vyjadřuje souvislost mezi velikostí rychlosti kapaliny v daném místě trubic
 ## Rovnice spojitosti
 zákon o zachování hmotnosti pro tekutiny
 
-Objemový tok
+### Objemový tok 
+Fyzikální veličina udávající objem kapaliny, která průzeřem proteče za jednotku času
+$$Q_v = \frac[$$
