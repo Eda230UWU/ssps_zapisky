@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e269cd96e5cfc6af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Archimeduv zakon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b39283071ce2609",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Matematika/2K/Opakování.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2cb2c747ecf8f22a",
             "type": "leaf",
             "state": {
@@ -44,70 +20,22 @@
             }
           },
           {
-            "id": "9f0d7a6086120bd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Čeština/Literatura/Mluvený projev/Témata.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a10a6a95cdcc55bc",
+            "id": "3c5f8cb507fb04b2",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "zapisky-様/Sítě/2K/TCP-IP.jpg"
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 14.11/fyizka.png"
               }
             }
           },
           {
-            "id": "32121a2a3afe61b4",
+            "id": "9470566543009184",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Sítě/CCNA SRWE/Switch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d87bf4b8ec88d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Sítě/CCNA SRWE/Switch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6391782f2de199a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Čeština/Literatura/Mluvený projev/Témata.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48bc56dd0d2d2965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Čeština/Literatura/Klasicismus.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 21.11/Proudění kapalin a plynů.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Čeština/Literatura/Klasicismus.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 21.11/Proudění kapalin a plynů.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,17 +118,17 @@
     "width": 343,
     "collapsed": true
   },
-  "active": "2cb2c747ecf8f22a",
+  "active": "0965b629a015792f",
   "lastOpenFiles": [
-    "zapisky-様/Matematika/2K/Vzorečky na exponenciální rovnice.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 14.11/fyizka.png",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Archimeduv zakon.md",
+    "zapisky-様/Dějepis/2K/Brutalismus.md",
     "zapisky-様/Čeština/Literatura/Klasicismus.md",
+    "zapisky-様/Matematika/2K/Vzorečky na exponenciální rovnice.md",
     "zapisky-様/Čeština/Literatura/Mluvený projev/Témata.md",
     "zapisky-様/Dějepis/2K/60. léta.md",
     "zapisky-様/Dějepis/2K/Opakování 50. léta.md",
     "zapisky-様/Čeština/2K/Klasicismus.md",
-    "zapisky-様/Sítě/CCNA SRWE/Switch.md",
-    "zapisky-様/Sítě/Enkapsulace.md",
-    "zapisky-様/Sítě/ISO_OSI model.md",
-    "zapisky-様/Sítě/Untitled.md"
+    "zapisky-様/Sítě/CCNA SRWE/Switch.md"
   ]
 }
