@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9727fc937153f19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Matematika/2K/logaritmické funkce/Exponenciální funkce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Příklady/Rovnice gmaing.md",
+                "file": "zapisky-様/Matematika/2K/logaritmické funkce/Exponenciální funkce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +120,9 @@
     "width": 343,
     "collapsed": true
   },
-  "active": "12102de2aaa7fcd7",
+  "active": "a9727fc937153f19",
   "lastOpenFiles": [
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Příklady/Rovnice gmaing.md",
     "zapisky-様/Hardware/2K/Polohovací zařízení.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 14.11/fyizka.png",
     "zapisky-様/Čeština/2K/Klasicismus.md",
@@ -118,7 +131,6 @@
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 21.11/Proudění kapalin a plynů.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Archimeduv zakon.md",
     "zapisky-様/Dějepis/2K/Brutalismus.md",
-    "zapisky-様/Matematika/2K/Vzorečky na exponenciální rovnice.md",
-    "zapisky-様/Čeština/Literatura/Mluvený projev/Témata.md"
+    "zapisky-様/Matematika/2K/Vzorečky na exponenciální rovnice.md"
   ]
 }
