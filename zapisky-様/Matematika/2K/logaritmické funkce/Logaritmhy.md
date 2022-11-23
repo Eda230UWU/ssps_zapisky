@@ -1,3 +1,10 @@
-$log(\frac{1}{2})x$
+Nulový bod je [0; 1]
 
-$log $
+--
+$log(\frac{1}{2})x$
+klesající
+
+
+
+$log(2)x$
+rostoucí
