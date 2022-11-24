@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8dd916a91c4b70f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Občanská nauka/Rasismus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Matematika/2K/logaritmické funkce/Logaritmhy.md",
+                "file": "zapisky-様/Občanská nauka/Rasismus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +155,10 @@
     "direction": "horizontal",
     "width": 343
   },
-  "active": "e7836b64ea0b6833",
+  "active": "8dd916a91c4b70f1",
   "lastOpenFiles": [
-    "zapisky-様/Matematika/2K/Amongus dělení.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Logaritmhy.md",
+    "zapisky-様/Matematika/2K/Amongus dělení.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Exponenciální funkce.md",
     "zapisky-様/Dějepis/2K/Vylodění v zátoce Sviní.md",
     "zapisky-様/Čeština/2K/Klasicismus.md",

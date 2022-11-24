@@ -1,0 +1,2 @@
+#### <i>Můj názor</i>
+Já osobně zastávám názor, že by nikdo neměl být souzen na základě barvy pleti, ale podle schopností a vystupování na veřejnosti. Dnes se však dle mého názoru spousta lidí uchyluje směrem k názorům se kterými však souhlasit  
