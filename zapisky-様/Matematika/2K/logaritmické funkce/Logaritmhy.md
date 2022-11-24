@@ -18,10 +18,29 @@ rostoucí
 
 ### Transformace:
 nahoru 
-$log_2x + 3$
+$y =log_2x + 3$
+
 dolu
-$log_2x - 3$
+$y =log_2x - 3$
+
 doleva
-$log_2(x + 3)$
+$y =log_2(x + 3)$
+
 doprava
-$log_2(x - 3 )$
+$y =log_2(x - 3 )$
+
+---
+
+$y = log_2(x+4) - 2$
+$y = -log_2 x = log_{\frac{1}{2}}x$
+
+
+---
+
+
+## Asymptota
+čára, ke které se logaritmus nekonečně přibližuje
+
+---
+
+$log_2$
