@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05b4f26ecebeb983",
+        "id": "95fb7e58aafafb3d",
         "type": "tabs",
         "children": [
           {
-            "id": "2cb2c747ecf8f22a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Hardware/2K/Polohovací zařízení.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12102de2aaa7fcd7",
+            "id": "519ffc68cebc9d5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,55 +20,31 @@
             }
           },
           {
-            "id": "a9727fc937153f19",
+            "id": "81b4491db108e337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Čeština/2K/Klasicismus.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 28.11/Odpor obtékání těles.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e6c904b2ce09f310",
+            "id": "99d75a62f7577470",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Dějepis/2K/Vylodění v zátoce Sviní.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7836b64ea0b6833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Matematika/2K/logaritmické funkce/Logaritmhy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dd916a91c4b70f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Občanská nauka/Rasismus.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 28.11/Příklady.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Občanská nauka/Rasismus.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 28.11/Příklady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,17 +119,17 @@
     "direction": "horizontal",
     "width": 343
   },
-  "active": "8dd916a91c4b70f1",
+  "active": "99d75a62f7577470",
   "lastOpenFiles": [
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 28.11/Odpor obtékání těles.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 28.11/Příklady.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Příklady/Rovnice gmaing.md",
+    "zapisky-様/Občanská nauka/Rasismus.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Logaritmhy.md",
+    "zapisky-様/Dějepis/2K/Vylodění v zátoce Sviní.md",
     "zapisky-様/Matematika/2K/Amongus dělení.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Exponenciální funkce.md",
-    "zapisky-様/Dějepis/2K/Vylodění v zátoce Sviní.md",
     "zapisky-様/Čeština/2K/Klasicismus.md",
-    "magor.md",
-    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Příklady/Rovnice gmaing.md",
-    "zapisky-様/Hardware/2K/Polohovací zařízení.md",
-    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 14.11/fyizka.png",
-    "zapisky-様/Čeština/Literatura/Klasicismus.md"
+    "magor.md"
   ]
 }
