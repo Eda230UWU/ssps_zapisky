@@ -24,7 +24,7 @@ ciselna hodnota \{v\} = m/s
 z otvoru $r= 1cm$ stříká voda rychlostí $v= 1.25 ms^{-1}$ a
 
 
-1.25 / 4 == 0.315 m(()) s 
+1.25 / 4 == 0.315 m((0)) s 
 
 
 
