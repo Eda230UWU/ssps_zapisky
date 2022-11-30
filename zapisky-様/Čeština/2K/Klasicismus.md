@@ -1,5 +1,9 @@
 Vychází z antiky
 hlavní objekt je rozum
+děj, čas a místo, jednota tří
+
+
+
 
 ### Wolfgang A. Mozart
 Don Giovani
@@ -19,7 +23,7 @@ Bajky
 
 ## Divadlo
 
-### Sluha dvou pánů
+### Sluha dvou pánů - Molliere
 Tato kniha vypráví o tom, jak se sluha Truffaldino rozhodl z vypočítavosti sloužit dvěma pánům.
 
 Jeden benátský obchodník pořádá zásnuby své dcery Klárinky se Silviem, jenž je synem Dottore Palmira. Vše by bylo v pořádku, kdyby oslavu nepřerušil sluha Truffaldino, který ohlašuje návštěvu svého pána Frederiga Rasponiho. Tento muž se o Klárinku ucházel také, ale byl zabit v jednom souboji Florindem. Nikdo však netuší, že za Frederiga se vydává jeho sestra Beatrice, jež hledá Florinda, do něhož je zamilovaná. Sluha Truffaldino sehraje mnoho ztřeštěných kousků a dokonce se i zamiluje do Klárčiny služky Smeraldiny. Nakonec Beatrice odhalí svou totožnost, shledá se s Florindem. Sluha se přizná, že sloužil dvěma pánům.
@@ -37,3 +41,5 @@ A protože je "nemocný", rozhodne se svoji dceru Angeliku provdat za lékaře T
 Služka Toinetta se snaží Angelice pomoci, a tak požádá o pomoc Arganova bratra Beralda. Toinetta se převlékne za lékaře, který cestuje po celém světě a léčí jen zajímavé nemoci. Jde si prohlédnout Argana a řekne, že jeho lékař Purgon neumí léčit. Předepíše mu useknutí ruky a vypíchnutí oka, aby mu dokázala, že jeho nemoc je nesmyslná.  
 Když se zpět převleče a přijde jako služka, tak ho s Beraldem přemluví, aby dělal, že je mrtvý. Toinetta to oznámí jeho ženě Belině a ta je ráda, že konečně zemřel a zmocní se jeho majetku. Potom to řeknou Angelice, ta pláče a řekne, že se tedy provdá za Tomáše, když to bylo otcovo přání. Argan se konečně dozvěděl, jak to s ním kdo myslí. Obě dvě jsou překvapené, když Argan vstane a řekne jim, že smrt jenom předstíral, aby se dozvěděl, jaké jsou.  
 Argan dovolí Angelice se provdat za Kleanta, ale jen když se stane lékařem. Kleant souhlasí. Berald Arganovi řekne, ať se tedy sám stane lékařem a že má přátelskou fakultu, která ceremonii vykoná u nich v domě a zadarmo. Argan tedy souhlasí, ale neví, že si z něho Berald chce udělat legraci. Argan konečně pochopí, že není nemocný.
+
+
