@@ -4,3 +4,4 @@ Gradace - přehánení
 hyperbola - přehánění
 Synekdocha - pojmenováním část celkem či celkem část
 metafora či metonimie - obrazné pojmenování
+hyperonymie a hyponymie - Slova nadřazená a podřazená

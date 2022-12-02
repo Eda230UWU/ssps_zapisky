@@ -4,9 +4,38 @@ Baroko bylo zaměřeno hlavně na víru a na boha
 
 děj, čas a místo, jednota tří
 
-
+Jezuité #1 
 osvícenci kladou důraz na knihovny a knih
-učení -> zřizování škol (Jezuité šířili vzdělanost), povinná školní docházka (Marie Terezie),  
+učení a šíření vzdělání  -> zřizování škol (Jezuité šířili vzdělanost), povinná školní docházka (Marie Terezie), systematizace vzdělání -> učitel vás naučí to nejdůležitější a dá tomu nějaký systém, Encyklopedie
+
+
+## Literatura
+Vyšší:
+básnické, 
+eposy
+
+Nižší:
+bajky
+román
+komedie
+
+### Encyklopedie aneb Racionální slovník věd, umění a řemesel
+1751
+Denis Diderot a Jean de la Rond D'Alembert
+28 Svazků encyklopedie
+
+### Jeptiška
+Denis Diderot
+Maire Simonová nechce býti řeholnicí, ale je k tomu donucena. 
+Zuzana jedná podle svého rozumu a ne podle církve
+Kritika církve - zkorumpovaná církev
+
+
+
+### Robinson Crudoe
+<i>Daniel Defoe</i>
+Robinson uteče z domu a vydá se na první plavbu, ztroskotala
+Robinson se nevzdal a stal se námořníkem, piráti přepadli loď a zavřeli ho do zajetí. S Xurym utekli a začali pracovat na Brazilských plantážích. Šel na obchodní plavbu, loď ztroskotala a on se sám ocitl na ostrově. Sám se naučil přežít. Zachránil domorodského chlapce Pátka (jméno mu dal) Robinson zachránil kapitána jedné lodi a dostal se do anglie, jeho otec už bohužel zemřel 
 
 
 ### Wolfgang A. Mozart
