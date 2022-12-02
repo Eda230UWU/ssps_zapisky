@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "abdb9dd3c0790a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Angličtina/IF clauses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "14dc91374ebbf2df",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Čeština/2K/Klasicismus.md",
+                "file": "zapisky-様/Angličtina/IF clauses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +155,10 @@
     "direction": "horizontal",
     "width": 343
   },
-  "active": "452332d2433d5a69",
+  "active": "abdb9dd3c0790a8e",
   "lastOpenFiles": [
-    "zapisky-様/Čeština/2K/Literární prvky.md",
     "zapisky-様/Čeština/2K/Klasicismus.md",
+    "zapisky-様/Čeština/2K/Literární prvky.md",
     "zapisky-様/Čeština/2K/Renesance a humanismus.md",
     "zapisky-様/Dějepis/2K/Vietcong.md",
     "zapisky-様/3D tisk/3D tisk.md",
