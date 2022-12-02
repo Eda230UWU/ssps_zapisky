@@ -1,9 +1,11 @@
 Vychází z antiky
-upínání na rozum, klade se menší důraz na boha
+upínání na rozum (vědy), klade se menší důraz na boha
+
 děj, čas a místo, jednota tří
 
 
-
+osvícenci kladou důraz na knihovny a knih
+učení -> zřizování škol 
 
 ### Wolfgang A. Mozart
 Don Giovani
