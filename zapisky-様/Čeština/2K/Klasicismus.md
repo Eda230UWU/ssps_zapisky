@@ -1,5 +1,5 @@
 Vychází z antiky
-hlavní objekt je rozum
+upínání na rozum, klade se menší důraz na boha
 děj, čas a místo, jednota tří
 
 
@@ -12,7 +12,7 @@ Kouzelná flétna
 
 Bertramka gaming
 
-## Empír
+## Empír/Ampír
 Peak Klasicismu
 - Divadlo u Hybernu
 
