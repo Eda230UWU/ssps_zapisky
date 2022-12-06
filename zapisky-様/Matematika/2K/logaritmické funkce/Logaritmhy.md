@@ -69,4 +69,22 @@ $v = 0$
 
 ## Věty o  Logaritmech
 
-$a^log_a$
+$a^{log_a(r)} = r$
+$log_s(r) = \frac{log r}{log s}$
+$log_39^4 = 4 log_3 9$
+
+
+Příklady:
+
+a)$4log_63+5log_62-log_612=v$
+
+$log_6\frac{3^4*2^5}{12} = v$
+$6^v = \frac{3^4*2^5}{12}$
+$6^v = \frac{3^4*2^5}{2^2*3}$
+$6^v = 3^3*2^3$
+$6^v = 6^3$
+
+
+b) $log_{10}20+log_{10}50 = v$
+$$
+
