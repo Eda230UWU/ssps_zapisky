@@ -7,5 +7,5 @@ Trojný bod vody = 273,16°K
 absolutní nula = 0°K
 
 1 °C na stupnici == 1°K na stupnici
-0°K = -273°C
+0°K = -273°C (Přibližně)
 
