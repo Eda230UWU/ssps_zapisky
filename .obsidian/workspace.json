@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Angličtina/IF clauses.md",
+                "file": "zapisky-様/Matematika/2K/Exponenciální funkce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89e2c023d8500a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 21.11/Proudění kapalin a plynů.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b6ba6ae95152894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/termodynamika/Termodynamika tekutin.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Angličtina/IF clauses.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/termodynamika/Termodynamika tekutin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,17 +179,17 @@
     "direction": "horizontal",
     "width": 343
   },
-  "active": "abdb9dd3c0790a8e",
+  "active": "2b6ba6ae95152894",
   "lastOpenFiles": [
-    "zapisky-様/Čeština/2K/Klasicismus.md",
-    "zapisky-様/Čeština/2K/Literární prvky.md",
-    "zapisky-様/Čeština/2K/Renesance a humanismus.md",
-    "zapisky-様/Dějepis/2K/Vietcong.md",
-    "zapisky-様/3D tisk/3D tisk.md",
-    "zapisky-様/OSE/Rodinné právo.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 21.11/Proudění kapalin a plynů.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 21.11/fyzika 21.11.png",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 28.11/Odpor obtékání těles.md",
-    "zapisky-様/Dějepis/2K/Vylodění v zátoce Sviní.md",
-    "zapisky-様/Dějepis/2K/Brutalismus.md",
-    "zapisky-様/Angličtina/Conditional sentences.md"
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Příklady/Rovnice gmaing.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 14.11/Proudění kapalin a plynů.md",
+    "zapisky-様/Čeština/2K/Samostudium 5.12.md",
+    "zapisky-様/Matematika/2K/Exponenciální funkce.md",
+    "zapisky-様/Matematika/2K/Funkce.md",
+    "zapisky-様/Čeština/2K/Renesance a humanismus.md",
+    "zapisky-様/Angličtina/IF clauses.md"
   ]
 }
