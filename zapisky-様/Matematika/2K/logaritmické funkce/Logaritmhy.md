@@ -65,3 +65,8 @@ $25^v= 1$
 $v = 0$
 
 
+---
+
+## Věty o  Logaritmech
+
+$a^log_a$

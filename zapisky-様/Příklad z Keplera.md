@@ -12,12 +12,12 @@ $$ V = \sqrt{1+\frac{11,7}{16,3}} $$
 $$ V = \sqrt{1+0,7} $$
 $$  V = \sqrt{1,7}  $$
 $$ V = 1,31lm \ $$
-$$ \delta a= 5% $$
-$$ \delta b= 3% $$
-$$ \delta \frac{a}{b} = 8% $$
-$$ \delta V = 4% $$
-$$ \Delta / a = \delta $$
-$$ a * \delta = \Delta $$
-$$ \Delta V = 0,04lm $$
+$$ \delta a= 5 $$
+ $$\delta b= 3$$ 
+ $$\delta \frac{a}{b} = 8 $$
+$$\delta V = 4$$
+$$\Delta / a = \delta $$
+ $$a * \delta = \Delta $$
+ $$\Delta V = 0,04lm$$ 
 
 
