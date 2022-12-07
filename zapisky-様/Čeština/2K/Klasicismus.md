@@ -78,7 +78,7 @@ Argan dovolí Angelice se provdat za Kleanta, ale jen když se stane lékařem. 
 ### Tartuffe
 Komedie
 Orgon a Tartiff
-Tartiff je žebrák, který předstírá,  že je strašně zbožný. Orgon a jeho matka ho vezmou do domu, jelikož je strašně zbožný. Všichni vědí co je Tartiff za člověka ale Orgonovi a matce se líbí jeho zbožnost. Orgon chce provdat Tartiffa za svojí dcerou Marií. Tartiffovi se líbí ale jeho žena a Marie je zasnoubená s někým jiným. 
+Tartiff je žebrák, který předstírá,  že je strašně zbožný. Orgon a jeho matka ho vezmou do domu, jelikož je strašně zbožný. Všichni vědí co je Tartiff za člověka ale Orgonovi a matce se líbí jeho zbožnost. Orgon chce provdat Tartiffa za svojí dcerou Marií. Tartiffovi se líbí ale jeho žena a Marie je zasnoubená s někým jiným. Tartiff spadne do pasti a Orgon se rozhodne vyhodit Tartiffa. Orgon přepsal majetek na Tartiffa a Tartiff zavolá na Orgona krále, který pošle četníka, který má zatknout Orgona. Četník zatkne místo toho Tartiffa 
 
 
 
