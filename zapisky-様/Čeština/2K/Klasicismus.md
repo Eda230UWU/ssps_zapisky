@@ -76,4 +76,9 @@ Když se zpět převleče a přijde jako služka, tak ho s Beraldem přemluví, 
 Argan dovolí Angelice se provdat za Kleanta, ale jen když se stane lékařem. Kleant souhlasí. Berald Arganovi řekne, ať se tedy sám stane lékařem a že má přátelskou fakultu, která ceremonii vykoná u nich v domě a zadarmo. Argan tedy souhlasí, ale neví, že si z něho Berald chce udělat legraci. Argan konečně pochopí, že není nemocný.
 
 ### Tartuffe
+Komedie
+Orgon a Tartiff
+Tartiff je žebrák, který předstírá,  že je strašně zbožný. Orgon a jeho matka ho vezmou do domu, jelikož je strašně zbožný. Všichni vědí co je Tartiff za člověka ale Orgonovi a matce se líbí jeho zbožnost. Orgon chce provdat Tartiffa za svojí dcerou Marií. Tartiffovi se líbí ale jeho žena a Marie je zasnoubená s někým jiným. 
+
+
 
