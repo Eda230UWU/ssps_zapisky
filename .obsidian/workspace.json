@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "deed4176bdc21924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Dějepis/2K/Napalm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "14dc91374ebbf2df",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Čeština/2K/Klasicismus.md",
+                "file": "zapisky-様/Dějepis/2K/Napalm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,10 +191,10 @@
     "direction": "horizontal",
     "width": 343
   },
-  "active": "2b6ba6ae95152894",
+  "active": "deed4176bdc21924",
   "lastOpenFiles": [
-    "zapisky-様/Čeština/2K/Untitled.md",
     "zapisky-様/Čeština/2K/Klasicismus.md",
+    "zapisky-様/Čeština/2K/Untitled.md",
     "zapisky-様/Čeština/2K/Renesance a humanismus.md",
     "zapisky-様/Čeština/2K/Samostudium 5.12.md",
     "zapisky-様/OSE/Rodinné právo.md",
