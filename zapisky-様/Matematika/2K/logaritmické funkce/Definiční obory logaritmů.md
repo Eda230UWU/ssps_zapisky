@@ -12,6 +12,7 @@ $D_f = (-\infty, -1)\cup(5, \infty)$
 
 $f: y = log_5 (8-x)-log_5(x+5)$
 $y = log_5\frac{8-x}{x+5}$
-}x > 8) \cup (x > -5
-
+$(x > 8) \cup (x > -5)$
+$D_f =x > 8$
+$D_f = $
 $f: y = log_\frac{3}{5}(4-x^2)$
