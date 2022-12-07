@@ -1,4 +1,4 @@
-1. asd
+1. 
 2. Církvení a Občanské
 3. Založení rodinny, výchova dětí a vzájemnná pomoc
 4. 

@@ -75,4 +75,5 @@ Služka Toinetta se snaží Angelice pomoci, a tak požádá o pomoc Arganova br
 Když se zpět převleče a přijde jako služka, tak ho s Beraldem přemluví, aby dělal, že je mrtvý. Toinetta to oznámí jeho ženě Belině a ta je ráda, že konečně zemřel a zmocní se jeho majetku. Potom to řeknou Angelice, ta pláče a řekne, že se tedy provdá za Tomáše, když to bylo otcovo přání. Argan se konečně dozvěděl, jak to s ním kdo myslí. Obě dvě jsou překvapené, když Argan vstane a řekne jim, že smrt jenom předstíral, aby se dozvěděl, jaké jsou.  
 Argan dovolí Angelice se provdat za Kleanta, ale jen když se stane lékařem. Kleant souhlasí. Berald Arganovi řekne, ať se tedy sám stane lékařem a že má přátelskou fakultu, která ceremonii vykoná u nich v domě a zadarmo. Argan tedy souhlasí, ale neví, že si z něho Berald chce udělat legraci. Argan konečně pochopí, že není nemocný.
 
+### Tartuffe
 
