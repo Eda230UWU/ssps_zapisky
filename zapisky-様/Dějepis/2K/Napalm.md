@@ -35,3 +35,5 @@ psychologická zbraň
 2090m$^2$ na jednu bombu
 
 F-105 thunderchief
+
+Zákaz napalmu v 90. letech
