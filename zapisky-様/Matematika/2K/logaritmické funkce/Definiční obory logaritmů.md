@@ -23,4 +23,6 @@ $D_f = (-\infty , -2)\cup(2, \infty)$
 
 ----
 
-y = log_
+$f: y = log_7(\sqrt{3+x})$
+$3+x \geq 0$
+D
