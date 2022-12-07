@@ -19,9 +19,19 @@ bylo pokryto 39km$^2$ plochy
 
 Britové: churchill crocodile
 
-Korea: 
+#### Korea: 
 32 357 tun napalmu
 
 2x více než v pacifiku
 
-Napalm-B
+Napalm-B (super napalm)
+bezpečnější, hoří při menší teplotě, težší na zapálení, bezpečnější než Napalm - ten hořel při kontaktu se vzduchem
+
+#### Vietnam:
+388 00 tun Napalmu
+23x více než v Japonsku za 2WW
+psychologická zbraň
+
+2090m$^2$ na jednu bombu
+
+F-105 thunderchief
