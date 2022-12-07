@@ -17,4 +17,5 @@ $D_f =x > 8$
 $D_f = (8, \infty)$
 
 $f: y = log_\frac{3}{5}(4-x^2)$
-()()
+$y =(2+x)(2-x)$
+$D_f = (-\infty , -2)\cup(2, \infty)$
