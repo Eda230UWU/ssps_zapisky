@@ -1,4 +1,5 @@
 Vychází z antiky
+vzniká ve Fr 
 upínání na rozum (vědy), klade se menší důraz na boha 
 Baroko bylo zaměřeno hlavně na víru a na boha
 
