@@ -20,9 +20,9 @@ $D_f = (8, \infty)$
 $f: y = log_\frac{3}{5}(4-x^2)$
 $y =(2+x)(2-x)$
 $D_f = (-\infty , -2)\cup(2, \infty)$
-
 ----
-
 $f: y = log_7(\sqrt{3+x})$
 $3+x \geq 0$
-D
+$D_f = (-3, \infty)$
+---
+f:
