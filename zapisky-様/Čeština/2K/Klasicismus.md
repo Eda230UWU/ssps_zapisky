@@ -13,7 +13,10 @@ učení a šíření vzdělání  -> zřizování škol (Jezuité šířili vzd�
 ## Literatura
 Vyšší:
 básnické, 
-eposy
+eposy,
+óda,
+poezie
+
 
 Nižší:
 bajky

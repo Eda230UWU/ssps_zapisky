@@ -4,155 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "95fb7e58aafafb3d",
+        "id": "70c663b1bc7f74b7",
         "type": "tabs",
         "children": [
           {
-            "id": "99a015feeb81a9f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/OSE/Rodinné právo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "452332d2433d5a69",
+            "id": "c85ab5c808ea5615",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "zapisky-様/Čeština/2K/Klasicismus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abdb9dd3c0790a8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Matematika/2K/Exponenciální funkce.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89e2c023d8500a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 21.11/Proudění kapalin a plynů.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b6ba6ae95152894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Čeština/2K/Klasicismus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "deed4176bdc21924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Dějepis/2K/Napalm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97f3719a7b3a34e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Dějepis/2K/Revoluce Fiedal Castra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fc3f9236c6126bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Matematika/2K/logaritmické funkce/Definiční obory logaritmů.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74364513d27d5406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Matematika/2K/logaritmické funkce/Logaritmhy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14dc91374ebbf2df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Čeština/2K/Renesance a humanismus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcd5fa5e584e7865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Angličtina/Conditional sentences.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f155c7a602734de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Dějepis/2K/Vietcong.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Matematika/2K/logaritmické funkce/Logaritmhy.md",
+                "file": "zapisky-様/Čeština/2K/Klasicismus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,17 +94,17 @@
     "direction": "horizontal",
     "width": 343
   },
-  "active": "74364513d27d5406",
+  "active": "c85ab5c808ea5615",
   "lastOpenFiles": [
-    "zapisky-様/OSE/test gaming.md",
-    "zapisky-様/Matematika/2K/logaritmické funkce/Definiční obory logaritmů.md",
-    "zapisky-様/Dějepis/2K/Revoluce Fiedal Castra.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 21.11/Proudění kapalin a plynů.md",
     "zapisky-様/Dějepis/2K/Napalm.md",
+    "zapisky-様/Matematika/2K/logaritmické funkce/Logaritmhy.md",
+    "zapisky-様/Matematika/2K/logaritmické funkce/Definiční obory logaritmů.md",
+    "zapisky-様/Matematika/2K/logaritmické funkce/Exponenciální funkce.md",
+    "zapisky-様/OSE/test gaming.md",
+    "zapisky-様/Dějepis/2K/Revoluce Fiedal Castra.md",
     "zapisky-様/Čeština/2K/Klasicismus.md",
     "zapisky-様/Čeština/2K/Untitled.md",
-    "zapisky-様/Čeština/2K/Renesance a humanismus.md",
-    "zapisky-様/Čeština/2K/Samostudium 5.12.md",
-    "zapisky-様/OSE/Rodinné právo.md",
-    "zapisky-様/Matematika/2K/logaritmické funkce/Logaritmhy.md"
+    "zapisky-様/Čeština/2K/Renesance a humanismus.md"
   ]
 }

@@ -117,4 +117,11 @@ $log x - log 100$
 ---
 
 
-$2log_3(x-1) = \frac{log_3(x^6)- log_3}{}$
+$2log_3(x-1) = \frac{log_3(x^6)- log_3(x^2)}{2}$
+$log_3(x-1)^4= log_3(x^4)$
+$(x-1)^4 = x^4$
+$x^4−4x^3+6x^2−4x+1 = x^4$
+$-4x^3 + 6x^2 -4x +1 = 0$
+$x \notin \mathbb{R}$""
+ b b   b 
+b    bh b   b    b b b  b  b    b b b b  b   b b  bh        
