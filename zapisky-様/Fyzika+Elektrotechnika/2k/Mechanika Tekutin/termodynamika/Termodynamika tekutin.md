@@ -18,7 +18,12 @@ absolutní nula = 0°K
 
 ---
 
-### Vnitřní energie
+# Vnitřní energie
 1) $E_K$
 2) $E_P$
-3)
+
+## Změna vnitřní Energie
+
+### Základ zachování energie
+$E_K + E_P = konst$
+
