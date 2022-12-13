@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f870aee47bf23ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/termodynamika/Příklady.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "right": {
     "id": "af0ab7e3a190d97a",
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/termodynamika/Termodynamika tekutin.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/termodynamika/Příklady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,8 +107,9 @@
     "direction": "horizontal",
     "width": 343
   },
-  "active": "c85ab5c808ea5615",
+  "active": "f870aee47bf23ec7",
   "lastOpenFiles": [
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/termodynamika/Termodynamika tekutin.md",
     "zapisky-様/Čeština/2K/Klasicismus.md",
     "zapisky-様/Čeština/2K/Renesance a humanismus.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Samostudium 21.11/Proudění kapalin a plynů.md",
@@ -104,7 +118,6 @@
     "zapisky-様/Matematika/2K/logaritmické funkce/Definiční obory logaritmů.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Exponenciální funkce.md",
     "zapisky-様/OSE/test gaming.md",
-    "zapisky-様/Dějepis/2K/Revoluce Fiedal Castra.md",
-    "zapisky-様/Čeština/2K/Untitled.md"
+    "zapisky-様/Dějepis/2K/Revoluce Fiedal Castra.md"
   ]
 }

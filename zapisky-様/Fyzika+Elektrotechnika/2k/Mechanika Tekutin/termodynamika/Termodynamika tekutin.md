@@ -25,5 +25,15 @@ absolutní nula = 0°K
 ## Změna vnitřní Energie
 
 ### Základ zachování energie
-$E_K + E_P = konst$
+mechanika: $E_K + E_P = konst$
+molekulární: $E_K + E_P + U = konst$ 
+$Q = m*c*\Delta t$
+c = měrná tepelná kapacita
+m = hmotnost
+$\Delta$ t = rozdíl teplot tělesa
+
+---
+
+
+
 

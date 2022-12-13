@@ -1,0 +1,1 @@
+V Niagárských vodopádech padá voda z výšky 60m, jak se zvýší její teplota, předopkládáme-li, že se celá kinetická energie padající vody změní ve vnitřní energii 
