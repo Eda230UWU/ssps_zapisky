@@ -29,6 +29,7 @@ Denis Diderot a Jean de la Rond D'Alembert
 28 Svazků encyklopedie
 
 ### Jeptiška
+- Kritika církve
 Denis Diderot
 Maire Simonová nechce býti řeholnicí, ale je k tomu donucena. 
 Zuzana jedná podle svého rozumu a ne podle církve
