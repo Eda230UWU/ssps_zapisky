@@ -34,5 +34,8 @@
 	 ustavni soud gaming
 	
 	1. nejvyšší soud
-	2. krajský soud
-	3. okresní soud
+	2. vrchní soud
+	3. krajský soud -> trestní řízení
+	4. okresní soud -> basicly všechno ostatní
+10. 
+    
