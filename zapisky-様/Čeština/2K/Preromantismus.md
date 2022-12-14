@@ -1,3 +1,16 @@
 
 # Literatura
-### Utrpení malého Werter
+
+
+## Goethe
+- součást hnutí Sturm und Drag 
+
+
+### Utrpení malého Wertera
+Werter odjízdí do Walheimu, aby nabral inspiraci k malování. V kočaáře s ním jede dívka Lotta, která je zasnoubená s Albertem a vychovává své mladší sourozence. Werter píše, že je smutný, i přesto, že je v tak štastném prostředí. Werter Lottu navštěvuje. Werter odjede na velvyslanectví a po návaratu se zamiluje do Lotty. Lotta to vidí podobně, ale jelikož je zasnoubená, tak se s Werterem neseznamuje. Werter to ve výsledku nedá, odjede a o půlnoci sezastřelí Albertovou pistolí. 
+
+# Romantismus
+
+## Literatura
+- hlavní hrdina nevolí sebevraždu
+- 
