@@ -6,7 +6,7 @@
 	Veřejné právo je souhrnné označení pro oblast práva, která se týká veřejné moci a jejího působení na občany a na soukromé subjekty. Jedná se o právní oblast, která se zabývá právními předpisy a institucemi, které se týkají státu a veřejné správy. Veřejné právo se zabývá například právem územním, veřejným zdravotnictvím, občanským právem, veřejným obchodem nebo daněmi.
 4. právo objektivní a právo subjektivní
 	Objektivní - zakazuje
-	subjektivní - co nám povoluje
+	subjektivní - vyplývá z objektivních zákonů  
 5. Kogentní a dispozitivní norma
 	Rozdíl mezi kogentní a dispozitivní normou tedy spočívá v tom, že kogentní normy jsou povinné a mají přednost před ostatními právními předpisy, zatímco dispozitivní normy jsou dobrovolné a lze je ignorovat bez důsledků
 6. Hierarchie práva
