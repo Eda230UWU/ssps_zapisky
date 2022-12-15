@@ -70,4 +70,29 @@ show dtp ``interface
 
 ## Sítě zápisky
 
-`switch(config`
+`switch(config)vlan 10` - vlan 10
+`(config)interface range f 0/1-2` vyber interfaceu od 1 do 2
+`(config-interface-rng)switchport access vlan 20` nastavit vlan pro porty
+```
+nastaveni DHCP pro jednotlive VLANy
++ pro tip: psát komandy do bloku 
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
