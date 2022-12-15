@@ -62,3 +62,12 @@ statický trunk (nezapne se automaticky na trunk, když je switch na druhé stra
 chceme vypnout z důvodu bezpečnosti dynamic auto a dynamic desirable
 
 show dtp ``interface
+
+
+
+---
+
+
+## Sítě zápisky
+
+`switch(config`
