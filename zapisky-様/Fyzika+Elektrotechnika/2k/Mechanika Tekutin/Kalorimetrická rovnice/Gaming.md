@@ -46,3 +46,11 @@ $$t_1 = \frac{2*4180*13}{0.5*450}+28$$
 $$t_1 = \frac{108680}{225}+28 $$
 $$t_1 = 483+28$$
 $$t_1 = 511$$
+
+
+---
+
+jakou rychlostí se pohybovala olověná střela, pokud se 90% energie přeměnila při nárazu na energii vnitřní a její teplota vzrostal o $20\celsius$ na 320. 10% je přeměna na teplo
+
+$10\% = Q$
+$0,9v^2 = m$
