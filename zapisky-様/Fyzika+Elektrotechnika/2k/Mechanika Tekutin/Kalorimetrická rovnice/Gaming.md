@@ -53,4 +53,6 @@ $$t_1 = 511$$
 jakou rychlostí se pohybovala olověná střela, pokud se 90% energie přeměnila při nárazu na energii vnitřní a její teplota vzrostal o $20\celsius$ na 320. 10% je přeměna na teplo
 
 $10\% = Q$
-$0,9v^2 = mc(t_1-T_2)$
+$0,9\frac{1}{2}v^2 = mc(t_1-t_2)$
+$v= \sqrt\frac{2*128*300}{0,9}$
+$v = \sqrt\frac{76800}{0,9}$
