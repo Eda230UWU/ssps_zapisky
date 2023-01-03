@@ -13,4 +13,15 @@ Werter odjízdí do Walheimu, aby nabral inspiraci k malování. V kočaáře s 
 
 ## Literatura
 - hlavní hrdina nevolí sebevraždu
-- 
+
+
+
+
+
+
+---
+
+
+## Faust
+Vědec, kapacita
+
