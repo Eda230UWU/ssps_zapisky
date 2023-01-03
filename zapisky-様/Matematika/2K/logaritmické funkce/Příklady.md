@@ -72,4 +72,7 @@ $x \ne 1$
 
 ---
 
-$$
+$1+log_8(x)=log_8(6-x)+2log_8(x)$
+$1=log_8(6-x)+2log_8(x) - log_8(x)$
+$1+log_8(x) = log_8(6-x)+log_8(x^2)$
+$log_8(8)+lo$
