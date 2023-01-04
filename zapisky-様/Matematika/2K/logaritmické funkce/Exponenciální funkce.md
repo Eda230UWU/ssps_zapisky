@@ -11,4 +11,4 @@ zjistíme základ, když známe exponent a známe výsledek
 ---
 
 $$3^{m-5} = 5^{2m+1}$$
-$$log($$
+$$log(3) $$
