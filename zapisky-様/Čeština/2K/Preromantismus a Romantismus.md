@@ -1,5 +1,18 @@
 
+
+
+
+
 # Literatura
+### Znaky preromantismu
+hrdina je citově založený
+sebevražda
+řád společnosti je pro hrdinu důležitý
+nešťastná láska, společenké rozdíly nebo není realizovatelná
+
+
+### Znaky romantismu
+hrdina vystupuje proti společnosti
 
 
 ## Goethe
