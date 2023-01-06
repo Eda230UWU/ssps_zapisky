@@ -1,9 +1,14 @@
 
 
-
-
-
 # Literatura
+slovosledná inverze
+
+## Dramatické dílo
+reprika
+scénická poznámka
+dějství > jednání > scéna
+
+
 ### Znaky preromantismu
 hrdina je citově založený
 sebevražda

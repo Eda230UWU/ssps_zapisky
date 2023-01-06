@@ -9,6 +9,11 @@ Jezuité #1
 osvícenci kladou důraz na knihovny a knih
 učení a šíření vzdělání  -> zřizování škol (Jezuité šířili vzdělanost), povinná školní docházka (Marie Terezie), systematizace vzdělání -> učitel vás naučí to nejdůležitější a dá tomu nějaký systém, Encyklopedie
 
+fatalista: člověk, co si myslí, že je všechno předurčené
+encyklopedie: seřazení dosavadního vědění z vědy, umění atd.
+robinsonáda: zjev člověka v pro něj nepřirozeném prostředí
+Bajka: personifikace a ponaučení
+Ampír-Empír: poslední fáze klasicismu 
 
 ## Literatura
 Vyšší:
