@@ -6,7 +6,8 @@ slovosledná inverze
 ## Dramatické dílo
 reprika
 scénická poznámka
-dějství > jednání > scéna
+dějství > jednání > scéna > akt
+repliky: promluva jednoho člověka
 
 
 ### Znaky preromantismu
