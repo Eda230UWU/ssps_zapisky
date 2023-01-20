@@ -5,3 +5,5 @@ neboli vzkříšení
 austroslavismus - oslava rakouska
 slavistika - nauka o slovanech
 panslavismus - spojení všech sloavnských jazyků jako jeden národ, ruský panslavismus měl vrchol v preromantismu, poté byl opuštěn
+
+purista - člověk, očištěn í jazyka
