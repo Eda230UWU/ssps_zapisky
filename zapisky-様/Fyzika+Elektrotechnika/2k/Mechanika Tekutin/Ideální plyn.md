@@ -8,6 +8,33 @@ T: teplota v kelvinech
 p: tlak v $Pa$
 V: objem v $m^3$
 $$\frac{p_1V_1}{T_1}=\frac{p_2V_2}{T_2} = konst.$$
+---
+
+$p = \frac{konst}{V}$
+s objemem klesá tlak
+$\Delta U = Q+W$
+T = konst
+$E_k$ = konst
+$\Delta U = OJ$
+$O = W+Q$
+$-W = Q$
+$W' = Q$
+
+---
+
+Isochorický děj => V = konst
+$\frac{p}{T}= konst$
+$\frac{p_1}{T_1} = \frac{p_2}{T_2}$
+s klesající teplotou klesá tlak
+
+---
+
+izobarický
+
+	$\frac{V}{T}=konst$ 
+
+
+
 
 
 
