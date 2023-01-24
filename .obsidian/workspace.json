@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57074f50ec107ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Ideální plyn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/Úvod.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Ideální plyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +130,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b1ee5d39d68c6d0e",
+  "active": "57074f50ec107ff8",
   "lastOpenFiles": [
-    "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Kalorimetrická rovnice/Untitled 1.md",
     "zapisky-様/Matematika/2K/Goniometrické funkce/Úvod.md",
+    "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Exponenciální funkce.md",
     "zapisky-様/Čeština/2K/Národní obrození.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Příklady.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Zápis testu.md",
     "zapisky-様/Čeština/2K/Preromantismus a Romantismus.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Ideální plyn.md",
-    "zapisky-様/Čeština/2K/Renesance a humanismus.md",
-    "zapisky-様/Čeština/2K/Klasicismus.md"
+    "zapisky-様/Čeština/2K/Renesance a humanismus.md"
   ]
 }
