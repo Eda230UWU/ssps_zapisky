@@ -13,15 +13,15 @@ purista - člověk, očištění jazyka
 Šíření vzdělanost pomocí tištěných novin a divadel
 
 ### Divadla
-Ulice v Kotcích > Stálé Německé divadlo v Kotcích
+#### Ulice v Kotcích > Stálé Německé divadlo v Kotcích
 1739-1783
 sezóna roku 1771 > Překlady z Němčiny
 1771 > Kníže Honzík - fraška > přeložena do češtiny > Něměčtí herci museli hrát česky > 1. Česky hraná divadelní hra
 
-Hraběcí Nosticovo Národní divadlo
+#### Hraběcí Nosticovo Národní divadlo
 Německé 1783
 podle Hraběte Františka Antonína Nostice (Ochrana pro Dobrovského, staral se o jeho děti)
-přejmenováno na Stavovské roku 1798 (prodáno Stavům)
+##### přejmenováno na Stavovské roku 1798 (prodáno Stavům)
 o 100 let starší než divadlo Národní
 
 Mozart A. W. - Don Giovani, Figarova svatba, kouzelná flétna, "Mí Pražané mi rozumí"
@@ -34,7 +34,22 @@ Václav Kliment Klicpera
 Dramatik (princip kuklení (Představa divadla trochu jinak, herci s postavou poté zachází trochu jinak, například jsou oproti postavě negativně postavení))
 Veselohra na mostě, Hardián z Římsů, Rohovín Čtverrohý...
 
-Koňský trh Václavském náměstí
+#### Koňský trh, Václavské náměstí
+Obchod z dobytkem, návrh na lepší pojmenování, také vzhledem k soše Sv. Václava (ta původní)
+Nová byla postavena v polovině 19. století
+
+#### Vlastenecké divadlo v Boudě
+uprostřed Václavského náměstí, stlučena z prken, po třech letech stržena
+Vlastenecké hry
+poté přeneseno do Hyberneckého divadla. 
+
+1786-1789
+Václav Thám > založil divadlo Bouda
+Břetislav a Jitka, Vlasta a Šárka, Kutnohorští havíři
+
+### První Česká Novodobá opera
+Dráteník (opera)
+1826 od Františka Škroup (napsal hudbu pro Hymnu, Josef K.T. napsal slova)
 
 ### Noviny
 Pražské poštovské noviny
