@@ -21,8 +21,18 @@ sezóna roku 1771 > Překlady z Němčiny
 Hraběcí Nosticovo Národní divadlo
 Německé 1783
 podle Hraběte Františka Antonína Nostice (Ochrana pro Dobrovského, staral se o jeho děti)
-přejmenováno na Stavovské roku 1798
+přejmenováno na Stavovské roku 1798 (prodáno Stavům)
+o 100 let starší než divadlo Národní
 
+Mozart A. W. - Don Giovani, Figarova svatba, kouzelná flétna, "Mí Pražané mi rozumí"
+
+Jan Nepomuk Štěpánek
+dramatik, dramaturg a spoluředitel
+Čech a Němec
+
+Václav Kliment Klicpera
+Dramatik
+Veselohra na mostě, Hardián z Římsů, Rohovín Čtverrohý...
 
 ### Noviny
 Pražské poštovské noviny
