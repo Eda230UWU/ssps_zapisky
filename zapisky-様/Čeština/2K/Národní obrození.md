@@ -31,7 +31,7 @@ dramatik, dramaturg a spoluředitel
 Čech a Němec (divadelní hra)
 
 Václav Kliment Klicpera
-Dramatik
+Dramatik (princip kuklení (Představa divadla trochu jinak, herci s postavou poté zachází trochu jinak, například jsou oproti postavě negativně postavení))
 Veselohra na mostě, Hardián z Římsů, Rohovín Čtverrohý...
 
 ### Noviny
