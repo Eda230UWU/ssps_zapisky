@@ -34,6 +34,8 @@ Václav Kliment Klicpera
 Dramatik (princip kuklení (Představa divadla trochu jinak, herci s postavou poté zachází trochu jinak, například jsou oproti postavě negativně postavení))
 Veselohra na mostě, Hardián z Římsů, Rohovín Čtverrohý...
 
+Koňský trh Václavském náměstí
+
 ### Noviny
 Pražské poštovské noviny
 
