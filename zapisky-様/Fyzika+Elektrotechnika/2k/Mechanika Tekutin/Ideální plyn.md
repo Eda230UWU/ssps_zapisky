@@ -33,8 +33,9 @@ izobarický
 
 	$\frac{V}{T}=konst$ 
 
+s klesajici teplotou klesa objem
 
-
+$\Delta U = Q_p+ W$
 
 
 

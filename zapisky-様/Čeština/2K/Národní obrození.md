@@ -7,3 +7,5 @@ slavistika - nauka o slovanech
 panslavismus - spojení všech sloavnských jazyků jako jeden národ, ruský panslavismus měl vrchol v preromantismu, poté byl opuštěn
 
 purista - člověk, očištění jazyka
+
+Šíření vzdělanost pomocí tištěných novin a divadel

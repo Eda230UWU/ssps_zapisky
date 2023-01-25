@@ -13,3 +13,12 @@ $tn \beta = \frac{a}{b}$
 $b=\frac{a }{tn\beta}$
 $b = 7/tn38$
 $b = 8,9cm$
+
+---
+$(cos\beta)^{-1}=\frac{1}{cos\beta}$
+$f^{-1}\ne\frac1f$
+$cos \beta=\frac ac= \frac{5,2}{8,4}$
+
+---
+
+$v= \sqrt{5,2^2-4,2^2}$
