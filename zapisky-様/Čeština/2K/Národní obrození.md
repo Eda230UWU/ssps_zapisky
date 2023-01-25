@@ -28,7 +28,7 @@ Mozart A. W. - Don Giovani, Figarova svatba, kouzelná flétna, "Mí Pražané m
 
 Jan Nepomuk Štěpánek
 dramatik, dramaturg a spoluředitel
-Čech a Němec
+Čech a Němec (divadelní hra)
 
 Václav Kliment Klicpera
 Dramatik
