@@ -18,6 +18,12 @@ Ulice v Kotcích > Stálé Německé divadlo v Kotcích
 sezóna roku 1771 > Překlady z Němčiny
 1771 > Kníže Honzík - fraška > přeložena do češtiny > Něměčtí herci museli hrát česky > 1. Česky hraná divadelní hra
 
+Hraběcí Nosticovo Národní divadlo
+Německé 1783
+podle Hraběte Františka Antonína Nostice
+přejmenováno na Stavovské roku 1798
+
+
 ### Noviny
 Pražské poštovské noviny
 
