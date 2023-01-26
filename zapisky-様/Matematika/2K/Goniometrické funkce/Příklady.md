@@ -16,3 +16,13 @@ $cos\frac73\pi$ = $cos\frac{\pi}{3}= \frac12$
 ---
 
 $sin 1500° = sin 60° = \frac{\sqrt3}{2}$
+
+---
+
+$sin\frac56\pi=sin\frac{5\pi}{6}$
+$1/2$
+---
+$sin \frac{15}{3}\pi$=$sin \pi=0$
+
+---
+$sin-\frac{7}{4}\pi =sin -\frac{3}{4}\pi= $
