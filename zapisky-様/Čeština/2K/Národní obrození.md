@@ -67,3 +67,18 @@ pokračování PPN
 převzal poté jeho syn, Václav Radomil/Rodomil Kramerius
 
 Nejčtenější kniha - knížky lidového čtení > knihy a příběhy pro lidi
+
+---
+
+### František Palacký
+otec národa
+Dějiny národ u českého v Čechách i v Moravě
+
+1836 Německy
+1848-1876 Česky
+5 dílů
+
+"Kdyby nebylo Rakouska, museli bychom si ho vymyslet"
+"Byli jsme před Rakouskem budeme i po něm"
+
+

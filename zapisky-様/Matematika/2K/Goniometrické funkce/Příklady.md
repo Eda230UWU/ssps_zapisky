@@ -25,4 +25,3 @@ $1/2$
 $sin \frac{15}{3}\pi$=$sin \pi=0$
 
 ---
-$sin-\frac{7}{4}\pi =sin -\frac{3}{4}\pi= $
