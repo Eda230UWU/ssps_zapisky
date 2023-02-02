@@ -25,3 +25,22 @@ $1/2$
 $sin \frac{15}{3}\pi$=$sin \pi=0$
 
 ---
+a)
+$\sin\frac56\pi = nvm$
+$\sin\frac{15}3\pi =0$
+$\sin(-\frac74\pi) = \frac{\sqrt2}{2}$
+
+b)
+$\cos\frac34\pi  =\frac{\sqrt2}{2}$  
+$\cos\frac76\pi = -\frac{\sqrt3}{2}$
+$\cos(-\frac43\pi)= \frac12$
+
+c)
+$\sin210\degree=-\sin30\degree=-\frac12$
+$\sin330\degree=-\sin30\degree=-\frac12$
+$\sin720\degree=0$
+
+d)
+$\cos(-180\degree)=1$
+$\cos120\degree=\sin60\degree=\frac{\sqrt3}2$
+$\cos240\degree=-\sin30\degree=-\frac12$

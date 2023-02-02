@@ -79,6 +79,11 @@ Dějiny národ u českého v Čechách i v Moravě
 5 dílů
 
 "Kdyby nebylo Rakouska, museli bychom si ho vymyslet"
-"Byli jsme před Rakouskem budeme i po něm"
+"Byli jsme před Rakouskem, budeme i po něm"
+
+---
+
+### Pavel Josef Šafařík
+Slovanské starožitnosti
 
 
