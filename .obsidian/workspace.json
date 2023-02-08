@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Ideální plyn.md",
+                "file": "zapisky-様/Čeština/2K/Preromantismus a Romantismus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd0e695fae696849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Čeština/2K/Literární prvky.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cb87578fe89bd4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Čeština/2K/Literární prvky.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Ideální plyn.md",
+                "file": "zapisky-様/Čeština/2K/Literární prvky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -105,17 +131,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b1ee5d39d68c6d0e",
+  "active": "2cb87578fe89bd4a",
   "lastOpenFiles": [
-    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Kalorimetrická rovnice/Untitled.md",
-    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Kalorimetrická rovnice/Untitled 1.md",
-    "zapisky-様/Sítě/CCNA SRWE/VLANy.md",
-    "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
-    "zapisky-様/Čeština/2K/Národní obrození.md",
     "zapisky-様/Čeština/2K/Preromantismus a Romantismus.md",
-    "zapisky-様/Čeština/2K/Klasicismus.md",
-    "zapisky-様/Čeština/2K/Renesance a humanismus.md",
+    "zapisky-様/Čeština/2K/Pracovní listy.md",
     "zapisky-様/Čeština/2K/Literární prvky.md",
-    "Untitled 1.md"
+    "zapisky-様/Čeština/Literatura/Základní literární pojmy.md",
+    "zapisky-様/Matematika/2K/logaritmické funkce/Logaritmhy.md",
+    "zapisky-様/Matematika/2K/logaritmické funkce/definice logaritmu.md",
+    "zapisky-様/Matematika/2K/logaritmické funkce/Exponenciální funkce.md",
+    "zapisky-様/Matematika/2K/logaritmické funkce/Definiční obory logaritmů.md",
+    "zapisky-様/Matematika/2K/logaritmické funkce/Příklady.md",
+    "zapisky-様/Matematika/2K/Vzorečky na exponenciální rovnice.md"
   ]
 }

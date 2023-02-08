@@ -44,3 +44,22 @@ Werter odjízdí do Walheimu, aby nabral inspiraci k malování. V kočaáře s 
 ## Faust
 Vědec, kapacita
 
+
+
+---
+
+## František Ladislav Čelakovský
+
+##### Ohlas Písní Českých
+Pocestný
+
+
+
+##### Ohlas Písní Ruských
+Ilja Muromec 
+Sokol, kůň, Muromec
+
+
+## Jan Kollář
+Slávy dcera - Předzpěv
+Tatry, rakev 
