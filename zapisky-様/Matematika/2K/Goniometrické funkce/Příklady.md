@@ -1,9 +1,12 @@
 | $\alpha$       | 0°/0 | 30°/ $\frac{\pi}{6}$ | 45° / $\frac{\pi}{4}$ | 60° /$\frac{\pi}{3}$ | 90° / $\frac{\pi}{2}$ |
-| -------------- | ---- | ----------- | ------- | ----------- | ------------ |
-| sin $\alpha$|0|$\frac12$|$\frac{\sqrt2}{2}$ |$\frac{\sqrt3}{2}$| 1 |
-| cosin $\alpha$ |1|$\frac{\sqrt3}{2}$| $\frac{\sqrt2}{2}$|$\frac12$|0|
-$α (radiány) = (α (stupně) / 180 °) × π = (30 ° / 180 °) × π$
+| ---- | ---- | -------- | ----------- | ----------- | ---------- |
+| sin $\alpha$   | 0    | $\frac12$            | $\frac{\sqrt2}{2}$    | $\frac{\sqrt3}{2}$   | 1                     |
+| cosin $\alpha$ | 1    | $\frac{\sqrt3}{2}$   | $\frac{\sqrt2}{2}$    | $\frac12$            | 0                     |
+| $tan\ \alpha$ |  0    |  $\frac{\sqrt3}{3}$  | 1   |    $\sqrt3$       |      $\pm\infty$         |
+| $cotan\ \alpha$ |  $\pm\infty$  |             $\sqrt3$         |       1                 |     $\frac{\sqrt3}{3}$  |     0   |
+0$α (radiány) = (α (stupně) / 180 °) × π = (30 ° / 180 °) × π$
 
+$tan x = \frac{sin x}{ x}$
 
 $sin \frac{17}{4}\pi$
 $765° = 2*360° + 45°$
@@ -50,6 +53,6 @@ $\cos240\degree=-\sin30\degree=-\frac12$
 $sin\ 30° = \frac12$
 $cos\ 30° = \frac{\sqrt{3}}{2}$
 $sin\ 225° = -\frac{\sqrt2}{2}$ 
-$cos 180° = -1$
-$tg 240° = \sqrt3$
-$cot 330° = -\sqrt3$
+$cos\ 180° = -1$
+$tg\  60° = \sqrt3$
+$cot\ 150° = -\sqrt3$
