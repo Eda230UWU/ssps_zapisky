@@ -26,7 +26,7 @@ $sin \frac{15}{3}\pi$=$sin \pi=0$
 
 ---
 a)
-$\sin\frac56\pi = nvm$
+$\sin\frac56\pi = \frac12$
 $\sin\frac{15}3\pi =0$
 $\sin(-\frac74\pi) = \frac{\sqrt2}{2}$
 
@@ -44,3 +44,12 @@ d)
 $\cos(-180\degree)=1$
 $\cos120\degree=\sin60\degree=\frac{\sqrt3}2$
 $\cos240\degree=-\sin30\degree=-\frac12$
+
+---
+
+$sin\ 30° = \frac12$
+$cos\ 30° = \frac{\sqrt{3}}{2}$
+$sin\ 225° = -\frac{\sqrt2}{2}$ 
+$cos 180° = -1$
+$tg 240° = \sqrt3$
+$cot 330° = -\sqrt3$

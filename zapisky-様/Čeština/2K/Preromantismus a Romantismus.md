@@ -35,8 +35,11 @@ Werter odjízdí do Walheimu, aby nabral inspiraci k malování. V kočaáře s 
 
 
 
+### Marie Terezie
+Reformy - povinná školní docházka
 
-
+### Josef II.
+Refomry - Zrušení nevolnictví a tolerance víry
 
 ---
 
