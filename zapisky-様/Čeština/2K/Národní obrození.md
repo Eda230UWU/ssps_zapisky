@@ -8,6 +8,9 @@ panslavismus - spojení všech sloavnských jazyků jako jeden národ, ruský pa
 
 purista - člověk, očištění jazyka
 
+Česká expedice - obrozenecké hnutí, noviny, 1790
+Václav Matěj Kramerius
+
 ---
 
 Šíření vzdělanost pomocí tištěných novin a divadel

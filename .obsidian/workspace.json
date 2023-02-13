@@ -13,26 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Čeština/2K/Preromantismus a Romantismus.md",
+                "file": "zapisky-様/Čeština/2K/Národní obrození.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd0e695fae696849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Čeština/2K/Literární prvky.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cb87578fe89bd4a",
+            "id": "09b12280f0b250b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,17 +119,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2cb87578fe89bd4a",
+  "active": "09b12280f0b250b6",
   "lastOpenFiles": [
+    "zapisky-様/Čeština/2K/Preromantismus a Romantismus.md",
+    "zapisky-様/Čeština/2K/Národní obrození.md",
+    "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Příklady.md",
     "zapisky-様/Matematika/2K/Goniometrické funkce/Úvod.md",
     "zapisky-様/Matematika/2K/Opakování.md",
-    "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Logaritmhy.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Exponenciální funkce.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Definiční obory logaritmů.md",
-    "zapisky-様/Matematika/2K/logaritmické funkce/definice logaritmu.md",
-    "zapisky-様/Čeština/2K/hodnocení textu.md",
-    "zapisky-様/Čeština/2K/Preromantismus a Romantismus.md"
+    "zapisky-様/Matematika/2K/logaritmické funkce/definice logaritmu.md"
   ]
 }

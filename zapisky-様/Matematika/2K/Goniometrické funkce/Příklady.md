@@ -6,7 +6,15 @@
 | $cotan\ \alpha$ |  $\pm\infty$  |             $\sqrt3$         |       1                 |     $\frac{\sqrt3}{3}$  |     0   |
 0$α (radiány) = (α (stupně) / 180 °) × π = (30 ° / 180 °) × π$
 
-$tan x = \frac{sin x}{ x}$
+
+
+
+
+
+
+$D_{tn}= \mathbb{R} - \{\frac\pi2 + \pi k\}$
+$D_{cotn}= \mathbb{R}-\{\pi k\}$
+$tan\ x = \frac{sin\ x}{cos\ x}$
 
 $sin \frac{17}{4}\pi$
 $765° = 2*360° + 45°$
