@@ -5,6 +5,10 @@
 | $tan\ \alpha$ |  0    |  $\frac{\sqrt3}{3}$  | 1   |    $\sqrt3$       |      $\pm\infty$         |
 | $cotan\ \alpha$ |  $\pm\infty$  |             $\sqrt3$         |       1                 |     $\frac{\sqrt3}{3}$  |     0   |
 0$α (radiány) = (α (stupně) / 180 °) × π = (30 ° / 180 °) × π$
+
+
+---
+
 a)
 $tg\frac76\pi = - \frac{\sqrt3}{3}$
 $tg 4\pi = 0$
@@ -73,3 +77,10 @@ $sin\ 225° = -\frac{\sqrt2}{2}$
 $cos\ 180° = -1$
 $tg\  60° = \sqrt3$
 $cot\ 150° = -\sqrt3$
+
+---
+tg x = 1
+
+$x = 45°$
+$cotg x = -\sqrt{3}$
+$x = 120°$
