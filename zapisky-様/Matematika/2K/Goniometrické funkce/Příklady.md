@@ -88,3 +88,23 @@ $cotg x = -\sqrt{3}$
 $x = 150° = \frac56\pi$
 
 ---
+
+$x = -\frac45 \pi$
+kladný
+záporný
+
+$x = \frac{13}{3} \pi$
+kladné
+kladný
+
+$x = 6\pi?$
+nula
+nedefinováno
+
+---
+
+
+$a^2  * sin\frac{\pi}{2} + b^2 * cos 0 + 2ab  * cos \pi$
+$a^2 + b^2 + 2ab = $
+
+
