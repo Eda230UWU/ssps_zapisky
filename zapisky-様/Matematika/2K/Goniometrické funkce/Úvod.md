@@ -6,6 +6,10 @@
 	$tg\{\alpha\} = \frac{protilehla}{prilehla}$
 	$cotg\{\alpha\} = \frac{prilehla}{protilehla}$
 
+
+$cotg\{\alpha\}=\frac{cos\{\alpha\}}{sin\{\alpha\}}$
+$tg\{\alpha\}=\frac{sin\{\alpha\}}{cos\{\alpha\}}$
+
 v pravoúhlém trojúhleníku ABC: $\beta = 38°, a=7cm$ 
 c= 8,8cm
 

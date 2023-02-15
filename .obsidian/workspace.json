@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "180c67f647066205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/Úvod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
+                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/Úvod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +131,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "09b12280f0b250b6",
+  "active": "0965b629a015792f",
   "lastOpenFiles": [
-    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Kalorimetrická rovnice/Untitled 1.md",
     "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
+    "zapisky-様/Matematika/2K/Goniometrické funkce/Úvod.md",
+    "zapisky-様/Čeština/2K/Máj - Karel Hynek Mácha.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Kalorimetrická rovnice/Untitled 1.md",
     "zapisky-様/Čeština/2K/Preromantismus a Romantismus.md",
     "zapisky-様/Čeština/2K/Národní obrození.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Příklady.md",
-    "zapisky-様/Matematika/2K/Goniometrické funkce/Úvod.md",
     "zapisky-様/Matematika/2K/Opakování.md",
     "zapisky-様/Matematika/2K/logaritmické funkce/Logaritmhy.md",
-    "zapisky-様/Matematika/2K/logaritmické funkce/Exponenciální funkce.md",
-    "zapisky-様/Matematika/2K/logaritmické funkce/Definiční obory logaritmů.md"
+    "zapisky-様/Matematika/2K/logaritmické funkce/Exponenciální funkce.md"
   ]
 }
