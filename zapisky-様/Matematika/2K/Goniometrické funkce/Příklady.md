@@ -4,10 +4,12 @@
 | cosin $\alpha$ | 1    | $\frac{\sqrt3}{2}$   | $\frac{\sqrt2}{2}$    | $\frac12$            | 0                     |
 | $tan\ \alpha$ |  0    |  $\frac{\sqrt3}{3}$  | 1   |    $\sqrt3$       |      $\pm\infty$         |
 | $cotan\ \alpha$ |  $\pm\infty$  |             $\sqrt3$         |       1                 |     $\frac{\sqrt3}{3}$  |     0   |
-0$α (radiány) = (α (stupně) / 180 °) × π = (30 ° / 180 °) × π$
+$α (radiány) = (α (stupně) / 180 °) × π = (30 ° / 180 °) × π$
 
 
 ---
+
+![[Pasted image 20230216114158.png]]
 
 a)
 $tg\frac76\pi = - \frac{\sqrt3}{3}$
@@ -105,6 +107,19 @@ nedefinováno
 
 
 $a^2  * sin\frac{\pi}{2} + b^2 * cos 0 + 2ab  * cos \pi$
-$a^2 + b^2 + 2ab = $
+$a^2 + b^2 - 2ab = (a - b)^2$
+
+$3 cos \frac{\pi}{2} -  4 sin\frac32\pi + 8 tan\pi$
+$0  + 4 + 8*0 = 4$
+
+$2 cos \pi + 6 cotn \frac32 \pi - 5sin2\pi$
+$-2+ 6*0 - 5*0 = -2$
 
 
+---
+
+
+$$tan 30° * cotan 30° - sin30°*tan60° $$
+$$ \frac{\sqrt3}{3}*\sqrt3 - \frac12*\sqrt3$$
+$$\frac33-\frac{\sqrt3}{2}$$
+$$1-\frac{\sqrt3}{2}$$
