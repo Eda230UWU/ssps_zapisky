@@ -130,4 +130,23 @@ $$1-\frac{\sqrt3}{2}$$
 3.
 $h_3 : y = sin (\frac\pi3 - \frac14x)$
 $y=  -sin(\frac14x - \frac\pi3)$
-$y= -sin \frac$
+$y= -sin( \frac x4-\frac\pi3)$
+![[Pasted image 20230221130328.png]]![[Pasted image 20230221130332.png]]
+
+---
+
+
+$h_4:y = sin(\frac x4-\frac\pi3)$
+![[Pasted image 20230221130654.png]]
+
+---
+$h_5: y  = sin2\pi x$
+![[Pasted image 20230221131212.png]]
+
+
+---
+
+h
+
+
+
