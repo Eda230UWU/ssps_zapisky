@@ -128,4 +128,6 @@ $$1-\frac{\sqrt3}{2}$$
 
 
 3.
-$h_3 : y = sin (íé$
+$h_3 : y = sin (\frac\pi3 - \frac14x)$
+$y=  -sin(\frac14x - \frac\pi3)$
+$y= -sin \frac$
