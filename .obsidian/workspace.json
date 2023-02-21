@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1ee5d39d68c6d0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Čeština/2K/Národní obrození.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "09b12280f0b250b6",
             "type": "leaf",
             "state": {
@@ -30,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f0288788e3862b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/motor a chladici zarizeni.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "180c67f647066205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Čeština/2K/Literární prvky.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b372c99f033d232a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Čeština/2K/Čeští romantikové.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/motor a chladici zarizeni.md",
+                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +106,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f0288788e3862b06",
+  "active": "09b12280f0b250b6",
   "lastOpenFiles": [
+    "zapisky-様/Čeština/2K/Národní obrození.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/motor a chladici zarizeni.md",
     "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
     "zapisky-様/Čeština/2K/Čeští romantikové.md",
     "zapisky-様/Čeština/2K/Literární prvky.md",
@@ -164,8 +117,6 @@
     "zapisky-様/Čeština/Literatura/Bible.md",
     "zapisky-様/Čeština/Literatura/Gotika.md",
     "zapisky-様/Čeština/Literatura/Husictví.md",
-    "zapisky-様/Čeština/Literatura/Klasicismus.md",
-    "zapisky-様/Čeština/Literatura/Prečíst do konce roku.md",
-    "zapisky-様/Čeština/Literatura/Slovní zásoba.md"
+    "zapisky-様/Čeština/Literatura/Klasicismus.md"
   ]
 }

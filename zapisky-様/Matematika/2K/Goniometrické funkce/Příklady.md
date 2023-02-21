@@ -123,3 +123,9 @@ $$tan 30° * cotan 30° - sin30°*tan60° $$
 $$ \frac{\sqrt3}{3}*\sqrt3 - \frac12*\sqrt3$$
 $$\frac33-\frac{\sqrt3}{2}$$
 $$1-\frac{\sqrt3}{2}$$
+
+---
+
+
+3.
+$h_3 : y = sin $
