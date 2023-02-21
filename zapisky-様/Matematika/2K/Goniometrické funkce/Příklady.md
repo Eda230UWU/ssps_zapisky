@@ -129,8 +129,17 @@ $$1-\frac{\sqrt3}{2}$$
 
 3.,
 
-$h_2:y=3cos(2x-\frac\pi3$
-$$
+$h_1: y = 3cos (2x-\frac\pi3)$
+
+![[Pasted image 20230221132937.png]]
+
+
+---
+
+
+$h_2:y=3cos(2x)-\frac\pi3$
+![[Pasted image 20230221132618.png]]
+
 ---
 $h_3 : y = sin (\frac\pi3 - \frac14x)$
 $y=  -sin(\frac14x - \frac\pi3)$
