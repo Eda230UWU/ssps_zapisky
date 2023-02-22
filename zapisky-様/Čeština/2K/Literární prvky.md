@@ -7,10 +7,11 @@ Synekdocha - pojmenováním část celkem či celkem část
 metafora či metonimie - obrazné pojmenování
 metafora - je jako, vnější podoba
 metonimie - vnitřní podoba
-epizeus - opakovaní v jednom verši 
+epizeuxis - opakovaní v jednom verši 
 epanastrofa - opakování, konec verše a začátek dalšího
 hyperonymie a hyponymie - Slova nadřazená a podřazená
 fraška - laciná komedie
 pohádka - pohádka
 sonet - znělka
 slovosledná inverze - záměna slov
+Lyrický subjekt - nepřímý vypraveč, (hrdlička zvolá Hynku, Jarmilo, Vléme)
