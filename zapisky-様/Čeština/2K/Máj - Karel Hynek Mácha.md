@@ -9,9 +9,11 @@ Nikdy si jí nevzal, pomáhal při požáru, v krátké době umírá. (V litom�
 1. Cholera z vody
 
 
-Ostatky Října 1938 přesunuty z Sudet zpátky do Česka jako zástěra pro oslavu vzniku ČSR. Ostatky skončí na SLavíně
+Ostatky Října 1938 přesunuty z Sudet zpátky do Česka jako zástěra pro oslavu vzniku ČSR. Ostatky skončí na Slavíně
+Změny v abecedě, g->j, j->í, w->v 
 
- 
+Máj - poetizmus, kladně zabarvené slovo používané výhradně v poezii.
+
 Snoubenka, Syn Ludvík
 
 ---
