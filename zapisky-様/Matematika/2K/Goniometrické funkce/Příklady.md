@@ -132,7 +132,7 @@ $$1-\frac{\sqrt3}{2}$$
 $h_1: y = 3cos (2x-\frac\pi3)$
 
 ![[Pasted image 20230221132937.png]]
-
+	  b b    bn    b                     v   b  hj          b  b   b v   b b b b    b    b        b b  b b b     b     
 
 ---
 
