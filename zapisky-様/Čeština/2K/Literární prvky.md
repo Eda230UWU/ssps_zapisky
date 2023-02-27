@@ -14,4 +14,5 @@ fraška - laciná komedie
 pohádka - pohádka
 sonet - znělka
 slovosledná inverze - záměna slov
-Lyrický subjekt - nepřímý vypraveč, (hrdlička zvolá Hynku, Jarmilo, Vléme)
+Lyrický subjekt - nepřímý vypraveč, (hrdlička zvolá Hynku, Jarmilo, Viléme)
+přetvářka  - přetvářka
