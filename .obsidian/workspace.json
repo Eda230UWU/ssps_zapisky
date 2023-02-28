@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "391bbb11a7164cda",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230227095302.png"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -122,10 +132,10 @@
   "active": "572a85011433071b",
   "lastOpenFiles": [
     "Pasted image 20230227095302.png",
+    "zapisky-様/Matematika/2K/Goniometrické funkce/graf/Graf.md",
     "Pasted image 20230227095001.png",
     "Pasted image 20230227094941.png",
     "zapisky-様/Čeština/2K/Máj - Karel Hynek Mácha.md",
-    "zapisky-様/Matematika/2K/Goniometrické funkce/graf/Graf.md",
     "zapisky-様/Matematika/2K/Goniometrické funkce/graf",
     "zapisky-様/Sítě/CCNA SRWE/VLANy.md",
     "zapisky-様/Sítě/CCNA SRWE/Switch.md",
