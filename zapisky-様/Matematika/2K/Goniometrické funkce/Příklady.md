@@ -162,7 +162,11 @@ $h_5: y  = sin2\pi x$
 $h_6: y = sin (2\pi + x) = sin (x)$
 
 ![[Pasted image 20230221132001.png]]
-
-
+---
+$y = Asin(Bx+C)+D$
+A zvyšuje Amplitudu periody
+B zvyšuje frekvenci periody
+$-\frac CB$ Posun horizontálně
+D posun vertikálně  
 
 
