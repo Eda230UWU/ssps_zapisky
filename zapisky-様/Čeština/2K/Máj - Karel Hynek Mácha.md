@@ -50,3 +50,8 @@ Hynek z Dubé přijíždí na popraviště - šlechtič
 ## Večer na Bezdězu
 Zřícenina Bezděz
 Večer na Bezdězu, popisuje vývoj člověka. Sestupuje z kopce při západu, k lidem. Cestou potká Poutnici oplakávající dítě v rakvi. Ráno je na místě zlatý kříž a Poutnice není k nalezení. Večer si splete Hospodu a Hřbitov. Zaražený se vrací a dojde zpátky do té Hospody. Další den pokračuje do Kraje.
+
+---
+
+## Próza
+Večer na bezdězu

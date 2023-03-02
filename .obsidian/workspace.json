@@ -20,12 +20,36 @@
             }
           },
           {
+            "id": "208327ecfee26f7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Čeština/2K/Karel Jaromír Erben.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad9b284f0d5f86c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Dějepis/2K/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "572a85011433071b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
+                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/graf/Graf.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
+                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/graf/Graf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,11 +155,16 @@
   },
   "active": "572a85011433071b",
   "lastOpenFiles": [
+    "Pasted image 20230301113955.png",
+    "Pasted image 20230301105852.png",
+    "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
+    "zapisky-様/Dějepis/2K/Untitled.md",
+    "zapisky-様/Čeština/2K/Karel Jaromír Erben.md",
+    "zapisky-様/Čeština/2K/Máj - Karel Hynek Mácha.md",
     "zapisky-様/Matematika/2K/Goniometrické funkce/graf/Graf.md",
     "Pasted image 20230227095302.png",
     "Pasted image 20230227095001.png",
     "Pasted image 20230227094941.png",
-    "zapisky-様/Čeština/2K/Máj - Karel Hynek Mácha.md",
     "zapisky-様/Matematika/2K/Goniometrické funkce/graf",
     "zapisky-様/Sítě/CCNA SRWE/VLANy.md",
     "zapisky-様/Sítě/CCNA SRWE/Switch.md",
