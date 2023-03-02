@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Čeština/2K/Máj - Karel Hynek Mácha.md",
+                "file": "zapisky-様/Čeština/2K/Literární prvky.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "bf8215fbfc238187",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "391bbb11a7164cda",
             "type": "leaf",
             "state": {
@@ -65,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/graf/Graf.md",
+                "file": "zapisky-様/Čeština/2K/Literární prvky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,14 +162,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "572a85011433071b",
+  "active": "a322157d68eda255",
   "lastOpenFiles": [
+    "zapisky-様/Čeština/2K/Máj - Karel Hynek Mácha.md",
     "Pasted image 20230301113955.png",
     "Pasted image 20230301105852.png",
     "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
     "zapisky-様/Dějepis/2K/Untitled.md",
     "zapisky-様/Čeština/2K/Karel Jaromír Erben.md",
-    "zapisky-様/Čeština/2K/Máj - Karel Hynek Mácha.md",
     "zapisky-様/Matematika/2K/Goniometrické funkce/graf/Graf.md",
     "Pasted image 20230227095302.png",
     "Pasted image 20230227095001.png",

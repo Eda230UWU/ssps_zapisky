@@ -28,6 +28,7 @@ frekvence /4
 posunuto doleva o $\frac\pi2$
 posunuto dolu o 2
 
+
 ---
 
 
