@@ -9,7 +9,7 @@ metafora - je jako, vnější podoba
 metonimie - vnitřní podoba
 epizeuxis - opakovaní v jednom verši 
 epifora - opakování na konči veršů  
-epanastrofa - opakování, konec verše a začátek dalšího
+epanastrofa - opakování, konec verše a začátek dalšího verše
 oxymorón - protiklad
 autobiografie - vložení sebe sama do děje
 hyperonymie a hyponymie - Slova nadřazená a podřazená
