@@ -16,3 +16,18 @@ $H_{cotg}=\mathbb{R}$
 $D_{tg} = \mathbb{R} /\ \{\frac12\pi + k\pi, k\in\mathbb{Z}\}$
 $H_{tg}=\mathbb{R}$
 
+
+---
+
+
+$y = tgx$
+$y=- cotg(x+\frac\pi2)$
+
+amplituda \*3
+frekvence /4
+posunuto doleva o $\frac\pi2$
+posunuto dolu o 2
+
+---
+
+
