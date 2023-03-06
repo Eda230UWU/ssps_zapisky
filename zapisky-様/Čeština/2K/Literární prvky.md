@@ -10,6 +10,8 @@ metonimie - vnitřní podoba
 epizeuxis - opakovaní v jednom verši 
 epifora - opakování na konči veršů  
 epanastrofa - opakování, konec verše a začátek dalšího verše
+eufenizmus - odlehčení okolností
+anafora - opakování na začátku veršu
 oxymorón - protiklad
 autobiografie - vložení sebe sama do děje
 hyperonymie a hyponymie - Slova nadřazená a podřazená

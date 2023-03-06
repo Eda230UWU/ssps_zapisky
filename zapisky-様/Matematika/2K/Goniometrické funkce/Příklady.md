@@ -170,3 +170,14 @@ $-\frac CB$ Posun horizontálně
 D posun vertikálně  
 
 
+---
+
+1. 30
+2. 4,5
+3. 36
+4. 45
+5. $\frac{1}{6}\pi$
+6. idk
+7. $-\frac{\pi}{6}$
+8. -1
+9. $\sqrt2 cos($
