@@ -53,8 +53,12 @@ x = 45°
 6. $3/4 + \frac\pi{16}$
 7. $-\frac{\pi}{6}$
 8. 1
-9. $\sqrt2 cos(4\pi + 2x)=-1$ ,$x = 3\pi/8$
-10. $sin(4x-\frac\pi3)=\sqrt2$ || $x \notin \mathbb{R}$
+9. $\sqrt2 cos(4\pi + 2x)=-1$ 
+$\sqrt2 cos(2x)=-1$
+$\sqrt2(-\frac{\sqrt2}{2}) = -1$
+$cos = $
+$x = 3\pi/8$
+12. $sin(4x-\frac\pi3)=\sqrt2$ || $x \notin \mathbb{R}$
 
 
 
