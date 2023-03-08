@@ -26,6 +26,10 @@ spocitano dal
 
 2 grafy 
 
+![[Pasted image 20230308132911.png]]
+
+
+
 ![[Pasted image 20230308130026.png]]
 52/1
 x = 30°
