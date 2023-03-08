@@ -27,7 +27,15 @@ spocitano dal
 2 grafy 
 
 ![[Pasted image 20230308132911.png]]
+$m(x)=sin(x+2)+3$
+$D_m = \mathbb{R}$ 
+$H_m = \langle 2, 4 \rangle$
 
+
+![[Pasted image 20230308133238.png]]
+$p(x)=cos(x-1)-2$
+$D_p = \mathbb{R}$
+$H_p = \langle -3 ,-1 \rangle$
 
 
 ![[Pasted image 20230308130026.png]]
