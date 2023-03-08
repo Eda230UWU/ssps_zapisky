@@ -180,4 +180,9 @@ D posun vertikálně
 6. idk
 7. $-\frac{\pi}{6}$
 8. -1
-9. $\sqrt2 cos($
+9. $\sqrt2 cos(4\pi + 2\pi)$
+10. $sin(4x-\frac\pi3)=\sqrt2$ || $idk$
+
+---
+
+
