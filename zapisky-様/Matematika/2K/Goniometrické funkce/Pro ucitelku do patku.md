@@ -26,6 +26,7 @@ spocitano dal
 
 2 grafy 
 
+![[Pasted image 20230308130026.png]]
 52/1
 x = 30°
 x = 225°
@@ -35,17 +36,26 @@ x = 60°
 x =  210°
 
 52/2
+x = 240°
+x = 45°
+x = 45°
+
+
 
 52/6
-
+![[Pasted image 20230308130211.png]]
 
 1. $\frac\pi6$
-2. $\frac\pi4$
+2. $\frac\pi{40}$
 3. $\frac\pi5$
 4. $\frac\pi4$
 5. $\frac{1}{6}\pi$
-6. idk
+6. $3/4 + \frac\pi{16}$
 7. $-\frac{\pi}{6}$
-8. -1
-9. $\sqrt2 cos(4\pi + 2\pi)$
-10. $sin(4x-\frac\pi3)=\sqrt2$ || $idk$
+8. 1
+9. $\sqrt2 cos(4\pi + 2x)=-1$ ,$x = 3\pi/8$
+10. $sin(4x-\frac\pi3)=\sqrt2$ || $x \notin \mathbb{R}$
+
+
+
+
