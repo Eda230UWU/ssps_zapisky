@@ -56,8 +56,9 @@ x = 45°
 9. $\sqrt2 cos(4\pi + 2x)=-1$ 
 $\sqrt2 cos(2x)=-1$
 $\sqrt2(-\frac{\sqrt2}{2}) = -1$
-$cos = $
-$x = 3\pi/8$
+$cos(11\pi/8)$
+$2x = \frac{11\pi}{8}$
+$x = \frac{11\pi}{16}$
 12. $sin(4x-\frac\pi3)=\sqrt2$ || $x \notin \mathbb{R}$
 
 
