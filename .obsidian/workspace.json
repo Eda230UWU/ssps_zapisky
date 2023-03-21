@@ -25,58 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/Pro ucitelku do patku.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Kalorimetrická rovnice/priklady.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ad9b284f0d5f86c6",
+            "id": "d6a31629c5fb5609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Dějepis/2K/Untitled.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Tepelná roztažnost u pevných těles.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "572a85011433071b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/graf/Graf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf8215fbfc238187",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "391bbb11a7164cda",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20230227095302.png"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Matematika/2K/Goniometrické funkce/Pro ucitelku do patku.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Tepelná roztažnost u pevných těles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,12 +131,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b4b52fc43b3333e7",
+  "active": "d6a31629c5fb5609",
   "lastOpenFiles": [
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Kalorimetrická rovnice/priklady.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Tepelná roztažnost u pevných těles.md",
+    "zapisky-様/Sítě/DHCP.md",
+    "zapisky-様/Sítě/CCNA SRWE/VLANy.md",
+    "zapisky-様/Sítě/CCNA SRWE/Switch.md",
+    "zapisky-様/Sítě/2K/TCP-IP.jpg",
+    "zapisky-様/Sítě/2K/Mlsoun.md",
+    "zapisky-様/Sítě/Untitled.md",
+    "zapisky-様/Matematika/2K/Goniometrické funkce/Pro ucitelku do patku.md",
     "Pasted image 20230308133238.png",
     "Pasted image 20230308132911.png",
     "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
-    "zapisky-様/Matematika/2K/Goniometrické funkce/Pro ucitelku do patku.md",
     "Pasted image 20230308130211.png",
     "Pasted image 20230308130128.png",
     "Pasted image 20230308130026.png",
@@ -182,16 +158,9 @@
     "Pasted image 20230301113955.png",
     "Pasted image 20230301105852.png",
     "Pasted image 20230227095001.png",
-    "Pasted image 20230227094941.png",
     "zapisky-様/Matematika/2K/Goniometrické funkce/graf",
-    "zapisky-様/Sítě/CCNA SRWE/VLANy.md",
-    "zapisky-様/Sítě/CCNA SRWE/Switch.md",
-    "zapisky-様/Sítě/2K/Mlsoun.md",
-    "zapisky-様/Sítě/2K/TCP-IP.jpg",
-    "zapisky-様/Sítě/Untitled.md",
     "zapisky-様/Sítě/ISO_OSI model.md",
     "zapisky-様/Sítě/Enkapsulace.md",
-    "zapisky-様/Sítě/DHCP.md",
     "zapisky-様/Čeština/2K/Klasicismus.md"
   ]
 }

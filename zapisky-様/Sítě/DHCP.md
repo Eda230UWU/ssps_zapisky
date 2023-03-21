@@ -1,4 +1,4 @@
-v `(config)#`
+ `(config)#`
 
 vytváří se pooly odkud se berou adresy `ip dhcp pool Marketing`
 
