@@ -185,4 +185,5 @@ D posun vertikálně
 
 ---
 
+$2sin^2$
 
