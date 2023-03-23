@@ -185,5 +185,6 @@ D posun vertikálně
 
 ---
 
-$2sin^2$
-
+$2sin^2(x)=3cos(x)$
+$2sin^2(x)-3cos(x)=0$
+$2(1-cos)$
