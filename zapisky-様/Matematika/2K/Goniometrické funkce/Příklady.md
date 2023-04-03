@@ -216,5 +216,5 @@ $2tg\ x\ sin\ 3x\ =\ \sqrt3\ tgx$
 $tg x sin 3x = \sqrt3$
 
 $3cos xtg2x+\sqrt3 cos x = 0$
-$cosx(}$
+$cosx($
 
