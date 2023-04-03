@@ -199,3 +199,22 @@ $x_1 = \frac12$
 $x_2 = -2$
 $cos(x) = \frac12$
 $x=\frac\pi 3$
+
+---
+
+| $\alpha$       | 0°/0 | 30°/ $\frac{\pi}{6}$ | 45° / $\frac{\pi}{4}$ | 60° /$\frac{\pi}{3}$ | 90° / $\frac{\pi}{2}$ |
+| ---- | ---- | -------- | ----------- | ----------- | ---------- |
+| sin $\alpha$   | 0    | $\frac12$            | $\frac{\sqrt2}{2}$    | $\frac{\sqrt3}{2}$   | 1                     |
+| cosin $\alpha$ | 1    | $\frac{\sqrt3}{2}$   | $\frac{\sqrt2}{2}$    | $\frac12$            | 0                     |
+| $tan\ \alpha$ |  0    |  $\frac{\sqrt3}{3}$  | 1   |    $\sqrt3$       | undefined|
+| $cotan\ \alpha$ |  undefined  |  $\sqrt3$  |     1|     $\frac{\sqrt3}{3}$  |     0   |
+$α (radiány) = (α (stupně) / 180 °) × π = (30 ° / 180 °) × π$
+
+
+
+
+
+
+
+
+
