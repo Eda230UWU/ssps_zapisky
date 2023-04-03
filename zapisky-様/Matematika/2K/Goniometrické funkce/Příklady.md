@@ -210,11 +210,11 @@ $x=\frac\pi 3$
 | $cotan\ \alpha$ |  undefined  |  $\sqrt3$  |     1|     $\frac{\sqrt3}{3}$  |     0   |
 $α (radiány) = (α (stupně) / 180 °) × π = (30 ° / 180 °) × π$
 
+---
 
+$2tg\ x\ sin\ 3x\ =\ \sqrt3\ tgx$
+$tg x sin 3x = \sqrt3$
 
-
-
-
-
-
+$3cos xtg2x+\sqrt3 cos x = 0$
+$cosx$
 
