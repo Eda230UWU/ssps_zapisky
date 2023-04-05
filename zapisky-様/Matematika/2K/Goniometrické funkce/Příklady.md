@@ -216,3 +216,4 @@ $cos \alpha + cos \beta = 2cos \frac{\alpha + \beta}{2}*cos\frac{\alpha - \beta}
 $cos \alpha - cos \beta = -2sin \frac{\alpha + \beta}{2}*sin\frac{\alpha - \beta}{2}$
 $\beta = 3\alpha$
 $2cos(2x)*cos(-x) = 0$
+    
