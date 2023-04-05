@@ -19,11 +19,13 @@ nešťastná láska, společenké rozdíly nebo není realizovatelná
 
 ### Znaky romantismu
 hrdina vystupuje proti společnosti
-odloučen od společnosti
+odloučen od společnosti - kvůli povolání, hodnotám či odpudivému vzhledu
 popraven
 zajímavé povolání - loupežník
 sebevražda blízkých
-20., hlavně 30. a 40.léta 17. století
+20., hlavně 30. a 40. léta 19. století
+nalezneme v přírodě - v lese, v podvečer či ráno
+
 
 ## Goethe
 - součást hnutí Sturm und Drag 
