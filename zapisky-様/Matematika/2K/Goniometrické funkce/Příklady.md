@@ -5,7 +5,8 @@
 | $tan\ \alpha$ |  0    |  $\frac{\sqrt3}{3}$  | 1   |    $\sqrt3$       |      $\pm\infty$         |
 | $cotan\ \alpha$ |  $\pm\infty$  |             $\sqrt3$         |       1                 |     $\frac{\sqrt3}{3}$  |     0   |
 $α (radiány) = (α (stupně) / 180 °) × π = (30 ° / 180 °) × π$
-
+$\notin$
+ 
 
 ---
 

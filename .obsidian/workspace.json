@@ -4,83 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "35051e20b3b623e9",
+        "id": "3a5e8c91d23bcb1c",
         "type": "tabs",
         "children": [
           {
-            "id": "208327ecfee26f7c",
+            "id": "a6f05c7d7c794d28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Sítě/CCNA SRWE/VLANy.md",
+                "file": "zapisky-様/Dějepis/2K/Jaroslav Seifert.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e38708b804c19d45",
+            "id": "3e9443ef836341d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Povrchové napětí.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d5c3d0cda734363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Čeština/2K/Renesance a humanismus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28b55541d1bccc15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Čeština/2K/Realismus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6a31629c5fb5609",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Tepelná roztažnost u pevných těles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7745a2e5e73a243c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Povrchové napětí.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Skupenství.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Čeština/2K/Realismus.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Skupenství.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,35 +119,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "28b55541d1bccc15",
+  "active": "3e9443ef836341d3",
   "lastOpenFiles": [
+    "zapisky-様/Dějepis/727.md",
     "zapisky-様/Čeština/2K/Preromantismus a Romantismus.md",
+    "zapisky-様/Čeština/2K/Pracovní listy.md",
+    "zapisky-様/Čeština/2K/Národní obrození.md",
+    "zapisky-様/Čeština/2K/Máj - Karel Hynek Mácha.md",
+    "zapisky-様/Čeština/2K/Literární prvky.md",
+    "zapisky-様/Čeština/2K/Klasicismus.md",
+    "zapisky-様/Čeština/2K/hodnocení textu.md",
+    "zapisky-様/Čeština/2K/Čeští romantikové.md",
+    "zapisky-様/Dějepis/2K/Jaroslav Seifert.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Povrchové napětí.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Tepelná roztažnost u pevných těles.md",
+    "Pasted image 20230405101146.png",
+    "zapisky-様/Dějepis/2K/Untitled.md",
+    "zapisky-様/Dějepis/2K/Vylodění v zátoce Sviní.md",
+    "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
+    "zapisky-様/Matematika/2K/Goniometrické funkce/Goniometrické funkce.md",
+    "zapisky-様/Matematika/2K/Exponenciální funkce.md",
+    "zapisky-様/Matematika/2K/Funkce.md",
+    "zapisky-様/Matematika/2K/Inverzní funkce.md",
+    "zapisky-様/Matematika/2K/Opakování.md",
+    "zapisky-様/Matematika/2K/Vzorečky na exponenciální rovnice.md",
     "zapisky-様/Čeština/2K/Realismus.md",
     "zapisky-様/Čeština/2K/Renesance a humanismus.md",
     "zapisky-様/Čeština/2K/Karel Jaromír Erben.md",
-    "zapisky-様/Čeština/2K/hodnocení textu.md",
     "zapisky-様/Čeština/2K/cheat literatura.md",
-    "zapisky-様/Čeština/2K/Čeští romantikové.md",
-    "zapisky-様/Matematika/2K/Goniometrické funkce/Příklady.md",
-    "zapisky-様/Matematika/2K/Goniometrické funkce/Goniometrické funkce.md",
     "zapisky-様/Matematika/2K/Goniometrické funkce/Pro ucitelku do patku.md",
-    "zapisky-様/Matematika/2K/Goniometrické funkce/Úvod.md",
-    "zapisky-様/Matematika/2K/Amongus dělení.md",
-    "zapisky-様/Matematika/2K/čtení z grafu.md",
-    "zapisky-様/Matematika/2K/Exponenciální funkce.md",
-    "zapisky-様/Matematika/2K/Funkce.md",
-    "zapisky-様/Matematika/2K/Opakování.md",
-    "zapisky-様/Matematika/2K/Inverzní funkce.md",
-    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Povrchové napětí.md",
-    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Untitled.md",
-    "zapisky-様/Sítě/CCNA SRWE/VLANy.md",
-    "zapisky-様/Sítě/CCNA SRWE/Switch.md",
-    "zapisky-様/Sítě/2K/Mlsoun.md",
-    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Kalorimetrická rovnice/priklady.md",
-    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Tepelná roztažnost u pevných těles.md",
-    "zapisky-様/Sítě/DHCP.md",
     "zapisky-様/Sítě/2K/TCP-IP.jpg",
-    "zapisky-様/Sítě/Untitled.md",
     "Pasted image 20230308133238.png",
     "Pasted image 20230308132911.png",
     "Pasted image 20230308130211.png",
@@ -204,7 +157,6 @@
     "Pasted image 20230227095302.png",
     "Pasted image 20230301113955.png",
     "Pasted image 20230301105852.png",
-    "Pasted image 20230227095001.png",
     "zapisky-様/Matematika/2K/Goniometrické funkce/graf"
   ]
 }
