@@ -38,4 +38,13 @@ $10.6 * 16.6 = 177.7$
 $a = 13.3cm$
 
 ---
-narýsujte úsečku délky $\sqrt{18}$  a $\sqrt{17cm}$
+Obdélník ABCD o rozměrech 6 x 8 cm s vepsanou půlkružnicí nad průměrem AB. dále uhlopříčka p mezi BD
+
+trojúhelník BDA je pravoúhlý, jelikož jsme narýsovali thaletovu půlkružnici
+
+---
+
+
+Kosinová věta
+
+

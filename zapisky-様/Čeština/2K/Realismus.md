@@ -13,3 +13,5 @@ tvorba hrdiny - typizace, udělal typický model pro povolání a tyto vlastnost
 ## Karel Havlíček Borovský
 Tyrolské Elegie a Král Lávru - satirická skladba, 
 Kral Lávra z irských pověstí
+
+Epigramy - kritika církve
