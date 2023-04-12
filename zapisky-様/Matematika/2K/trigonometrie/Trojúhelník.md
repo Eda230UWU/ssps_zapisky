@@ -45,6 +45,6 @@ trojúhelník BDA je pravoúhlý, jelikož jsme narýsovali thaletovu půlkružn
 ---
 
 
-Kosinová věta
+## Kosinová věta
 
 
