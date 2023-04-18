@@ -58,4 +58,4 @@ $m_1 = 3kg$
 $t_t = 0\celsius$
 $t_v = 100\celsius$
 $Q = Q_1 + Q_2 + L_t + L_v$
-$Q = mC_t(8)+mC_v$
+$Q = mC_t(8)+mC_v(100)+ml_v+m$
