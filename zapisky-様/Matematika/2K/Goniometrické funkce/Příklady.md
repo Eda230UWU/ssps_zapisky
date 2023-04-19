@@ -237,7 +237,22 @@ $\gamma = 116,8$
 
 2. neni trojuhelnik
 
-4. 
+
+3. 5,7,x $\gamma 29,23°$
+$c^2 = a^2+b^2-2ab*cos\gamma$
+$c^2 = 25 + 49 - 70*cos$
+
+5. 
 $7cm, 12cm, 124°$
 $b^2 = a^2 + c^2- 2a c * cos\beta$
 $b^2 = 49 + 144 - 336*cos(124)$
+$b^2 = 224,1728$
+$b = 19,5cm$
+
+$a^2 = b^2 + c^2 -2bc*cos \alpha$
+$cos \alpha = \frac{a^2 - b^2 - c^2}{-2ac}$
+$cos \alpha = \frac{49 - 144 - 380,25}{-2*7*19.5}$
+$cos \alpha = 1\frac{809}{1092}$
+není trojúhelník
+
+---
