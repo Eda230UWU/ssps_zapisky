@@ -11,7 +11,11 @@ tvorba hrdiny - typizace, udělal typický model pro povolání a tyto vlastnost
 ---
 
 ## Karel Havlíček Borovský
+Deportován 1851 Rakoskou vládou do Brixenu
+
 Tyrolské Elegie a Král Lávru - satirická skladba, 
 Kral Lávra z irských pověstí
 
-Epigramy - kritika církve
+Epigramy - kritika církve, vlády, Rakouska
+
+Satirické skladby - Král Lávra, Holič Kukulín, Křest Sv. Vladimíra, Perun, Erolské elegie. 

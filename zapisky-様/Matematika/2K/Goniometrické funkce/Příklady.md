@@ -217,4 +217,27 @@ $cos \alpha + cos \beta = 2cos \frac{\alpha + \beta}{2}*cos\frac{\alpha - \beta}
 $cos \alpha - cos \beta = -2sin \frac{\alpha + \beta}{2}*sin\frac{\alpha - \beta}{2}$
 $\beta = 3\alpha$
 $2cos(2x)*cos(-x) = 0$
-    
+
+---
+
+1. 2, 3, 4
+$a^2 = b^2 + c^2 -2bc*cos \alpha$
+$cos \alpha = \frac{a^2 - b^2 - c^2}{-2ab}$
+$cos \alpha = \frac{4-9-16}{-24}$
+$cos \alpha = \frac{-23}{-24}$
+$cos \alpha = 23/24$
+$\alpha = 16,6°$
+
+$b^2 = a^2+c^1 - 2ac * cos \beta$
+$cos \beta = \frac{9-4-16}{-16}$
+$cos \beta = \frac{-11}{-16}$
+$\beta = 46,6°$
+$180 - 46,6 - 16,6 = \gamma$
+$\gamma = 116,8$
+
+2. neni trojuhelnik
+
+4. 
+$7cm, 12cm, 124°$
+$b^2 = a^2 + c^2- 2a c * cos\beta$
+$b^2 = 49 + 144 - 336*cos($
