@@ -6,7 +6,7 @@ láska dopadá realisticky, občas vyjde občas ne
 snaží se být součástí společnosti, přizpůsobuje se společnosti
 50tá léta až do konce 17. století
 
-tvorba hrdiny - typizace, udělal typický model pro povolání a tyto vlastnosti dal svému hrdinovy (hrdina byl krejčí, tak si autor vzpoměl na krejčí které v životě potkal). Měl typické vlastnosti narozdíl od romantického hrdiny
+tvorba hrdiny - typizace, udělal typický model pro povolání a tyto vlastnosti dal svému hrdinovy (hrdina byl krejčí, tak si autor vzpoměl na krejčí které v životě potkal). Měl typické vlastnosti od reálných lidí narozdíl od romantického hrdiny
 
 ---
 
