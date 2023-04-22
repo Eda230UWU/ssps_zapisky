@@ -19,3 +19,18 @@ Kral Lávra z irských pověstí
 Epigramy - kritika církve, vlády, Rakouska
 
 Satirické skladby - Král Lávra, Holič Kukulín, Křest Sv. Vladimíra, Perun, Erolské elegie. 
+
+
+---
+
+## Božena Němcová
+1820-1862
+
+Terezie Novotná - Matka
+Magdalena Novotná - Babička
+Josef Němec - Manžel
+
+Ratibořice - babiččino údolí - bydlela zde, jmenuje se podle povídky babička
+
+### Babička
+Obrazy z venkovského života

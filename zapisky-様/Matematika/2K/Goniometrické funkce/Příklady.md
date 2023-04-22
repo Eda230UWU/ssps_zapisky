@@ -240,7 +240,18 @@ $\gamma = 116,8$
 
 3. 5,7,x $\gamma 29,23°$
 $c^2 = a^2+b^2-2ab*cos\gamma$
-$c^2 = 25 + 49 - 70*cos$
+$c^2 = 25 + 49 - 70*cos(29,23°)$
+$c^2 = 12,91334$
+$c^2 = 3,6cm$
+
+$a^2 = b^2 + c^2 -2bc*cos \alpha$
+$cos \alpha = \frac{a^2 - b^2 - c^2}{-2bc}$
+$cos \alpha = \frac{25-3,6-49}{-2*5*3,6}$
+$cos \alpha = \frac{23}{30}$
+$\alpha = 39,9°$
+$\beta = 180° - \alpha - \gamma$
+$\beta = 180° - 39,9 - 29,23$
+$\beta = 110,87°$
 
 5. 
 $7cm, 12cm, 124°$
@@ -249,10 +260,27 @@ $b^2 = 49 + 144 - 336*cos(124)$
 $b^2 = 224,1728$
 $b = 19,5cm$
 
-$a^2 = b^2 + c^2 -2bc*cos \alpha$
-$cos \alpha = \frac{a^2 - b^2 - c^2}{-2ac}$
-$cos \alpha = \frac{49 - 144 - 380,25}{-2*7*19.5}$
-$cos \alpha = 1\frac{809}{1092}$
 není trojúhelník
 
 ---
+
+$c = 20 cm, \alpha= 45°, \beta =105°$
+$180 - 45 - 105 = \gamma$
+$\gamma = 30°$
+
+$\frac{20}{sin 30}=\frac{a}{sin 45}$
+$40 * sin45 = a$
+$a = 20*\sqrt2$
+$a = 28,28cm$
+
+$b^2 = a^2 + c^2 - 2ac*cos\beta$
+$b^2 = 800 + 400 - 2*20*\sqrt2*20*cos 105$
+$b = 38,6cm$
+
+
+
+
+
+$a = 11,6dm, c = 90dm, \alpha =65°$ 
+
+

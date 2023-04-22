@@ -46,5 +46,10 @@ trojúhelník BDA je pravoúhlý, jelikož jsme narýsovali thaletovu půlkružn
 
 
 ## Kosinová věta
+$a^2  = b^2+c^2 - 2cb*cos \alpha$
 
 
+
+
+## Sinová věta
+$\frac{a}{sin \alpha} = \frac{b}{sin \beta} = \frac{c}{sin \gamma}$
