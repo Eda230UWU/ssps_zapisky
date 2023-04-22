@@ -3,7 +3,7 @@
 
 
 ## Základní efekty
-sepíše Tomáš
+Tom pomůž
 
 nastavení pro jednotlivé efekty
 popřípadě custom efekty?
