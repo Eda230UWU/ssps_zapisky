@@ -279,3 +279,13 @@ $b = 38,6cm$
 
 ---
 
+$a = 6cm, c=7cm, \gamma = 34°$
+$\frac{c}{\sin\gamma}=\frac{a}{\sin\alpha}$
+
+$\sin\alpha= \frac{\sin\gamma * a}{c}$
+$sin \alpha = \frac{0,55*6}{7}$
+$\sin \alpha = 0,47$
+$\alpha = 28°$
+$\beta = 118°$
+$\frac{a}{\sin 28°}\sin 118°=b$
+$b = 11,27cm$
