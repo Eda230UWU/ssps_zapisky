@@ -337,7 +337,7 @@ $c=11.2cm$
 ---
 
 $b=5cm$, $\alpha=110\degree$, $\beta=28\degree$
-
+ 
 $\gamma=180-\alpha-\beta=42\degree$
 $\frac{a}{\sin\alpha}=\frac{b}{\sin\beta}$
 $a=\frac{b}{\sin\beta}\sin\alpha$
@@ -361,3 +361,17 @@ $\frac{b}{\sin\beta}=\frac{c}{\sin\gamma}$
 $b=\frac{c}{\sin\gamma}\sin\beta$
 $b=\frac{8.4}{\sin112\degree}\sin26\degree55'$
 $b=4.1cm$
+
+---
+
+
+$a=5.66cm$, $\beta=56\degree32'$, $\gamma=44\degree47'$
+$\alpha=180\degree-\beta-\gamma=79\degree41'$
+
+$\frac{a}{\sin\alpha}=\frac{b}{\sin\beta}$
+$b=\frac{a}{\sin\alpha}\sin\beta$
+$b=\frac{5.66}{\sin79\degree41'}\sin56\degree32'$
+$b=4.79cm$
+$c=\frac{a}{\sin\alpha}\sin\gamma$
+$c=\frac{5.66}{\sin76\degree41'}\sin44\degree47'$
+$c=4.09cm$
