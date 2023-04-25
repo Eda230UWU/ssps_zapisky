@@ -219,6 +219,7 @@ $\beta = 3\alpha$
 $2cos(2x)*cos(-x) = 0$
 
 ---
+Kosinová věta
 
 1. 2, 3, 4
 $a^2 = b^2 + c^2 -2bc*cos \alpha$
@@ -253,7 +254,8 @@ $\beta = 180° - \alpha - \gamma$
 $\beta = 180° - 39,9 - 29,23$
 $\beta = 110,87°$
 
-5. 
+4. 
+
 $7cm, 12cm, 124°$
 $b^2 = a^2 + c^2- 2a c * cos\beta$
 $b^2 = 49 + 144 - 336*cos(124)$
@@ -278,7 +280,7 @@ $b^2 = 800 + 400 - 2*20*\sqrt2*20*cos 105$
 $b = 38,6cm$
 
 ---
-
+75 a 74
 $a = 6cm, c=7cm, \gamma = 34°$
 $\frac{c}{\sin\gamma}=\frac{a}{\sin\alpha}$
 
