@@ -289,3 +289,30 @@ $\alpha = 28°$
 $\beta = 118°$
 $\frac{a}{\sin 28°}\sin 118°=b$
 $b = 11,27cm$
+
+---
+
+b = 6cm, c = 9cm, $\sin\beta = 75°$
+$\frac{\sin75 *9}{6} = \sin\gamma$
+$\frac{8,69}{6}=\sin \gamma$
+nemá řešení
+
+---
+
+b= 8cm, c=5cm, $\gamma = 26° 55'$
+
+$\frac{b}{\sin \beta}=\frac{c}{\sin \gamma}$
+$\frac{sin \gamma\ b}{c} = \sin \beta$
+$\frac{0,45 * 8}{5}=\sin \beta$
+$\sin \beta = 0,72$
+$\beta =  46,1°$
+$\gamma= 107° 5'$
+$\frac{\sin gamma b}{\sin beta} = 10,$
+
+
+
+---
+$a= 6cm, b=3cm, \beta = 124°$
+
+
+
