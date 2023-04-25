@@ -307,7 +307,7 @@ $\frac{0,45 * 8}{5}=\sin \beta$
 $\sin \beta = 0,72$
 $\beta =  46,1°$
 $\gamma= 107° 5'$
-$\frac{\sin gamma b}{\sin beta} = 10,$
+$\frac{\sin gamma b}{\sin beta} = 10,6$
 
 
 
@@ -315,4 +315,6 @@ $\frac{\sin gamma b}{\sin beta} = 10,$
 $a= 6cm, b=3cm, \beta = 124°$
 
 
-
+$\frac{\sin \beta a}{b}=\sin \alpha$
+$\frac{0,82*6}{3}=0,82*2$
+ne
