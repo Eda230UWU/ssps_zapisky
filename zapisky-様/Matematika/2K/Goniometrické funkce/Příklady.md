@@ -322,6 +322,7 @@ nema reseni
 ---
 
 $a=10cm$, $\alpha=62\degree$, $\beta=34\degree$
+
 $\gamma=180-\alpha-\beta=84\degree$
 
 $\frac{a}{\sin\alpha}=\frac{b}{\sin\beta}$
@@ -335,7 +336,9 @@ $c=11.2cm$
 
 ---
 
-$b=5cm$, $\alpha=110\degree$, $\beta=28\degree$, $\gamma=180-\alpha-\beta=42\degree$
+$b=5cm$, $\alpha=110\degree$, $\beta=28\degree$
+
+$\gamma=180-\alpha-\beta=42\degree$
 $\frac{a}{\sin\alpha}=\frac{b}{\sin\beta}$
 $a=\frac{b}{\sin\beta}\sin\alpha$
 $a=\frac{5}{\sin28}\sin110$
