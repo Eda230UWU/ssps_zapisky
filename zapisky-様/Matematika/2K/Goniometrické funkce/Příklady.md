@@ -317,4 +317,44 @@ $a= 6cm, b=3cm, \beta = 124°$
 
 $\frac{\sin \beta a}{b}=\sin \alpha$
 $\frac{0,82*6}{3}=0,82*2$
-ne
+nema reseni
+
+---
+
+$a=10cm$, $\alpha=62\degree$, $\beta=34\degree$
+$\gamma=180-\alpha-\beta=84\degree$
+
+$\frac{a}{\sin\alpha}=\frac{b}{\sin\beta}$
+$b=\frac{a}{\sin\alpha}\sin\beta$
+$b=\frac{10}{\sin62}\sin34$
+$b=6.33cm$
+$\frac{a}{\sin\alpha}=\frac{c}{\sin\gamma}$
+$c=\frac{a}{\sin\alpha}\sin\gamma$
+$c=\frac{10}{\sin62}\sin84$
+$c=11.2cm$
+
+---
+
+$b=5cm$, $\alpha=110\degree$, $\beta=28\degree$, $\gamma=180-\alpha-\beta=42\degree$
+$\frac{a}{\sin\alpha}=\frac{b}{\sin\beta}$
+$a=\frac{b}{\sin\beta}\sin\alpha$
+$a=\frac{5}{\sin28}\sin110$
+$a=10cm$
+
+$\frac{c}{\sin\gamma}=\frac{b}{\sin\beta}$
+$c=\frac{b}{\sin\beta}\sin\gamma$
+$c=\frac{5}{\sin28}\sin42$
+$c=7.1cm$
+
+---
+
+$c=8.4cm$,$\alpha=41\degree05'$,$\beta=26\degree55'$,$\gamma=180-\alpha-\beta=112\degree$
+
+$\frac{a}{\sin\alpha}=\frac{c}{\sin\gamma}$
+$a=\frac{c}{\sin\gamma}\sin\alpha$
+$a=\frac{8.4cm}{\sin112\degree}\sin41\degree05'$
+$a=5.95cm$
+$\frac{b}{\sin\beta}=\frac{c}{\sin\gamma}$
+$b=\frac{c}{\sin\gamma}\sin\beta$
+$b=\frac{8.4}{\sin112\degree}\sin26\degree55'$
+$b=4.1cm$
