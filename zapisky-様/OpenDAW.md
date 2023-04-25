@@ -19,7 +19,7 @@ modes -
 
 
 1. Kytara + audio interface, připojení do počítače přes USB
-2. Napsat DAW software - efekty atd
+2. Napsat DAW software - Ze začátku pouze efekty, do budoucna psaní vlastních pluginů atd.
 3. postavit kontroler pro SW, - pedály na zapínání a vypnínání efektů
 4. (dvě možnosti)
 	 a. Připojit přes Direct injections nebo ReAmp box zpátky do zesilovače  <= žádaná

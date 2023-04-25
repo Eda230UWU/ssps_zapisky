@@ -30,8 +30,8 @@ $l_1 = 4,2m$
 $l_2 = 4,2152m$
 $r = 1,1mm = 0,0011m$
 $F_t = 0,23kN = 230N$
-
-#### Hootův zákon
+	
+#### Hookův zákon
 
 $F/S = E * \frac{\Delta l}{l_0}$
 $E = \frac FS \frac{l_0}{\Delta l}$
