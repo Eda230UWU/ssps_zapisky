@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3a5e8c91d23bcb1c",
+        "id": "95b39291d746cc7f",
         "type": "tabs",
         "children": [
           {
-            "id": "a6f05c7d7c794d28",
+            "id": "513b164414774290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Dějepis/2K/Jaroslav Seifert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e9443ef836341d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Skupenství.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6403626004b6c97b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Matematika/2K/trigonometrie/Trojúhelník.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "defcf5196e5dc4c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Čeština/2K/Realismus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68cf3bf3dc2a7ad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Matematika/2K/Příklady.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3663590a237b38b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Matematika/2K/Příklady.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/frekvence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "a096aaaed4b437e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -138,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Matematika/2K/Příklady.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/frekvence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,18 +114,30 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0965b629a015792f",
+  "active": "513b164414774290",
   "lastOpenFiles": [
+    "zapisky-様/Matematika/2K/Příklady.md",
+    "zapisky-様/Čeština/2K/Realismus.md",
+    "zapisky-様/Čeština/2K/formální mluva.md",
+    "zapisky-様/Čeština/2K/Renesance a humanismus.md",
+    "zapisky-様/Čeština/2K/Preromantismus a Romantismus.md",
+    "zapisky-様/Čeština/2K/Samostudium 5.12.md",
+    "zapisky-様/Čeština/2K/Máj - Karel Hynek Mácha.md",
+    "zapisky-様/Čeština/2K/Národní obrození.md",
+    "zapisky-様/Čeština/2K/Literární prvky.md",
+    "zapisky-様/Čeština/2K/Pracovní listy.md",
+    "zapisky-様/Čeština/2K/Klasicismus.md",
+    "zapisky-様/Dějepis/2K/Hudební scéna 90. let.md",
+    "zapisky-様/Dějepis/727.md",
+    "zapisky-様/Dějepis/2K/Jaroslav Seifert.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Příklady/Rovnice gmaing.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/frekvence.md",
-    "zapisky-様/Matematika/2K/Příklady.md",
     "zapisky-様/Matematika/2K/trigonometrie/Trojúhelník.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Povrchové napětí.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Skupenství.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Tepelná roztažnost u pevných těles.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/motor a chladici zarizeni.md",
     "zapisky-様/OpenDAW.md",
-    "zapisky-様/Čeština/2K/Realismus.md",
     "zapisky-様/Matematika/2K/Goniometrické funkce/Goniometrické funkce.md",
     "zapisky-様/Matematika/2K/Goniometrické funkce/Pro ucitelku do patku.md",
     "zapisky-様/Matematika/2K/Goniometrické funkce/graf/Graf.md",
@@ -187,19 +146,7 @@
     "Pasted image 20230411140913.png",
     "Pasted image 20230411140733.png",
     "zapisky-様/Matematika/2K/trigonometrie",
-    "zapisky-様/Dějepis/727.md",
-    "zapisky-様/Čeština/2K/Preromantismus a Romantismus.md",
-    "zapisky-様/Čeština/2K/Pracovní listy.md",
-    "zapisky-様/Čeština/2K/Národní obrození.md",
-    "zapisky-様/Čeština/2K/Máj - Karel Hynek Mácha.md",
-    "zapisky-様/Čeština/2K/Literární prvky.md",
-    "zapisky-様/Čeština/2K/Klasicismus.md",
-    "zapisky-様/Čeština/2K/hodnocení textu.md",
-    "zapisky-様/Čeština/2K/Čeští romantikové.md",
-    "zapisky-様/Dějepis/2K/Jaroslav Seifert.md",
     "Pasted image 20230405101146.png",
-    "zapisky-様/Dějepis/2K/Untitled.md",
-    "zapisky-様/Dějepis/2K/Vylodění v zátoce Sviní.md",
     "zapisky-様/Sítě/2K/TCP-IP.jpg",
     "Pasted image 20230308133238.png",
     "Pasted image 20230308132911.png",

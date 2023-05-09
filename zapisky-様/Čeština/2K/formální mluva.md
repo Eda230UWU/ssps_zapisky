@@ -1,0 +1,1 @@
+Z důvodu drogové závislosti jsem se rozhodl pro ukončení vztahu s XY

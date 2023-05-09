@@ -18,7 +18,11 @@ Kral Lávra z irských pověstí
 
 Epigramy - kritika církve, vlády, Rakouska
 
-Satirické skladby - Král Lávra, Holič Kukulín, Křest Sv. Vladimíra, Perun, Erolské elegie. 
+Satirické skladby - Král Lávra, Holič Kukulín, Křest Sv. Vladimíra, Perun, Tyrolské elegie.
+
+#### Tyrolské elegie
+Deportace do Alp, Brixen 1851, sebekritika, ve vyprávění jede kolem rodné vsi, kritika Rakouska
+
 
 
 ---
@@ -34,3 +38,15 @@ Ratibořice - babiččino údolí - bydlela zde, jmenuje se podle povídky babi�
 
 ### Babička
 Obrazy z venkovského života
+
+
+---
+
+
+
+
+
+
+---------------------
+
+## 

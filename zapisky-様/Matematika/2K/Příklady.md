@@ -377,3 +377,8 @@ $b=4.79cm$
 $c=\frac{a}{\sin\alpha}\sin\gamma$
 $c=\frac{5.66}{\sin76\degree41'}\sin44\degree47'$
 $c=4.09cm$
+
+---
+
+
+()
