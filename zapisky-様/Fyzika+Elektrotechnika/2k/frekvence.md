@@ -30,7 +30,18 @@ $t_1 = 0s$
 $t_2 = 1,5s$
 $\pi _0 = 0 + \pi \frac{1}{4}$
 
-$y = y_m *sin (\gamma t + \pi_0)$
-$$
+$y = y_m *sin (\omega t + \pi_0)$
+$y= 0.05 * sin( \frac{2\pi}{4}*0 + \pi\frac14)$
+$y = 0.05 * sin(\frac{\pi}{4})$
+$y = 0.05 * \frac{\sqrt2}{2}$
+$y = \frac{\sqrt2}{40}$
+$y\ \dot=\ 0.03$
+
+
+$y = y_m * sin(\omega t + \pi_0)$
+$y = y_m * sin(\frac{\pi}{2})$
+$y =0,05* sin (\frac{2\pi}{4}*1,5+{\pi/4}$ 
+
+
 
 
