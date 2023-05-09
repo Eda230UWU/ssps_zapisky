@@ -30,7 +30,7 @@ $t_1 = 0s$
 $t_2 = 1,5s$
 $\pi _0 = 0 + \pi \frac{1}{4}$
 
-$y = y_m *sin $
+$y = y_m *sin (\gamma )$
 
 
 
