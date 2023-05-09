@@ -17,6 +17,20 @@ f = frekvence
 
 ---
 
-y = 0,2 sin 
+$y = 0,2 sin \frac{2pi}{T} * \frac T3$
+$y = 0.2 sin frac{2\pi}{3}$
+$y = 0.2 * \frac{\sqrt2}{3}$
+$y =  \frac{\sqrt 2}{15}$
+
+---
+
+$y_m = 50mm = 0.05m$
+$T = 4s$
+$t_1 = 0s$
+$t_2 = 1,5s$
+$\pi _0 = 0 + \pi \frac{1}{4}$
+
+$y = y_m *sin $
+
 
 
