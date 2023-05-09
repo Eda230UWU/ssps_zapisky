@@ -10,6 +10,13 @@ vypočtěte frekvenci srdce
 
 
 $sin \omega = \frac{y}{r}$
-$y = y_m*sin( \omega*t}$
+$y = y_m*sin( \omega*t)$
 $\omega = \frac{2\pi}{T}$= [rad/s]
-$$
+$\omega = 2\pi f$
+f = frekvence
+
+---
+
+y = 0,2 sin 
+
+
