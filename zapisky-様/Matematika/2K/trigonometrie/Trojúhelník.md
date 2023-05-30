@@ -53,3 +53,17 @@ $a^2  = b^2+c^2 - 2cb*cos \alpha$
 
 ## Sinová věta
 $\frac{a}{sin \alpha} = \frac{b}{sin \beta} = \frac{c}{sin \gamma}$
+
+
+---
+
+
+# Typy úhlů
+
+konvexní 
+ostrý, tupý, pravý
+přímý
+
+nekonvexní
+nulový a plný + vypuklý 
+

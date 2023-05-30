@@ -40,8 +40,9 @@ $y\ \dot=\ 0.03$
 
 $y = y_m * sin(\omega t + \pi_0)$
 $y = y_m * sin(\frac{\pi}{2})$
-$y =0,05* sin (\frac{2\pi}{4}*1,5+{\pi/4}$ 
+$y =0,05* sin (\frac{2\pi}{4}*1,5+{\pi/4})$ 
 
+---
 
-
-
+$\omega = \frac{2\pi}{T}$
+$y = y_m$
