@@ -48,4 +48,20 @@ $\omega = \frac{2\pi}{T}$
 
 
 2.
-$y = 0,02 sin$
+	$y = 0,02 sin (\frac\pi2 t - \frac{\pi}{6} )$
+	$y = 0.02sin(\frac{\pi t}{2}-\frac\pi6)$
+	$y = 0.02sin()$
+
+3.
+	$sex$
+
+
+4.
+	aa
+
+5.
+	$y = 0.02sin(\frac{\pi}{2}t-\frac\pi6)$
+	$y = 0.02sin$
+
+6.
+	
