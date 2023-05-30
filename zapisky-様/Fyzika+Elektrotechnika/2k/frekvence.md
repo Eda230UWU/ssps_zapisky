@@ -61,7 +61,9 @@ $\omega = \frac{2\pi}{T}$
 
 5.
 	$y = 0.02sin(\frac{\pi}{2}t-\frac\pi6)$
-	$y = 0.02sin$
+	$y_m = y$
+	t=?
+	$1 = sin()$
 
 6.
 	
