@@ -67,3 +67,17 @@ přímý
 nekonvexní
 nulový a plný + vypuklý 
 
+
+---
+
+
+Težnice, výšky
+
+
+---
+
+## Smíchov Geometrie
+
+
+---
+

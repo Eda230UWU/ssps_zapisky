@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/kmitání.md",
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Dynamika hmotného pohybu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11ea4282ad61a488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/frekvence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f722ba640973f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Čeština/Literatura/Romantismus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/kmitání.md",
+                "file": "zapisky-様/Čeština/Literatura/Romantismus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,10 +139,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "513b164414774290",
+  "active": "8f722ba640973f25",
   "lastOpenFiles": [
+    "zapisky-様/Matematika/2K/mnohouhelníky.md",
+    "zapisky-様/Čeština/Literatura/Romantismus.md",
+    "zapisky-様/Matematika/2K/trigonometrie/Trojúhelník.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/kyvadlo.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/kmitání.md",
+    "zapisky-様/Fyzika+Elektrotechnika/2k/Dynamika hmotného pohybu.md",
+    "zapisky-様/Matematika/2K/Funkce.md",
+    "zapisky-様/Matematika/2K/geometrie",
+    "zapisky-様/Matematika/2K/Opakování.md",
+    "zapisky-様/Matematika/2K/Příklady.md",
+    "zapisky-様/Matematika/2K/Vzorečky na exponenciální rovnice.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/frekvence.md",
-    "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/kmitání.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Archimeduv zakon.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Skupenství.md",
     "zapisky-様/Fyzika+Elektrotechnika/2k/Mechanika Tekutin/Práce plynu.md",
@@ -130,18 +165,9 @@
     "zapisky-様/Matematika/2K/Goniometrické funkce/Goniometrické funkce.md",
     "zapisky-様/Čeština/2K/formální mluva.md",
     "zapisky-様/Čeština/2K/Pracovní listy.md",
-    "zapisky-様/Matematika/2K/trigonometrie/Trojúhelník.md",
-    "zapisky-様/Matematika/2K/Příklady.md",
     "zapisky-様/Čeština/2K/Realismus.md",
     "zapisky-様/Čeština/2K/Renesance a humanismus.md",
     "zapisky-様/Čeština/2K/Preromantismus a Romantismus.md",
-    "zapisky-様/Čeština/2K/Samostudium 5.12.md",
-    "zapisky-様/Čeština/2K/Máj - Karel Hynek Mácha.md",
-    "zapisky-様/Čeština/2K/Národní obrození.md",
-    "zapisky-様/Čeština/2K/Literární prvky.md",
-    "zapisky-様/Čeština/2K/Klasicismus.md",
-    "zapisky-様/Dějepis/2K/Hudební scéna 90. let.md",
-    "zapisky-様/Dějepis/727.md",
     "Pasted image 20230418122255.png",
     "Pasted image 20230411140913.png",
     "Pasted image 20230411140733.png",

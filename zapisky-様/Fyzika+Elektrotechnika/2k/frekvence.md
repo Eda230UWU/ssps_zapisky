@@ -18,7 +18,7 @@ f = frekvence
 ---
 
 $y = 0,2 sin \frac{2pi}{T} * \frac T3$
-$y = 0.2 sin frac{2\pi}{3}$
+$y = 0.2 sin \frac{2\pi}{3}$
 $y = 0.2 * \frac{\sqrt2}{3}$
 $y =  \frac{\sqrt 2}{15}$
 
