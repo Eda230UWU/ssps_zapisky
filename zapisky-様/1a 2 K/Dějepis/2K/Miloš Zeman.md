@@ -4,4 +4,5 @@ Politik, Ekonom
 KSČ - 1971 Vyhozen za nesouhlas s okupací 
 Účast při zprovoznění Temelína
 
-alkoholik 9
+alkoholik (BRANIK 2L)
+

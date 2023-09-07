@@ -1,4 +1,5 @@
 Lomená čára, sjednocení úseček s body v jedné rovině
+Žádné tři body nejsou kolineární
 
 ---
 uzavřená lomená čára
