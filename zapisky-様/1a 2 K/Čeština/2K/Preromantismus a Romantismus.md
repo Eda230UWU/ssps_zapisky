@@ -20,7 +20,7 @@ nešťastná láska, společenké rozdíly nebo není realizovatelná
 ### Znaky romantismu
 hrdina vystupuje proti společnosti
 odloučen od společnosti - kvůli povolání, hodnotám či odpudivému vzhledu
-popraven
+na konci popraven
 zajímavé povolání - loupežník
 sebevražda blízkých
 20., hlavně 30. a 40. léta 19. století
@@ -47,6 +47,11 @@ Reformy - povinná školní docházka
 ### Josef II.
 Refomry - Zrušení nevolnictví a tolerance víry
 
+### Alexandr S. Puškin
+#### Evžen Oněgin
+npc umrel
+
+
 ---
 
 
@@ -72,3 +77,11 @@ Sokol, kůň, Muromec
 ## Jan Kollář
 Slávy dcera - Předzpěv
 Tatry, rakev 
+
+---
+
+Dopis
+
+Yoyo sis slay,
+
+Takže tady máš, co můžu říct, Based. Co ale vím, že můžete být trochu salty nebo tak něco, ale stále doufám, že mě neghostneš.
