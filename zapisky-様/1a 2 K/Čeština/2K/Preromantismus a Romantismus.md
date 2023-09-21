@@ -85,3 +85,29 @@ Dopis
 Yoyo sis slay,
 
 Takže tady máš, co můžu říct, Based. Co ale vím, že můžete být trochu salty nebo tak něco, ale stále doufám, že mě neghostneš.
+
+---
+
+## Edgar Allan Poe
+
+### Havran
+18 slok
+havran je znak zla a trýsně
+
+lyricko-epická báseň
+smutek, melancholie, trísnění, smrt
+vypraveč vzpomíná na svou zesnulou milou
+
+
+v pokoji v prosinocvý večer
+autor a havran
+
+Lenora je zesnulá láska básníka, na okno zaklepe havran, který po otevření okna vlétne do pokoje. Havran se usadí na bustě Pallas Athény. Básník si myslí, že havran je prorok a začne s ním rozmlouvat.  Na otazky jako co je po smrti a zda se setká někdy se svou milou havran vždy odpoví, Nevermore - víckrát ne či nikdy víc
+
+### Jáma a Kyvadlo
+
+Kacíř odsouzen k smrti, objevuje se v cele, nic nevidí. Obchází celu, zjistí, že veprostřed je jáma, lehne si ke zdi a usne. Najednou je připoután a na zdech jsou děsivé malby. Kyvadlo je nad ním a jámou a začne se kývat. Kyvadlo se na něj několik dní spouští. Ve chvíli skočí do jámy aby se vyhnul utrpení a poté je zachráněn generálem Lerronem
+
+
+### Vraždy v ulici Morgue
+
