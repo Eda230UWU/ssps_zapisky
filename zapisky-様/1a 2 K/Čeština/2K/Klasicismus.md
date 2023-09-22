@@ -1,3 +1,5 @@
+Rozum a věda
+
 Vychází z antiky
 vzniká ve Francii 
 upínání na rozum (vědy), klade se menší důraz na boha 

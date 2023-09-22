@@ -1,3 +1,4 @@
+Archaismus - Zastaralé slovo
 personifikace - lidské vlastosti neživým věcem
 Apostrofa - oslovení neživé věci
 Gradace - gradace jede a peláší
@@ -27,3 +28,5 @@ sonet - znělka
 slovosledná inverze - záměna slov
 
 přetvářka  - přetvářka
+
+Román - nenaplněná láska

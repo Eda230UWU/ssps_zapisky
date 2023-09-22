@@ -1,7 +1,8 @@
-
+Citově založené směr
 
 # Literatura
 slovosledná inverze
+
 
 ## Dramatické dílo
 reprika
@@ -125,4 +126,4 @@ Monstrum
 Clevald - přítel Frankensteina
 
 Námořníci najdou zraněného Frankensteina na moři a rozhodnou se mu pomoci. Ten jim poví životní příběh.
-FrankensTEIN
+Frankenstein odjíždí studovat do Instadtu. Je fascinován chemií a alchemií. Stvoří monstrum - obživlou mrtvou hmotu
