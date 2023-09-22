@@ -118,3 +118,10 @@ Kacíř odsouzen k smrti, objevuje se v cele, nic nevidí. Obchází celu, zjist
 
 ## Mary Shelley
 ### Frankenstein
+
+Frankenstein - hlavní postava
+Alžběta - nevlastní sestra a snoubenka
+Monstrum 
+Clevald - přítel Frankensteina
+
+Námořníci najdou zraněného Frankensteina na moři a rozhodnou se mu pomoci. Ten jim poví životní příběh.

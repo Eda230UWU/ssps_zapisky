@@ -20,4 +20,5 @@ $sin \beta = \frac{sin \alpha}{n_v}$
 $sin\beta = \frac{\frac{1}{\sqrt2}}{1.33}$
 $sin\beta= 0.531$
 $\beta = 32 \degree$
-$x = l_2 - l_1 = h($
+$x = l_2 - l_1 = h(tg \alpha - tg\beta)$
+$x = 15.2cm$

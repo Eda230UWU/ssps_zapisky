@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Dynamika hmotného pohybu.md",
+                "file": "zapisky-様/1a 2 K/Čeština/2K/Preromantismus a Romantismus.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo/Příklady.md",
+                "file": "zapisky-様/Příklad z Keplera.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo/Příklady.md",
+                "file": "zapisky-様/1a 2 K/Čeština/2K/Preromantismus a Romantismus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +184,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8f722ba640973f25",
+  "active": "513b164414774290",
   "lastOpenFiles": [
-    "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo/Lom světla.md",
+    "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Dynamika hmotného pohybu.md",
+    "zapisky-様/Příklad z Keplera.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo/Příklady.md",
+    "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo/Lom světla.md",
     "zapisky-様/1a 2 K/Čeština/2K/Preromantismus a Romantismus.md",
     "zapisky-様/1a 2 K/Matematika/geometire/Ekvigonála.md",
     "zapisky-様/1a 2 K/Matematika/geometire/Souměrnosti.md",
@@ -215,8 +216,6 @@
     "zapisky-様/1a 2 K/Matematika/2K/čtení z grafu.md",
     "zapisky-様/1a 2 K/Matematika/2K/Exponenciální funkce.md",
     "zapisky-様/1a 2 K/Matematika/2K/Amongus dělení.md",
-    "zapisky-様/1a 2 K/Matematika/2K/trigonometrie/Trojúhelník.md",
-    "zapisky-様/1a 2 K/Matematika/2K/logaritmické funkce/Příklady.md",
     "zapisky-様/3K/KB",
     "zapisky-様/3K/APS",
     "zapisky-様/1a 2 K",
