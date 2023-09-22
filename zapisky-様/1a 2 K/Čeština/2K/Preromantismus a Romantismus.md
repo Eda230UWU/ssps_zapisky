@@ -125,3 +125,4 @@ Monstrum
 Clevald - přítel Frankensteina
 
 Námořníci najdou zraněného Frankensteina na moři a rozhodnou se mu pomoci. Ten jim poví životní příběh.
+FrankensTEIN
