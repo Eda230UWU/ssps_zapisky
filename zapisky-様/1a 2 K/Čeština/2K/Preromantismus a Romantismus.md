@@ -90,7 +90,7 @@ Takže tady máš, co můžu říct, Based. Co ale vím, že můžete být troch
 ---
 
 ## Edgar Allan Poe
-
+zakladatel horrorového žánru
 ### Havran
 18 slok
 havran je znak zla a trýsně
