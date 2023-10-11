@@ -15,4 +15,5 @@ $\beta _c = arcsin \frac{sin 60 \degree}{1.510}$
 $\beta _c = arcsin 0.5/1.510$
 $\beta _c = 0.33rad$
 
-$$n_1 sin \alpha _1 = n_2 sin \beta _2_$$
+$$n_1 sin \alpha _1 = n_2 sin \beta _2$$
+$$\frac{v_1}{v_2}=\frac{n _ 2}{n _1}$$
