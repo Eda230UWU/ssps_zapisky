@@ -107,7 +107,7 @@ Lenora je zesnulá láska básníka, na okno zaklepe havran, který po otevřen�
 
 ### Jáma a Kyvadlo
 
-Kacíř odsouzen k smrti, objevuje se v cele, nic nevidí. Obchází celu, zjistí, že veprostřed je jáma, lehne si ke zdi a usne. Najednou je připoután a na zdech jsou děsivé malby. Kyvadlo je nad ním a jámou a začne se kývat. Kyvadlo se na něj několik dní spouští. Ve chvíli skočí do jámy aby se vyhnul utrpení a poté je zachráněn generálem Lerronem
+Kacíř odsouzen k smrti za kacířství, objevuje se v cele, nic nevidí. Obchází celu, zjistí, že veprostřed je jáma, lehne si ke zdi a usne. Najednou je připoután a na zdech jsou děsivé malby. Kyvadlo je nad ním a jámou a začne se kývat. Kyvadlo se na něj několik dní spouští. Trestanec použije chleba aby myši rozkousali jeho pouta. Ve chvíli skočí do jámy aby se vyhnul utrpení a poté je zachráněn generálem Lassonem++
 
 
 ### Vraždy v ulici Morgue
