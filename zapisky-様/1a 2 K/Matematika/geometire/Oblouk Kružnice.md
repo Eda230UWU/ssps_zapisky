@@ -1,5 +1,5 @@
 Definice: 
-Křužnice k se středem S a obloukem $\overset \frown {AB}$ pokud středový úhel příslušný oblouku $\overset \frown {AB}$ je je úhel $\angle$ ASB takový, že na něm $\overset \frown {AB}$ leží. Zároveň platí, že libovolný bod V kdy $V \notin \overset \frown {AB}$
+Křužnice k se středem S a obloukem $\overset \frown {AB}$ pokud středový úhel příslušný oblouku $\overset \frown {AB}$ je je úhel $\angle$ ASB takový, že na něm $\overset \frown {AB}$ leží. Zároveň platí, že libovolný bod V kdy $V \notin \overset \frown {AB}$ . Též obvodný úhel příslušný pro $\overset \frown {AB}$ je $\angle$ AVB takový, že v něm $\overset \frown {AB}$ neleží.
 
 Velikost středového úhlu příslušného AB je rovna dvojnásobku obvodového úhlu příslušného témuž oblouku
 
