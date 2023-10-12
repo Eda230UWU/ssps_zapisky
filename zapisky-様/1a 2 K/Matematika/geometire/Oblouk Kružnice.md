@@ -11,3 +11,5 @@ Velikost středového úhlu příslušného $\overset \frown {AB}$ je rovna dvoj
 ## Příklady 
 
 	1.100
+
+$\angle ASB = 120 \degree$

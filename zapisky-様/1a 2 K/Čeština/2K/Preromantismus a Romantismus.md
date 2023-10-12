@@ -127,3 +127,15 @@ Clevald - přítel Frankensteina
 
 Námořníci najdou zraněného Frankensteina na moři a rozhodnou se mu pomoci. Ten jim poví životní příběh.
 Frankenstein odjíždí studovat do Instadtu. Je fascinován chemií a alchemií. Stvoří monstrum - obživlou mrtvou hmotu - Frankensteinovo monstrum. 
+
+
+
+----
+
+## Victor Hugo
+
+### Chrám matky boží
+
+### Legenda Věků
+
+### Bídníci
