@@ -6,3 +6,5 @@ Velikost středového úhlu příslušného AB je rovna dvojnásobku obvodového
 - Speciálně známe u Tháletovy kce, když $\overset \frown {AB}$ je půlkružnice 
 - Libovolný úhel V který neleží na oblouku $\overset \frown {AB}$ -> $V \notin \overset \frown {AB}$ platí, že úhel $\angle$ AVB je polovina velikosti úhlu $\angle$ ASB
 
+
+$\stackrel \frown {AB}$
