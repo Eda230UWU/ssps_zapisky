@@ -6,7 +6,7 @@ odraz světla - úhel odrazu se rovná úhlu dopadu
 lom světla
 
 úhel lomu $\beta$ se rovná úhlu dopadu $\alpha$ kdy: $$\frac{sin\ \alpha}{sin\ \beta} = \frac{v_1}{v_2}$$
-$$n = \frac{sin \alpha}{sin \beta}$$$$n=\frac cv$$
+$$\frac{n_2}{n_1} = \frac{sin \alpha}{sin \beta}$$$$n=\frac cv$$
 ---
 
 $$n_c = 1.510, n_f = 1.531, \alpha = 60 \degree, \Delta \beta = ? $$
@@ -17,3 +17,4 @@ $\beta _c = 0.33rad$
 
 $$n_1 sin \alpha _1 = n_2 sin \beta _2$$
 $$\frac{v_1}{v_2}=\frac{n _ 2}{n _1}$$
+
