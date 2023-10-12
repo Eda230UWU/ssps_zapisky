@@ -23,10 +23,11 @@ _k jednání a hospodaření
 
 nerovnováha organizmu => vede k negativním projevům
 
+---
 ### Druhy lidských potřeb
-#### 1. primarní a sekundární
-#### 2. fyzické a psychické
-#### 3. Individuální a kolektivní
+ 1. primarní a sekundární
+ 2. fyzické a psychické
+ 3. Individuální a kolektivní
 
 | x               | 1          | 2         | 3            |
 | --------------- | ---------- | --------- | ------------ |
@@ -40,3 +41,4 @@ nerovnováha organizmu => vede k negativním projevům
 | Vztah           | Sekundární | Psychická | Kolektivní   |
 | Stabilní příjem | Sekundární | Psychická | Individuální |
 | Uznání          | Primární   | Psychická | Individuální | 
+
