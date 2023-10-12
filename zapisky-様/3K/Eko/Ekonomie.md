@@ -44,3 +44,28 @@ nerovnováha organizmu => vede k negativním projevům
 | Stabilní příjem | Sekundární | Psychická | Individuální |
 | Uznání          | Primární   | Psychická | Individuální | 
 
+---
+
+## 2. Statky a služby
+### Statky 
+Uspokojuje potřeby - fyzická věc
+původ z přírody nebo od lidí
+
+a. Hmotné x Nehmotné
+b. Volné x Ekonomické
+c. Spotřeba x použití
+
+| x   | a   | b   | c   |
+| --- | --- | --- | --- |
+|     |     |     |     |
+### Služby
+
+a. Osobní x Věcná
+	zubař x oprava lednice
+
+b. Průběh x Výsledek
+
+| x   | a   | b   |
+| --- | --- | --- |
+|     |     |     |
+
