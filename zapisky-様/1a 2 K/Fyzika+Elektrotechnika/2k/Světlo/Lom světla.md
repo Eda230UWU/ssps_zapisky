@@ -18,3 +18,5 @@ $\beta _c = 0.33rad$
 $$n_1 sin \alpha _1 = n_2 sin \beta _2$$
 $$\frac{v_1}{v_2}=\frac{n _ 2}{n _1}$$
 
+
+$\frac{sin \alpha}{sin 60 \degree cos \alpha - \cos 60 \degree sin \alpha}$
