@@ -53,8 +53,14 @@ Obrazy z venkovského života
 12.8. 1881 budova ND vyhořea
 18.9. 1883 definitivní otevření ND
 
-Přestavba je ve stylu Novorenesance - stavba zlaté kapličky
+Přestavba je ve stylu Novorenesance (jako např. Národní muzeum)- stavba zlaté kapličky 
 
+Do požáru v roce 1883 stavil Josef Zítek z důvodu obvinění z požáru - divadlo nezapálil, ale špatně postavil
+
+Josef Schultz stavil po požáru z důvodu vyhraní soutěže - postavil i Národní muzeum 
+
+Bohuslav Schnirch - trigy, múzy - sochař
+Josef Václav Myslbek - alegorie hudby - sochař
 
 Hry o oslavě slovanství
 
