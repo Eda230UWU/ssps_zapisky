@@ -19,5 +19,5 @@ $\angle ASB = 120 \degree$
 b. $\frac{5}{8}$
 
 $2 \omega = \frac 58 * 360 \degree = 225 \degree$
-$\omega = \frac{225}{2} \degree= 117 \degree 30'$
+$\omega = \frac{225}{2} = 117 \degree 30'$
 
