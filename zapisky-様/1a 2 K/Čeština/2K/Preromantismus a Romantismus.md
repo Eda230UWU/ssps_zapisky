@@ -134,7 +134,8 @@ Frankenstein odjíždí studovat do Instadtu. Je fascinován chemií a alchemií
 
 ## Victor Hugo
 
-### Chrám matky boží
+### Chrám matky boží v Paříži
+Quassimodo, Esmeralda, Klaudius Frollo, Jan Frollo ze mlýna
 
 ### Legenda Věků
 

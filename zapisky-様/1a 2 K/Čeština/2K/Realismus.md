@@ -42,11 +42,30 @@ Obrazy z venkovského života
 
 ---
 
+## Národní Divadlo
+1862 
+
+16.5. 1868 - základní kámen pro ND
+- původní kámen měl být z hory Říp - bohužel čedič se špatně opracovává a drolí se, tudíž je není vhodný, nakonec byl použit jako kámen číslo 2  
+- původních kamenů je 20 z celých Čech a Šumavy, jeden je dokonce z Ameriky
+
+11.6. 1881 provizorní otevření ND
+12.8. 1881 budova ND vyhořea
+18.9. 1883 definitivní otevření ND
+
+Přestavba je ve stylu Novorenesance - stavba zlaté kapličky
 
 
+Hry o oslavě slovanství
 
+Hrály se Tylovy hry - 
+Hálkova historická dramata - Král Vukašín
+Hry Nerudovy - nadčasové díla, 
+ 
+Jmenovalo se "Prozatimní divadlo" - základ národního divadla s jevištěm a zákulisím
 
 
 ---------------------
 
-## 
+## Realistická dramata
+### Naši Furianti
