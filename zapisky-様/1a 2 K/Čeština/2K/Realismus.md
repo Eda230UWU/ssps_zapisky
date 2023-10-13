@@ -55,13 +55,24 @@ Obrazy z venkovského života
 
 Přestavba je ve stylu Novorenesance (jako např. Národní muzeum)- stavba zlaté kapličky 
 
-Do požáru v roce 1883 stavil Josef Zítek z důvodu obvinění z požáru - divadlo nezapálil, ale špatně postavil
+---
+#### Kdo se podílel na stavbě
 
+Do požáru v roce 1883 stavil Josef Zítek z důvodu obvinění z požáru - divadlo nezapálil, ale špatně postavil
 Josef Schultz stavil po požáru z důvodu vyhraní soutěže - postavil i Národní muzeum 
 
 Bohuslav Schnirch - trigy, múzy - sochař
 Josef Václav Myslbek - alegorie hudby - sochař
 
+Mikoláš Ales - Malíř - Vyhrál první kolo VŘ výb. říz
+František Ženíšek - Malíř - Nakonec se použil návrh tento
+
+Opona - tři části - Autor: Vojtěch Hynais
+1. Patreoni - lidé co přišeli
+2. Alegorie
+3. Stavitelé, architekti
+
+---
 Hry o oslavě slovanství
 
 Hrály se Tylovy hry - 
@@ -73,5 +84,7 @@ Jmenovalo se "Prozatimní divadlo" - základ národního divadla s jevištěm a 
 
 ---------------------
 
-## Realistická dramata
+## Hry Národního divadla
 ### Naši Furianti
+Realistické drama
+
