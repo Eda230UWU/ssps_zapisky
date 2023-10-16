@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "d36078e79d72d060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c35950dd893dbb8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/3K/APS/1..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "95b39291d746cc7f",
         "type": "tabs",
         "children": [
@@ -13,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/3K/APS/1..md",
+                "file": "zapisky-様/3K/APS/Příklady.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,18 +44,6 @@
               "type": "markdown",
               "state": {
                 "file": "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo/Lom světla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c35950dd893dbb8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/3K/APS/1..md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/3K/APS/1..md",
+                "file": "zapisky-様/3K/APS/Příklady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +180,9 @@
   },
   "active": "513b164414774290",
   "lastOpenFiles": [
+    "zapisky-様/3K/APS/1..md",
+    "zapisky-様/3K/APS/Příklady.md",
+    "zapisky-様/3K/APS/Untitled",
     "zapisky-様/1a 2 K/Matematika/geometire/Obvody a Obsahy rovinných útvarů.md",
     "zapisky-様/1a 2 K/Matematika/geometire/Oblouk Kružnice.md",
     "zapisky-様/1a 2 K/Matematika/geometire/Zobrazení v rovině.md",
@@ -181,7 +190,6 @@
     "zapisky-様/1a 2 K/Matematika/geometire/Ekvigonála.md",
     "zapisky-様/1a 2 K/Čeština/2K/Realismus.md",
     "zapisky-様/1a 2 K/Matematika/2K/Příklady.md",
-    "zapisky-様/3K/APS/1..md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo/Lom světla.md",
     "zapisky-様/1a 2 K/Čeština/2K/Preromantismus a Romantismus.md",
     "zapisky-様/1a 2 K/Čeština/2K/Literární prvky.md",
@@ -204,7 +212,6 @@
     "zapisky-様/1a 2 K/Čeština/2K/Renesance a humanismus.md",
     "zapisky-様/1a 2 K/Matematika/geometire",
     "zapisky-様/OpenDAW.md",
-    "zapisky-様/1a 2 K/Matematika/2K/Opakování.md",
     "zapisky-様/3K/KB",
     "zapisky-様/3K/APS",
     "zapisky-様/1a 2 K",
@@ -213,7 +220,6 @@
     "Pasted image 20230418122255.png",
     "Pasted image 20230411140913.png",
     "Pasted image 20230411140733.png",
-    "zapisky-様/1a 2 K/Matematika/2K/trigonometrie",
     "Pasted image 20230405101146.png",
     "zapisky-様/1a 2 K/Sítě/2K/TCP-IP.jpg",
     "Pasted image 20230308133238.png",
