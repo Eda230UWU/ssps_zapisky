@@ -57,15 +57,15 @@ c. Spotřeba x použití
 
 | x                      | a        | b          | c         |
 | ---------------------- | -------- | ---------- | --------- |
-| Plzeň 12$\degree$      | Hmotné   | Ekonomické | Spotřební |
-| Mobil                  | Hmotné   | Ekonomické | Použití   |
-| Notebook               | Hmotné   | Ekonomické | Použití   |
+| Plzeň 12$\degree$      | Hmotné   | Volné | Spotřební |
+| Mobil                  | Hmotné   | Volné | Použití   |
+| Notebook               | Hmotné   | Volné | Použití   |
 | M. Jazyk               | Nehmotné | Volné      | Použití   |
 | Kryptoměny             | Nehmotné | Ekonomické | Spotřební |
-| Hodinky                | Hmotné   | Ekonomické | Použití   |
-| Autoškola 2023 Premium | Nehmotné | Ekonomické | Použití   |
+| Hodinky                | Hmotné   | Volné | Použití   |
+| Autoškola 2023 Premium | Nehmotné | Volné | Použití   |
 | Videohra               | Nehmotné | Ekonomické | Použití   |
-| Jídlo                  | Hmotné   | Ekonomické | Spotřební |
+| Jídlo                  | Hmotné   | Volné | Spotřební |
 | Milkshake z McDonaldu  | Hmotné   | Ekonomické | Spotřební          |
 ### Služby
 
