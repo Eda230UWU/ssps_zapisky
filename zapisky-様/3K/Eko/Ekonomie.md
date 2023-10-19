@@ -55,9 +55,15 @@ a. Hmotné x Nehmotné
 b. Volné x Ekonomické
 c. Spotřeba x použití
 
-| x   | a   | b   | c   |
-| --- | --- | --- | --- |
-|     |     |     |     |
+| x                 | a        | b          | c         |
+| ----------------- | -------- | ---------- | --------- |
+| Plzeň 12$\degree$ | Hmotné   | Ekonomické | Spotřební |
+| Mobil             | Hmotné   | Ekonomické | Použití   |
+| Notebook          | Hmotné   | Ekonomické | Použití   |
+| M. Jazyk          | Nehmotné | Volné      | Použití   |
+| Kryptoměny        | Nehmotné | Ekonomické | Spotřební |
+| Hodinky           | HHmotné  | Ekonomické | Použití   |
+|                   |          |            |           |
 ### Služby
 
 a. Osobní x Věcná

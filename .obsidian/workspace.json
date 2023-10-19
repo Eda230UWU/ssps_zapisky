@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d36078e79d72d060",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c35950dd893dbb8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/3K/APS/1..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "95b39291d746cc7f",
         "type": "tabs",
         "children": [
@@ -32,6 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "zapisky-様/3K/APS/Příklady.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bd686e763383d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/3K/Eko/Ekonomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/3K/APS/Příklady.md",
+                "file": "zapisky-様/3K/Eko/Ekonomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,8 +173,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "513b164414774290",
+  "active": "3bd686e763383d56",
   "lastOpenFiles": [
+    "zapisky-様/1a 2 K/Čeština/2K/Preromantismus a Romantismus.md",
+    "zapisky-様/1a 2 K/Čeština/2K/Renesance a humanismus.md",
     "zapisky-様/3K/APS/1..md",
     "zapisky-様/3K/APS/Příklady.md",
     "zapisky-様/3K/APS/Untitled",
@@ -191,7 +188,6 @@
     "zapisky-様/1a 2 K/Čeština/2K/Realismus.md",
     "zapisky-様/1a 2 K/Matematika/2K/Příklady.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo/Lom světla.md",
-    "zapisky-様/1a 2 K/Čeština/2K/Preromantismus a Romantismus.md",
     "zapisky-様/1a 2 K/Čeština/2K/Literární prvky.md",
     "zapisky-様/3K/Eko/Ekonomie.md",
     "zapisky-様/Příklad z Keplera.md",
@@ -209,7 +205,6 @@
     "Pasted image 20230920124235.png",
     "zapisky-様/3K/KB/Logika.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo",
-    "zapisky-様/1a 2 K/Čeština/2K/Renesance a humanismus.md",
     "zapisky-様/1a 2 K/Matematika/geometire",
     "zapisky-様/OpenDAW.md",
     "zapisky-様/3K/KB",
