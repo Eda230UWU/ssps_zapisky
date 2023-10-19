@@ -55,15 +55,18 @@ a. Hmotné x Nehmotné
 b. Volné x Ekonomické
 c. Spotřeba x použití
 
-| x                 | a        | b          | c         |
-| ----------------- | -------- | ---------- | --------- |
-| Plzeň 12$\degree$ | Hmotné   | Ekonomické | Spotřební |
-| Mobil             | Hmotné   | Ekonomické | Použití   |
-| Notebook          | Hmotné   | Ekonomické | Použití   |
-| M. Jazyk          | Nehmotné | Volné      | Použití   |
-| Kryptoměny        | Nehmotné | Ekonomické | Spotřební |
-| Hodinky           | HHmotné  | Ekonomické | Použití   |
-|                   |          |            |           |
+| x                      | a        | b          | c         |
+| ---------------------- | -------- | ---------- | --------- |
+| Plzeň 12$\degree$      | Hmotné   | Ekonomické | Spotřební |
+| Mobil                  | Hmotné   | Ekonomické | Použití   |
+| Notebook               | Hmotné   | Ekonomické | Použití   |
+| M. Jazyk               | Nehmotné | Volné      | Použití   |
+| Kryptoměny             | Nehmotné | Ekonomické | Spotřební |
+| Hodinky                | Hmotné   | Ekonomické | Použití   |
+| Autoškola 2023 Premium | Nehmotné | Ekonomické | Použití   |
+| Videohra               | Nehmotné | Ekonomické | Použití   |
+| Jídlo                  | Hmotné   | Ekonomické | Spotřební |
+| Milkshake z McDonaldu  | Hmotné   | Ekonomické | Spotřební          |
 ### Služby
 
 a. Osobní x Věcná
@@ -71,7 +74,16 @@ a. Osobní x Věcná
 
 b. Průběh x Výsledek
 
-| x   | a   | b   |
-| --- | --- | --- |
-|     |     |     |
+| x                     | a      | b        |
+| --------------------- | ------ | -------- |
+| Internet              | Věcná  | Průběh   |
+| Škola                 | Osobní | Výsledek |
+| Zdravotnictví         | Osobní | Výsledek |
+| Masáž                 | Osobní | Průběh   |
+| Přezutí pneumatik     | Věcná  | Výsedek  |
+| Dovážka zboží         | Věcná  | Výsledek |
+| Voda, Elektřina, Plyn | Věcnáw | Průběh   |
+| Instagram             | Osobní | Průběh   |
+| Twitter               | Osobní | Průběh   |
+| Facebook              | Osobní | Průběh   | 
 
