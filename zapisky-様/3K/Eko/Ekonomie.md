@@ -66,7 +66,7 @@ c. Spotřeba x použití
 | Autoškola 2023 Premium | Nehmotné | Volné | Použití   |
 | Videohra               | Nehmotné | Ekonomické | Použití   |
 | Jídlo                  | Hmotné   | Volné | Spotřební |
-| Milkshake z McDonaldu  | Hmotné   | Ekonomické | Spotřební          |
+| Milkshake z McDonaldu  | Hmotné   | Volné | Spotřební          |
 ### Služby
 
 a. Osobní x Věcná
@@ -80,10 +80,20 @@ b. Průběh x Výsledek
 | Škola                 | Osobní | Výsledek |
 | Zdravotnictví         | Osobní | Výsledek |
 | Masáž                 | Osobní | Průběh   |
-| Přezutí pneumatik     | Věcná  | Výsedek  |
+| Přezutí pneumatik     | Věcná  | Výsledek  |
 | Dovážka zboží         | Věcná  | Výsledek |
-| Voda, Elektřina, Plyn | Věcnáw | Průběh   |
+| Voda, Elektřina, Plyn | Věcná | Průběh   |
 | Instagram             | Osobní | Průběh   |
 | Twitter               | Osobní | Průběh   |
 | Facebook              | Osobní | Průběh   | 
 
+---
+
+# Životní úrověň
+Komplexní ukazatel v jakém množství a kvalitě jsou uspokojovány lidské potřeby
+
+Porovnávání mezinárodní a regionální normy. 
+
+### HDP na obyvatele
+$91\%$ průměru EU
+### Demografie
