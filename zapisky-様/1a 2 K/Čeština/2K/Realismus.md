@@ -46,7 +46,7 @@ Obrazy z venkovského života
 1862 
 
 16.5. 1868 - základní kámen pro ND
-- původní kámen měl být z hory Říp - bohužel čedič se špatně opracovává a drolí se, tudíž je není vhodný, nakonec byl použit jako kámen číslo 2  
+- původní kámen měl být z hory Říp - bohužel čedič se špatně opracovává a drolí se, tudíž je není vhodný, nakonec byl použit jako kámen číslo 2  - K tomuto kamenu se váže historická událost vydání literárního díla almanachu Ruch - sbírka děl
 - původních kamenů je 20 z celých Čech a Šumavy, jeden je dokonce z Ameriky
 
 11.6. 1881 provizorní otevření ND
@@ -85,6 +85,9 @@ Jmenovalo se "Prozatimní divadlo" - základ národního divadla s jevištěm a 
 ---------------------
 
 ## Hry Národního divadla
+První hra Národního divadla - Král Mukašín od Ladislava Hálka
+
+
 ### Naši Furianti
 Realistické drama
 

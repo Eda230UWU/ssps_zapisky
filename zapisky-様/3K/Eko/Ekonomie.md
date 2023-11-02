@@ -106,7 +106,7 @@ zaměstnanost, dostupnost zaměstnání, majetek obyvatel
 ### Zdravotní péče
 Dostupnost
 
-### SOciální péče
+### Sociální péče
 
 ### Živ. prostředí
 
