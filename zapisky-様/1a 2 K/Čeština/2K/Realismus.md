@@ -46,28 +46,31 @@ Obrazy z venkovského života
 1862 
 
 16.5. 1868 - základní kámen pro ND
-- původní kámen měl být z hory Říp - bohužel čedič se špatně opracovává a drolí se, tudíž je není vhodný, nakonec byl použit jako kámen číslo 2  - K tomuto kamenu se váže historická událost vydání literárního díla almanachu Ruch - sbírka děl
+- původní kámen měl být z hory Říp - bohužel čedič se špatně opracovává a drolí se, tudíž je není vhodný, nakonec byl použit jako kámen číslo 2  - K tomuto kamenu se váže historická událost vydání literárního díla almanachu Ruch - sbírka děl (kratší díla - básně, povídky)
 - původních kamenů je 20 z celých Čech a Šumavy, jeden je dokonce z Ameriky
 
-11.6. 1881 provizorní otevření ND
+11.6. 1881 provizorní otevření ND při příležitosti přijetí syn císaře - princ Rudolfa - Hra Libuše od Bedřicha Smetany (Inspirace z lidových pověstí)
 12.8. 1881 budova ND vyhořea
-18.9. 1883 definitivní otevření ND
+18.9. 1883 definitivní otevření ND - znova Libuše
+
+ND se říká "Naše zlatá kaplička"
+Nápis a slavnostní oponě je napsáno "Národ sobě!"
 
 Přestavba je ve stylu Novorenesance (jako např. Národní muzeum)- stavba zlaté kapličky 
 
 ---
 #### Kdo se podílel na stavbě
 
-Do požáru v roce 1883 stavil Josef Zítek z důvodu obvinění z požáru - divadlo nezapálil, ale špatně postavil
-Josef Schultz stavil po požáru z důvodu vyhraní soutěže - postavil i Národní muzeum 
+Do požáru v roce 1883 stavil Josef Zítek z důvodu obvinění z požáru - divadlo nezapálil, ale špatně postavil (Dále postavil Národní Muzeum)
+**Josef Schultz** stavil po požáru z důvodu vyhraní soutěže - postavil i Národní muzeum 
 
-Bohuslav Schnirch - trigy, múzy - sochař
-Josef Václav Myslbek - alegorie hudby - sochař
+**Bohuslav Schnirch** - trigy, múzy - sochař
+**Josef Václav Myslbek** - alegorie hudby - sochař
 
-Mikoláš Ales - Malíř - Vyhrál první kolo VŘ výb. říz
-František Ženíšek - Malíř - Nakonec se použil návrh tento
+**Mikoláš Ales** - Malíř - Vyhrál první kolo VŘ výb. říz
+**František Ženíšek** - Malíř - Nakonec se použil návrh tento
 
-Opona - tři části - Autor: Vojtěch Hynais
+Opona - tři části - Autor: **Vojtěch Hynais**
 1. Patreoni - lidé co přišeli
 2. Alegorie
 3. Stavitelé, architekti
@@ -91,3 +94,5 @@ První hra Národního divadla - Král Mukašín od Ladislava Hálka
 ### Naši Furianti
 Realistické drama
 
+### Libuše
+Bedřich Smetana 
