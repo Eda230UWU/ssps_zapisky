@@ -97,3 +97,19 @@ Porovnávání mezinárodní a regionální normy.
 ### HDP na obyvatele
 $91\%$ průměru EU
 ### Demografie
+Vlivy složení obyvatelstva
+### Vzdělání
+Dostupnost vzdělání, cena vzdělání, 
+### Ekonomická situace
+zaměstnanost, dostupnost zaměstnání, majetek obyvatel
+
+### Zdravotní péče
+Dostupnost
+
+### SOciální péče
+
+### Živ. prostředí
+
+
+
+
