@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "513b164414774290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/1a 2 K/Čeština/2K/Realismus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3bd686e763383d56",
             "type": "leaf",
             "state": {
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/1a 2 K/Čeština/2K/Realismus.md",
+                "file": "zapisky-様/1a 2 K/Čeština/2K/Literární prvky.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f380cc11050980e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/3K/APS/1..md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/1a 2 K/Čeština/2K/Realismus.md",
+                "file": "zapisky-様/3K/Eko/Ekonomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +148,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c16344e5a6b7f052",
+  "active": "3bd686e763383d56",
   "lastOpenFiles": [
-    "zapisky-様/1a 2 K/Čeština/2K/Renesance a humanismus.md",
+    "zapisky-様/1a 2 K/Čeština/2K/Literární prvky.md",
+    "zapisky-様/3K/APS/1..md",
+    "zapisky-様/3K/APS/Příklady.md",
+    "zapisky-様/3K/Výchova k pondikání/Podnikatel vs Zaměstanec.md",
+    "zapisky-様/3K/KB/Modulární aritmetika.md",
+    "zapisky-様/3K/KB/Logika.md",
     "zapisky-様/1a 2 K/Čeština/2K/Realismus.md",
+    "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo/Zrcadla.md",
+    "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo/Příklady.md",
+    "zapisky-様/1a 2 K/Čeština/2K/Renesance a humanismus.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo/Lom světla.md",
     "zapisky-様/1a 2 K/Matematika/geometire/Stereometrie.md",
     "zapisky-様/3K/Eko/Ekonomie.md",
@@ -190,7 +173,6 @@
     "zapisky-様/1a 2 K/Umění/sračka.md",
     "zapisky-様/1a 2 K/Administrativa.md",
     "zapisky-様/1a 2 K/Základní literární pojmy.md",
-    "zapisky-様/3K/APS/1..md",
     "zapisky-様/1a 2 K/Sítě/2K/Mlsoun.md",
     "zapisky-様/1a 2 K/Sítě/Untitled.md",
     "zapisky-様/1a 2 K/Sítě/Enkapsulace.md",
@@ -201,13 +183,6 @@
     "zapisky-様/1a 2 K/OSE/Rodinné právo.md",
     "zapisky-様/1a 2 K/Občanská nauka/Právo a stát.md",
     "zapisky-様/1a 2 K/Matematika/geometire/Oblouk Kružnice.md",
-    "zapisky-様/1a 2 K/Matematika/geometire/Ekvigonála.md",
-    "zapisky-様/1a 2 K/Chemie/Chemie věci.md",
-    "zapisky-様/1a 2 K/Čeština/2K/Preromantismus a Romantismus.md",
-    "zapisky-様/1a 2 K/Chemie/Atomový obal.md",
-    "zapisky-様/3K/Výchova k pondikání/Podnikatel vs Zaměstanec.md",
-    "zapisky-様/3K/KB/Modulární aritmetika.md",
-    "zapisky-様/3K/KB/Logika.md",
     "zapisky-様/3K/APS/Untitled",
     "zapisky-様/3K/Výchova k pondikání",
     "zapisky-様/3K/Eko",

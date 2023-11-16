@@ -61,7 +61,7 @@ Přestavba je ve stylu Novorenesance (jako např. Národní muzeum)- stavba zlat
 ---
 #### Kdo se podílel na stavbě
 
-Do požáru v roce 1883 stavil Josef Zítek z důvodu obvinění z požáru - divadlo nezapálil, ale špatně postavil (Dále postavil Národní Muzeum)
+Do požáru v roce 1883 stavil Josef Zítek z důvodu obvinění z požáru - divadlo nezapálil, ale špatně postavil 
 **Josef Schultz** stavil po požáru z důvodu vyhraní soutěže - postavil i Národní muzeum 
 
 **Bohuslav Schnirch** - trigy, múzy - sochař
@@ -90,9 +90,24 @@ Jmenovalo se "Prozatimní divadlo" - základ národního divadla s jevištěm a 
 ## Hry Národního divadla
 První hra Národního divadla - Král Mukašín od Ladislava Hálka
 
-
+## Ladislav Stroupežnický
 ### Naši Furianti
+odehrává se v roce 1869 v Jihočeské vesnici Honice
 Realistické drama
 
+
+
+## Bedřich Smetana
 ### Libuše
-Bedřich Smetana 
+
+
+## Alois Jirásek
+1851-1930
+Realistická dramata
+Učil v Litomyšli 
+Žil v Praze - dostal umístěnku do Litomyšle
+podpořil vzrod samostatného ČSS
+Jiráskuv Hronov - jeho rodiště a zároveň festival amaterského divadla
+
+### Lucerna
+Pohádková hra

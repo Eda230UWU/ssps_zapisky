@@ -31,3 +31,15 @@ slovosledná inverze - záměna slov
 přetvářka  - přetvářka
 
 Román - nenaplněná láska
+
+
+---
+
+# Typy textu
+## Funkční styly
+
+Prostěsdělovací - inzerát, pozvánka, plakát
+Odborný text - odkazujeme se na zdroj
+Publicistický - 
+Administrativní
+Výkladový - výklad,

@@ -111,5 +111,18 @@ Dostupnost
 ### Živ. prostředí
 
 
+---
 
+| a              | b                      | c                   |
+| -------------- | ---------------------- | ------------------- |
+| Zubař          | Rukavice               | Světlo, křeslo atd. |
+| Architekt      | Tužka                  | Pravítko            |
+| Učitel         | křída                  | tabule              |
+| Řidič autobusu | pohonné hmoty          | Autobus             |
+| Mechanik       | náhradní díly          | klíč, gola          |
+| Instalatér     | kolena, trubky, vlasce | klíč                |
+| Zedník         | malta, štuk            | Zednická lopata     |
+| WT hráč        | mozkové buňky          | war thunder         |
+| Traktorista    | pohonné hmoty          | Traktor             |
+| Programátor    | Elektřina              | Počítač             |
 
