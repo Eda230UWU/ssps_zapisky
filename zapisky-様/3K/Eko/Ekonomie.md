@@ -113,7 +113,7 @@ Dostupnost
 
 ---
 
-| a              | b                      | c                   |
+| PS             | JP                     | PPS                 |
 | -------------- | ---------------------- | ------------------- |
 | Zubař          | Rukavice               | Světlo, křeslo atd. |
 | Architekt      | Tužka                  | Pravítko            |
@@ -126,3 +126,9 @@ Dostupnost
 | Traktorista    | pohonné hmoty          | Traktor             |
 | Programátor    | Elektřina              | Počítač             |
 
+
+
+# Dělba práce
+Rozčleňování práce do úseků, oborů
+Vývoj DP
+	Žena x muž => sběr, lov, řemesla, nemateriální či
