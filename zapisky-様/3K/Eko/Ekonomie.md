@@ -131,4 +131,10 @@ Dostupnost
 # Dělba práce
 Rozčleňování práce do úseků, oborů
 Vývoj DP
-	Žena x muž => sběr, lov, řemesla, nemateriální či
+	Žena x muž => sběr, lov, řemesla, nemateriální činnosti (péče o děti/členy, náboženský úkony, vzdělávání potomků, řízení společnosti, obrana/expanze, rešarže), chov, pěstitelství, směna
+
+Součastnost =>
+	1. Specializace - vysoká hodnota práce, vychází z kvality a rychlosti a žádosti statku.  
+	2. kooperace - vzájemná spolupráce mezi specialisty
+
+Rozvinutá DP má dobrej dopad na stát
