@@ -57,4 +57,9 @@ Obsah
 Předmět nebo cíl
 
 fyzická osoba má právní subjektivitu a způsobilost
-právnická osoba je např. podnik vystupující jako osoba
+právnická osoba je např. podnik vystupující jako osoba 
+1. lidé - družstvo či spolek
+2. majetek - zapsán v rejstříku
+
+objektivní události - smrt či narození
+subjektivní právní úkony - smlouvy
