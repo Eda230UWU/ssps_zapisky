@@ -61,5 +61,5 @@ právnická osoba je např. podnik vystupující jako osoba
 1. lidé - družstvo či spolek
 2. majetek - zapsán v rejstříku
 
-objektivní události - smrt či narození
-subjektivní právní úkony - smlouvy
+objektivní události - samovolné, smrt či narození, katastrofa či plnoletost
+subjektivní právní úkony - smlouvy, nikdo nás do nich nenutí
