@@ -50,7 +50,7 @@ Zákony musí být v souladu s ústavou
 	Právo je minimum morálky
 
 ### Právní normy
-jsou všeobecnš závaz pravidla, podle kterých si státní moc může vymáhat jejich dodržování
+jsou všeobecnš závazná pravidla, podle kterých si státní moc může vymáhat jejich dodržování
 
 legislativa je tvorba právních norem
 Novelizace norem je změna, či doplnění právní normy
@@ -61,7 +61,7 @@ Sankce je postih za její nedodržení
 Sbírka zákonnů je zveřejnění všech norem
 	Věstníky zvěřejnují ministerstva
 
-Právní vztah
+#Právní vztah
 Účastník - fyzická či právnická osoba
 Obsah
 Předmět nebo cíl
