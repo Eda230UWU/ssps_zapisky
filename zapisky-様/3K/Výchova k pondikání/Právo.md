@@ -1,4 +1,4 @@
-Právo jsou obecné zavázné normy, které stanoví stát
+je souorem obecně zavázných nore, které stanoví stát
 
 ## Zásady práva jsou:
 
@@ -61,15 +61,16 @@ Sankce je postih za její nedodržení
 Sbírka zákonnů je zveřejnění všech norem
 	Věstníky zvěřejnují ministerstva
 
-#Právní vztah
+### Právní vztah
 Účastník - fyzická či právnická osoba
-Obsah
-Předmět nebo cíl
+Obsah - předměty vzatuhjící se ke vztahu 
+Předmět nebo-li cíl
 
 fyzická osoba má právní subjektivitu a způsobilost
-právnická osoba je např. podnik vystupující jako osoba 
+právnická osoba je uměle vytvořený subjekt, např. podnik vystupující jako osoba 
 1. lidé - družstvo či spolek
-2. majetek - zapsán v rejstříku
+2. majetek - nadace, fond
+právnická osoba vzniká zákonným způsobem a je zapsána do rejstříu, vymazaním zanikne
 
 objektivní události - samovolné, smrt či narození, katastrofa či plnoletost
 subjektivní právní úkony - smlouvy, nikdo nás do nich nenutí
