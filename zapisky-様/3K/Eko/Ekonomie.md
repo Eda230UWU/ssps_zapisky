@@ -137,4 +137,13 @@ Součastnost =>
 	1. Specializace - vysoká hodnota práce, vychází z kvality a rychlosti a žádosti statku.  
 	2. kooperace - vzájemná spolupráce mezi specialisty
 
-Rozvinutá DP má dobrej dopad na stát
+Rozvinutá DP má dobrej dopad na ekonomiku stát
+
+---
+
+Výroba --> Rozdělení --> Směný obchod --> Spotřeba --> Výroba
+
+1.  Výroba pro spotřebu
+2. Přibližení statků spotřebiteli
+3. Nákup a prodej 
+4. Spotřeba spotřebiteli

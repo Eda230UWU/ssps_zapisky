@@ -1,4 +1,4 @@
-je souorem obecně zavázných nore, které stanoví stát
+je souorem obecně zavázných norem, které stanoví stát
 
 ## Zásady práva jsou:
 
@@ -40,6 +40,7 @@ Právní řád tvoří předpisy ve státě, je uspořádán podle důležitosti
 Před zákonem jsou si všichni rovni a neznalost zákona neomlouvá
 
 Právní síla je důležitost právních norem, záleží na tom, jaká instituce zákon vydala
+
 Normy právního řádu nesmí být mezi sebou v rozporu
 
 Zákony musí být v souladu s ústavou
