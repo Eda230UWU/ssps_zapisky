@@ -21,6 +21,8 @@ střídavý _a-b-a-b_, sdružený _a-a-b-b_, obkročný _a-b-b-a_, přerývan
 Lyrický subjekt - nepřímý vypraveč, (hrdlička zvolá Hynku, Jarmilo, Viléme)
 slovosledná inverze
 
+... - výpustka, zamyšlení, emoce 
+
 ---
 
 fraška - laciná komedie

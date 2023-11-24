@@ -147,3 +147,6 @@ Výroba --> Rozdělení --> Směný obchod --> Spotřeba --> Výroba
 2. Přibližení statků spotřebiteli
 3. Nákup a prodej 
 4. Spotřeba spotřebiteli
+
+
+## Vztahy hospodářském p
