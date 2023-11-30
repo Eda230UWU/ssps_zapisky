@@ -157,4 +157,6 @@ mrtví nevolníci.
 ### Revizor
 Divadelní hra
 
-Příběh se odehrává v ruském městečku kolem roku 1930. Bezvýznamný úředník Chlestakov se sluhou Osipem během 14 dní přijde o všechny peníze v kartách a nemůže zaplatit hotel ve zmíňeném městečku. Hejtman dostane dopis od přítele z Petrohradu o revizorovi, který už dorazil nebo teprve dorazí do městečka. Poštmistr si z nudy přečetl tento dopis a brzy o tom ví celé město. Dobčinskij a Bobčinskij
+Příběh se odehrává v ruském městečku kolem roku 1930. Bezvýznamný úředník Chlestakov se sluhou Osipem během 14 dní přijde o všechny peníze v kartách a nemůže zaplatit hotel ve zmíněném a zkorumpovaném městečku. Hejtman dostane dopis od přítele z Petrohradu o revizorovi, který už dorazil nebo teprve dorazí do městečka. Poštmistr si z nudy přečetl tento dopis, čímž porušuje poštovní tajmeství, a brzy o tom ví celé město. Dobčinskij a Bobčinskij (drbny) rozšíří zprávu, že Chlestakov je zmíňěný revizor.
+
+Chlestakov nechápe, proč se k němu chovají všichni s respektem. Po chvíli zjistí, za koho ho považují
