@@ -165,3 +165,5 @@ Chlestakov nechápe, proč se k němu chovají všichni s respektem. Po chvíli 
 ---
 
 ## Francouzská literatura
+
+Negativní text, zvýrazňuje negaci - nemoc

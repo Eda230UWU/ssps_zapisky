@@ -150,3 +150,14 @@ Výroba --> Rozdělení --> Směný obchod --> Spotřeba --> Výroba
 
 
 ## Vztahy hospodářském p
+
+---
+
+## Výrobní faktory
+opilovaci
+lithium idk
+
+obyvatelstvo
+ - pracovni vec
+ - zdravi 
+ - idk
