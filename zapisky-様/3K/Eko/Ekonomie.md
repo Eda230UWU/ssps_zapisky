@@ -173,5 +173,7 @@ poptavkova pruznost idk
 Nevolnictví -1781> TH - 1948> CPH -1989> TH
 
 
-TH - soukromé vlastnictí podniků, právní samosta
-CPH - státně vlastněný podnik
+TH - soukromé vlastnictí podniků, právní samostatnost (Obor, Ekonomická samostatnost, mzdy zaměstnanců, rozdělení zisku)
+CPH - státně vlastněný podnik, opak
+
+RVHP - Rada vzájemné hospodářské pomoci
