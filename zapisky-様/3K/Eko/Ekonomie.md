@@ -170,4 +170,8 @@ poptavka - ochota nakoupit statky a služby - čas, místo, cena
 
 poptavkova pruznost idk
 
-Nevolnictví -> TH -> CPH -> 
+Nevolnictví -1781> TH - 1948> CPH -1989> TH
+
+
+TH - soukromé vlastnictí podniků, právní samosta
+CPH - státně vlastněný podnik
