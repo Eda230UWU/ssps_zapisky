@@ -1,5 +1,6 @@
 fun fact: poetizmus jediný český umělecký směr
-
+mid mid mid
+czy to fredy fazber, ow owowo owo wo wowo 
 ## Hlavní hrdina
 Průměrný občan
 potkáme ho ve městě či na vesnici - potřebuje společnost, v jakékoliv denní době
@@ -119,21 +120,33 @@ Pohádková hra
 
 
 ## Andersen
+Dánský spisovatel
 
 ### Holčička se sirkami
 
 ### Statečný cínový panáček
 
+Chlapec dostane k narozeninám sadu 25 vojáčků a naaranžuje je na desku stolu. Jeden voják stojí na jedné noze, protože byl poslední z várky a nezbylo na něj dost [cínu](https://cs.wikipedia.org/wiki/C%C3%ADn "Cín"). Vojáček sleduje nedaleko stojící [papírovou](https://cs.wikipedia.org/wiki/Pap%C3%ADr "Papír") [baletku](https://cs.wikipedia.org/wiki/Balet "Balet"), která také stojí jen na jedné noze, a zamiluje se do ní. Malý čaroděj vojáčka varuje, aby baletku nechal na pokoji, ale ten ho ignoruje. Dalšího dne vojáček spadne z [parapetu](https://cs.wikipedia.org/wiki/Parapet_(architektura) "Parapet (architektura)") a přistane na ulici. Dva chlapci ho najdou, umístí ho do papírové loďky a pošlou ho plout ve škarpě. Loď s vojáčkem skončí v kanále, kde hračku spolkne [ryba](https://cs.wikipedia.org/wiki/Ryby "Ryby"). Ta je chycena a vykuchána a vojáček se nakonec znovu ocitne na stole nedaleko baletky. Chlapec, který vojáčka dostal k [narozeninám](https://cs.wikipedia.org/wiki/Narozeniny "Narozeniny"), jej z nejasných důvodů hodí do [ohně](https://cs.wikipedia.org/wiki/Ohe%C5%88 "Oheň"). Zavane [vítr](https://cs.wikipedia.org/wiki/V%C3%ADtr "Vítr") a ten do ohně přinese i baletku. Příštího dne služka v [popelu](https://cs.wikipedia.org/wiki/Popel "Popel") najde kus cínu v podobě srdce.
 ### Křesadlo
 
 ### Malá mořská víla
 
 ### Ošklivé káčátko
 
+Na začátku příběhu se vylíhnou kachní vejce. Jedno z káčátek je ostatními zvířaty z farmy považováno za ošklivé, a to ho trápí. Nakonec odejde z farmy a připojí se k divokým husám. Toto a nikdo ho neměl rád . Káčátko najde domov u staré ženy, ale její kočka a slepice si z něj znovu utahují a káčátko znovu uteče. Zahlédne hejno migrujících labutí, což ho potěší a nadchne, ale je příliš malé, než aby umělo létat. Přichází zima. Farmář nachází mrznoucího ptáčka a vezme ho domů, ale káčátko je vyděšené jeho hlučnými dětmi a mizí z domu. Káčátko stráví zimu v blízkosti částečně zamrzlého jezera. Na jaře přilétá hejno labutí a zoufalé káčátko se rozhoduje, že se raději nechá zabít krásnými labutěmi, než aby snášelo tak těžký život. Je šokováno, když ho labutě vítají a přijímají ho. Podívá se na svůj odraz ve vodě a zjišťuje, že vypadá jako jedno z nich. Hejno se zvedá do vzduchu a Ošklivé káčátko roztahuje křídla, aby se připojilo ke své nové rodině.
+
 ### Princezna na hrášku
 
+Příběh vypráví o princi, který se chce oženit s princeznou, ale má potíže najít vhodnou manželku. Něco je vždy špatné s dívkami, se kterými se setkává. Jedné bouřlivé noci (u Andersena je to vždy předzvěst život ohrožující situace, nebo příležitost pro romantické setkání) hledá na zámku útočiště mladá, deštěm promočená žena. Tvrdí, že je princezna a princova matka se ji rozhodne vyzkoušet. Nabídne dívce útočiště na noc a pod 20 matrací umístí hrášek. Princezna příští ráno tvrdí, že měla bezesnou noc a budilo ji cosi tvrdého v posteli, co jí způsobilo modřiny. Princ se zaraduje, protože jen pravá princezna by projevila takovou citlivost. Proběhne svatba a hrášek je umístěn v královském muzeu.
 
+20 matrací a jeden hrášek
+### Sněhová královna
 
+Zlý čaroděj udělá zrcadlo, které zvýrazňuje špatné věci o lidech. Zrcadlo se rozbije a střípky se rozletí do světa.
+
+Kaj a Gerda jsou děti, kterým babička Kaje vypraví o Sněhové královně. Kaj jí uvidí z okna, ale uteče. Kus zrcadla se Kajovi dostane do oka a stane se mrzutým a zlým, jelikož všechno vidí špatně. 
+
+V zimě Kaj nastoupí do saní SK, která ho políbí, aby nevnímal zimu. Odvveze ho do Laponska. Gerdu vedou ruzní tvorové jako vrány a holubi, ale i třeba loupežnice, která mu dá soba, který ji odveze do Laponska. Gerda osvobodí Kaje silou přítelství a na jaře se vrátí domu. 
 
 ## Čechov
 nadčasový autor
@@ -145,8 +158,8 @@ Prodavají celý statek a s ním Višnový sad kvůli dluhu. Knežna Raněvská 
 
 Lopachin vykoupí sad na aukci a nechá jej vykácet, aby ho mohl zastavět. Knežna odjíždí zpátky do Paříže, a slyší kácení jejího sadu, což je traumatizující
 
-### Sněhová královna
-
+### Císasřovy nové šaty
+arnivý císař starající se jen o svůj vzhled si najme dva tkalce, kteří jsou však ve skutečnosti podvodníci. Ti mu slibují nové šaty, které jsou neviditelné pro ty, kteří jsou nezpůsobilí k výkonu své funkce či jsou hloupí. Císař sám tyto neexistující šaty pochopitelně nevidí, ale předstírá, že tomu tak je, aby nevzbudil pochybnosti o vhodnosti své osoby pro císařský trůn. Jeho ministři dělají to samé. Falešní tkalci dokončují práci a předstírají, že císaře oblékají do nových šatů. Císař jde v průvodu poddaných, když najednou dítě, které je příliš upřímné, aby pochopilo výhody přetvářky, vykřikne, že císař na sobě nic nemá. To pak opakuje i celý zástup, císař se však rozhodne průvod dokončit.
 
 ## Nikolaj Vasiljevič Gogol
 ### Mrtvé duše
@@ -159,7 +172,7 @@ Divadelní hra
 
 Příběh se odehrává v ruském městečku kolem roku 1930. Bezvýznamný úředník Chlestakov se sluhou Osipem během 14 dní přijde o všechny peníze v kartách a nemůže zaplatit hotel ve zmíněném a zkorumpovaném městečku. Hejtman dostane dopis od přítele z Petrohradu o revizorovi, který už dorazil nebo teprve dorazí do městečka. Poštmistr si z nudy přečetl tento dopis, čímž porušuje poštovní tajmeství, a brzy o tom ví celé město. Dobčinskij a Bobčinskij (drbny) rozšíří zprávu, že Chlestakov je zmíňěný revizor.
 
-Chlestakov nechápe, proč se k němu chovají všichni s respektem. Po chvíli zjistí, za koho ho považují
+Chlestakov nechápe, proč se k němu chovají všichni s respektem. Po chvíli zjistí, za koho ho považují a sehraje s nimi divadlo, kde předdstírá, že je revizor. Poté, co mu je přislíbena ruka dcery pana starosty, odjede bez dluhů. Chlubí se svému příteli přes dopis, který si přečte pošmistr a když se všichni dozví, že Chlestakov není revizor, přijede pravý rezivor
 
 
 ---

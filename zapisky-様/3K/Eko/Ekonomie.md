@@ -154,10 +154,20 @@ Výroba --> Rozdělení --> Směný obchod --> Spotřeba --> Výroba
 ---
 
 ## Výrobní faktory
-opilovaci
+opilovaci vcelky nebo tak neco
 lithium idk
 
 obyvatelstvo
  - pracovni vec
  - zdravi 
  - idk
+
+---
+
+Trh je střet nabídky a poptávky
+Nabídka je idk - čas, místo, cena
+poptavka - ochota nakoupit statky a služby - čas, místo, cena
+
+poptavkova pruznost idk
+
+Nevolnictví -> VT -> CPH -> VT
