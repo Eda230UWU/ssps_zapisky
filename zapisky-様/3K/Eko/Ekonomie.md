@@ -170,4 +170,4 @@ poptavka - ochota nakoupit statky a služby - čas, místo, cena
 
 poptavkova pruznost idk
 
-Nevolnictví -> VT -> CPH -> VT
+Nevolnictví -> TH -> CPH -> 
