@@ -5,7 +5,7 @@ WA - Web Application
 WF má za úkol ulehčit tvorbu WA - API, resources, services, DB, session management, code reuse atd.
 
 ### Ia. + Ib. příklady FW
-
+1. Django - Top3 Python FW, Škálabilita a rychlost,  - Instagram, Spotify, YT
 
 ```js
 console.log()
