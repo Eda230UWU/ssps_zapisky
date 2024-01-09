@@ -20,7 +20,7 @@ console.log()
 
 ```
 ### IIx. https://svelte.dev/examples
-Projít si tyhle examples
+Projděte si tyhle examples
 
 
 ## III. závěr
