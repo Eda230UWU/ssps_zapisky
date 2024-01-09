@@ -6,7 +6,8 @@ WF má za úkol ulehčit tvorbu WA - API, resources, services, DB, session manag
 
 ### Ia. + Ib. příklady FW
 1. Django - Top3 Python FW, Škálabilita a rychlost,  - Instagram, Spotify, YT
-2. Angular a AngularJS - nepoužívejte angular, TS a JSSingle web page aplikace - Roblox 
+2. Angular a AngularJS - nepoužívejte angular, TS a JS, Single web page aplikace - Roblox 
+3. React - Web a Native UI , JS - AirBNB a Netflix 
 
 ```js
 console.log()
