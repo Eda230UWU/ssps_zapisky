@@ -19,7 +19,8 @@ console.log()
 
 
 ```
-
+### IIx. https://svelte.dev/examples
+Projít si tyhle examples
 
 
 ## III. závěr
