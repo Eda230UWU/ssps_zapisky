@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb3d7dc9835471d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapisky-様/Skripta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/1a 2 K/Čeština/2K/sloh.md",
+                "file": "zapisky-様/Skripta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -149,10 +163,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c62f2cc9db45cb3a",
+  "active": "eb3d7dc9835471d5",
   "lastOpenFiles": [
-    "zapisky-様/1a 2 K/Čeština/2K/Realismus.md",
     "zapisky-様/1a 2 K/Čeština/2K/sloh.md",
+    "zapisky-様/Skripta.md",
+    "zapisky-様/1a 2 K/Čeština/2K/Realismus.md",
     "zapisky-様/1a 2 K/Čeština/2K/Literární prvky.md",
     "zapisky-様/3K/Eko/Ekonomie.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/elekrtika ig/727 pocitani.md",
@@ -183,7 +198,6 @@
     "zapisky-様/1a 2 K/Umění/sračka.md",
     "zapisky-様/1a 2 K/Administrativa.md",
     "zapisky-様/1a 2 K/Základní literární pojmy.md",
-    "zapisky-様/1a 2 K/Sítě/Untitled.md",
     "zapisky-様/1a 2 K/Sítě/2K/TCP-IP.jpg",
     "zapisky-様/3K/APS/Untitled",
     "zapisky-様/3K/Výchova k pondikání",
