@@ -13,10 +13,13 @@ WF má za úkol ulehčit tvorbu WA - API, resources, services, DB, session manag
 ## II. Svelte
 
 - Žádný VDOM -> Manipulace DOMu při runtime ![[Pasted image 20240111093742.png]]
-- 
+- Bindingy
+- Event Handling
+- Komponenty
 ### IIa. Příklad funkcí
 
-Bind hodnot v vanilla Html
+#### bind
+html:
 ```html
 <html lang="en"> 
 	<script>
@@ -49,8 +52,11 @@ Svelte:
 </div>
 ```
 
-### IIx. https://svelte.dev/examples
-Projděte si tyhle examples
+---
 
 
-## III. závěr
+
+## III. https://svelte.dev/examples
+Příklady - není potřeba nic instalovat gg 
+
+
