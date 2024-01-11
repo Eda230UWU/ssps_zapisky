@@ -11,9 +11,11 @@ WF má za úkol ulehčit tvorbu WA - API, resources, services, DB, session manag
 4. Svelte - JS, Kompilace kódu do JS, vic lightweight, Optimalizovaný kód, - TeamSpeak
 
 ## II. Svelte
+
+- Žádný VDOM -> Manipulace DOMu při runtime
 ### IIa. Příklad funkcí
 
-Bind hodnot 
+Bind hodnot v vanilla Html
 ```html
 <html lang="en"> 
 	<script>
@@ -34,7 +36,7 @@ Bind hodnot
 	</body> 
 </html>
 ```
-
+Svelte:
 ```html
 <script> 
 	let textbox = ''; 
@@ -42,7 +44,7 @@ Bind hodnot
 </script> 
 <div> 
 	<input bind:value={textbox} placeholder="Enter text"> 
-	<button on:click={handleClick}>Click me</button> 
+	<button on:click={() => {handleClick}}>Click me</button> 
 </div>
 ```
 
