@@ -13,12 +13,39 @@ WF má za úkol ulehčit tvorbu WA - API, resources, services, DB, session manag
 ## II. Svelte
 ### IIa. Příklad funkcí
 
-
-```js
-console.log()
-
-
+Bind hodnot 
+```html
+<html lang="en"> 
+	<script>
+	document.addEventListener("DOMContentLoaded", function () { 
+	  var textbox = document.getElementById("Textbox");
+	  var button = document.getElementById("Button");
+	
+	  button.addEventListener("click", function () { 
+	      var textboxValue = textbox.value; 
+	      console.log("Textbox value: " + textboxValue);
+		}); 
+	});
+	</script>
+	<head></head>
+	<body>
+		<input type="text" id="TextBox" placeholder="Text"> 
+		<button id="Button">Button</button> 
+	</body> 
+</html>
 ```
+
+```html
+<script> 
+	let textbox = ''; 
+	function handleClick() { console.log(textbox)};
+</script> 
+<div> 
+	<input bind:value={textbox} placeholder="Enter text"> 
+	<button on:click={handleClick}>Click me</button> 
+</div>
+```
+
 ### IIx. https://svelte.dev/examples
 Projděte si tyhle examples
 
