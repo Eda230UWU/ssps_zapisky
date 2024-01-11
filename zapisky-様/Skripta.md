@@ -12,7 +12,8 @@ WF má za úkol ulehčit tvorbu WA - API, resources, services, DB, session manag
 
 ## II. Svelte
 
-- Žádný VDOM -> Manipulace DOMu při runtime
+- Žádný VDOM -> Manipulace DOMu při runtime ![[Pasted image 20240111093742.png]]
+- 
 ### IIa. Příklad funkcí
 
 Bind hodnot v vanilla Html
