@@ -96,6 +96,6 @@ Svelte:
 
 
 ## III. https://svelte.dev/examples
-Příklady - není potřeba nic instalovat gg 
+Online examples od svelte - není potřeba nic instalovat gg
 
 
