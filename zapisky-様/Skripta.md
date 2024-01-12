@@ -81,14 +81,13 @@ html:
 </html>
 ```
 Svelte:
-```html
+```html svelte
 <script> 
 	let number = 0; 
 	function handleClick() { number += 1};
 </script> 
-<div> 
-	<input bind:value={textbox} placeholder="Enter text"> 
-	<button on:click={() => {handleClick())}}>Click me</button> 
+<div>	
+	<button on:click={() => {handleClick())}}>Click me! Clicked {number}{ number == 1 ? 'time' : 'times'}</button> 
 </div>
 ```
 
