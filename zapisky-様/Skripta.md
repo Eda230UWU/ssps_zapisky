@@ -4,6 +4,12 @@ WA - Web Application
 ## I. Co je to WF
 WF má za úkol ulehčit tvorbu WA - API, resources, services, DB, session management, code reuse atd.
 
+Obecné výhody
+- Rychlost developmentu
+- Lepší škálabilita
+- Bezpečnost
+- Organizace projektu
+
 ### Ia. + Ib. příklady FW
 1. Django - Top3 Python FW, Škálabilita a rychlost,  - Instagram, Spotify, YT
 2. Angular a AngularJS - nepoužívejte angular, TS a JS, Single web page aplikace - Roblox 
@@ -19,6 +25,40 @@ WF má za úkol ulehčit tvorbu WA - API, resources, services, DB, session manag
 ### IIa. Příklad funkcí
 
 #### bind
+html:
+```html
+<html lang="en"> 
+	<script>
+	document.addEventListener("DOMContentLoaded", function () { 
+	  var textbox = document.getElementById("Textbox");
+	  var button = document.getElementById("Button");
+	
+	  button.addEventListener("click", function () { 
+	      var textboxValue = textbox.value; 
+	      console.log("Textbox value: " + textboxValue);
+		}); 
+	});
+	</script>
+	<head></head>
+	<body>
+		<input type="text" id="TextBox" placeholder="Text"> 
+		<button id="Button">Button</button> 
+	</body> 
+</html>
+```
+Svelte:
+```html
+<script> 
+	let textbox = ''; 
+	function handleClick() { console.log(textbox)};
+</script> 
+<div> 
+	<input bind:value={textbox} placeholder="Enter text"> 
+	<button on:click={() => {handleClick}}>Click me</button> 
+</div>
+```
+
+#### Reaktivita
 html:
 ```html
 <html lang="en"> 
