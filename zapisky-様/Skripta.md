@@ -54,7 +54,7 @@ Svelte:
 </script> 
 <div> 
 	<input bind:value={textbox} placeholder="Enter text"> 
-	<button on:click={() => {handleClick}}>Click me</button> 
+	<button on:click={() => {handleClick()}}>Click me</button> 
 </div>
 ```
 
@@ -83,12 +83,12 @@ html:
 Svelte:
 ```html
 <script> 
-	let textbox = ''; 
-	function handleClick() { console.log(textbox)};
+	let number = 0; 
+	function handleClick() { number += 1};
 </script> 
 <div> 
 	<input bind:value={textbox} placeholder="Enter text"> 
-	<button on:click={() => {handleClick}}>Click me</button> 
+	<button on:click={() => {handleClick())}}>Click me</button> 
 </div>
 ```
 
