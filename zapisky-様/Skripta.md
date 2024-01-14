@@ -106,5 +106,5 @@ Online examples od Svelte - není potřeba nic instalovat gg
 2. Adaptéry
 3. Event handler
 4. Stores
-5. 
+
 
