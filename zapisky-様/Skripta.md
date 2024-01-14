@@ -36,7 +36,8 @@ html:
 	  button.addEventListener("click", function () { 
 	      var textboxValue = textbox.value; 
 	      console.log("Textbox value: " + textboxValue);
-		}); 
+	      //muze byt napriklad http request
+	  }); 
 	});
 	</script>
 	<head></head>
@@ -45,6 +46,7 @@ html:
 		<button id="Button">Button</button> 
 	</body> 
 </html>
+
 ```
 Svelte:
 ```html
@@ -61,23 +63,23 @@ Svelte:
 #### Reaktivita
 html:
 ```html
-<html lang="en"> 
-	<script>
-	document.addEventListener("DOMContentLoaded", function () { 
-	  var textbox = document.getElementById("Textbox");
-	  var button = document.getElementById("Button");
-	
-	  button.addEventListener("click", function () { 
-	      var textboxValue = textbox.value; 
-	      console.log("Textbox value: " + textboxValue);
-		}); 
-	});
-	</script>
-	<head></head>
-	<body>
-		<input type="text" id="TextBox" placeholder="Text"> 
-		<button id="Button">Button</button> 
-	</body> 
+<html lang="en">
+<body>
+    <div id="app">
+        <button id="clickButton">Click me! Clicked <span id="count">0</span> times</button>
+    </div>
+<script>
+	let number = 0;
+	function handleClick() {
+		number += 1;
+		const countElement = document.getElementById('count');
+		countElement.textContent = number;
+      }
+	const clickButton = document.getElementById('clickButton');
+	clickButton.addEventListener('click', handleClick);
+
+</script>
+</body>
 </html>
 ```
 Svelte:
