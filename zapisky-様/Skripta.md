@@ -1,6 +1,7 @@
 # Moderní WF
 WF - Web Framework
 WA - Web Application
+![[Pasted image 20240114185520.png]]
 ## I. Co je to WF
 WF má za úkol ulehčit tvorbu WA - API, resources, services, DB, session management, code reuse atd.
 
@@ -100,4 +101,10 @@ Svelte:
 ## III. https://svelte.dev/examples
 Online examples od Svelte - není potřeba nic instalovat gg
 
+### Cool věci
+1. Logic Blocks
+2. Adaptéry
+3. Event handler
+4. Stores
+5. 
 
