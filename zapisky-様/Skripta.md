@@ -99,6 +99,32 @@ Svelte:
 </div>
 ```
 
+Logic bloky:
+
+```js
+{#await chapter_list}
+	<p>loading ...</p>                    
+{:then chapter_list}
+	{#each chapter_list as chapter_list}
+		{#if chapter_list.attributes.translatedLanguage == "en"}
+			{#if chapter_list.attributes.title == "" || chapter_list.attributes.title == null}
+			<div>
+				<button on:click={() => {get_page(chapter_list.id)}}>Vol: {chapter_list.attributes.volume} Ch: {chapter_list.attributes.chapter}
+				</button>
+			</div>
+			{:else }
+			<div>
+				<button on:click={() => {get_page(chapter_list.id)}}>Vol: {chapter_list.attributes.volume} Ch: {chapter_list.attributes.chapter} "{chapter_list.attributes.title}"
+				</button>
+			</div>
+			{/if}
+		{/if}
+	{/each}
+{/await}
+
+```
+
+
 ---
 
 
