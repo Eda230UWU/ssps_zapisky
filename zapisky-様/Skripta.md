@@ -16,15 +16,10 @@ Obecné výhody vývoje s Webovými Frameworky jsou:
 1. Django se nachází mezi top 3 Python FW. Mezi jeho výhody patří vysoká škálabilita a rychlost. V tomto FW je například napsaný web Intagramu, Spotify a Youtube.
 2. React je Javascriptový WF pro tvorbu Webů a React Native pro tvorbu Nativních aplikací. Mezi webové aplikace v něm napsané patří AirBNB a Netflix
 3. Angular a AngularJS jsou WF od firmy Google. V roce 2016 vyšel Angular jako TS náhrada pro AngularJS. Je velmi komplexní a není beginner-friendly, zvlášť pro začínající Web developery. Zároveň je jeho inicializace pomalá. Obahuje spoustu redundantních featurek jako napříkald Moduly a Komponenty a komplikovaný systém Store se službami. Routing je velmi dobře udělaný. Mezi stránky v něm napsaný patří Roblox
-4. 5. Svelte je JS FW, který se kompiluje do malých a optimalizovaných JS snippetů, kompilace je rychlá a FW je lightweight. Zárověň je rychlý, jelikož nemá VDOM a DOM upravuje pouze v částech, kde je to potřeba, narozdíl od generace celého DOMu, nebo porovnávání VDOMů. Je velice beginner-friendly ve smyslu, že člověk může psát v podstatě vanilla HTML a jeho funkce se učit v průběhu. Obahuje spoustu cool funkcí jako bindingy, komponenty, Store (který není komplikovaný jako u Angularu), Event Handling a TS podporu. File based routing je sice cool, ale osobně bych radši viděl podobný systém jako u Angularu, vzhledem k tomu, že se mi líbil. Osobně bych tento FW doporučil. V tomto FW je napříkald napsaný web TeamSpeak
+4. 5. Svelte je JS FW, který se kompiluje do malých a optimalizovaných JS snippetů, kompilace je rychlá a FW je lightweight. Zárověň je rychlý, jelikož nemá VDOM a DOM upravuje pouze v částech, kde je to potřeba, narozdíl od generace celého DOMu, nebo porovnávání VDOMů. Je velice beginner-friendly ve smyslu, že člověk může psát v podstatě vanilla HTML a jeho funkce se učit v průběhu. Obahuje spoustu cool funkcí jako bindingy, komponenty, Store (který není komplikovaný jako u Angularu), Event Handling a TS podporu. File based routing je sice cool, ale osobně bych radši viděl podobný systém jako u Angularu, vzhledem k tomu, že se mi líbil. Osobně bych tento FW doporučil. V tomto FW je napříkald napsaný web TeamSpeaku
 
-## II. Svelte
 
-- Žádný VDOM -> Manipulace DOMu při runtime ![[Pasted image 20240111093742.png]]
-- Bindingy
-- Event Handling
-- Komponenty
-### IIa. Příklad funkcí
+### II. Příklad funkcí Svelte
 
 #### bind
 html:
@@ -34,11 +29,12 @@ html:
 	document.addEventListener("DOMContentLoaded", function () { 
 	  var textbox = document.getElementById("Textbox");
 	  var button = document.getElementById("Button");
-	
+	  //promenne priradime jednotlive tlacitka a boxy 
+	  //
 	  button.addEventListener("click", function () { 
 	      var textboxValue = textbox.value; 
 	      console.log("Textbox value: " + textboxValue);
-	      //muze byt napriklad http request
+	      //muze byt napriklad http request, aktualne jen logujeme co je v textboxu
 	  }); 
 	});
 	</script>
@@ -46,6 +42,7 @@ html:
 	<body>
 		<input type="text" id="TextBox" placeholder="Text"> 
 		<button id="Button">Button</button> 
+		<!--said tlacitka -->
 	</body> 
 </html>
 
@@ -55,6 +52,7 @@ Svelte:
 <script> 
 	let textbox = ''; 
 	function handleClick() { console.log(textbox)};
+	//Event handling pres on:click= a bindovaní přes bind:value{variable} nám ušetřilo práci s hledáním částí přes ID a classy 
 </script> 
 <div> 
 	<input bind:value={textbox} placeholder="Enter text"> 
