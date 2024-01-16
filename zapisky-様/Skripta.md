@@ -15,8 +15,8 @@ Obecné výhody vývoje s Webovými Frameworky jsou:
 ### Ia. + Ib. příklady FW
 1. Django se nachází mezi top 3 Python FW. Mezi jeho výhody patří vysoká škálabilita a rychlost. V tomto FW je například napsaný web Intagramu, Spotify a Youtube.
 2. React je Javascriptový WF pro tvorbu Webů a React Native pro tvorbu Nativních aplikací. Mezi webové aplikace v něm napsané patří AirBNB a Netflix
-3. Angular a AngularJS jsou WF od firmy Google. V roce 2016 vyšel Angular jako TS náhrada pro AngularJS. .Mezi stránky v něm napsaný patří Roblox
-4. 5. Svelte - JS, Kompilace kódu do JS, vic lightweight, Optimalizovaný kód, - TeamSpeak
+3. Angular a AngularJS jsou WF od firmy Google. V roce 2016 vyšel Angular jako TS náhrada pro AngularJS. Je velmi komplexní a není beginner-friendly, zvlášť pro začínající Web developery. Zároveň je jeho inicializace pomalá. Obahuje spoustu redundantních featurek jako napříkald Moduly a Komponenty a komplikovaný systém Store se službami. Routing je velmi dobře udělaný. Mezi stránky v něm napsaný patří Roblox
+4. 5. Svelte je JS FW, který se kompiluje do malých a optimalizovaných JS snippetů, kompilace je rychlá a FW je lightweight. Je velice beginner-friendly ve smyslu, že člověk může psát v podstatě vanilla HTML a jeho funkce se učit v průběhu. Obahuje spoustu cool funkcí jako bindingy, komponenty, .V tomto FW je napsaný web TeamSpeak
 
 ## II. Svelte
 
