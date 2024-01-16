@@ -95,7 +95,7 @@ Svelte:
 </script> 
 <div>	
 	<button on:click={() => {handleClick())}}>Click me! Clicked {number}{ number == 1 ? 'time' : 'times'}</button> 
-	<!--jednoduší handlování, použití proměnné v HTML a shorthand if statement, který zajistí správné časování slovesa-->
+	<!--jednoduší handlování, použití proměnné v HTML a shorthand if statement, který zajistí správné časování slovesa time-->
 </div>
 ```
 
