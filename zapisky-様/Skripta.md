@@ -21,7 +21,8 @@ Obecné výhody vývoje s Webovými Frameworky jsou:
 
 ### II. Příklad funkcí Svelte
 
-#### bind
+#### Bind
+příklad bindování funkcí ke komponentám 
 html:
 ```html
 <html lang="en"> 
