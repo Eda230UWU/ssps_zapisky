@@ -108,7 +108,7 @@ Svelte:
 {/} zakončí specifikovaný logic block
 
 
-```js
+```svelte
 {#await chapter_list}
 	<p>loading ...</p>                    
 {:then chapter_list}
