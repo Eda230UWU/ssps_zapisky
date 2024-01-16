@@ -100,7 +100,8 @@ Svelte:
 ```
 
 #### Logic bloky:
-{#await} block počká, až se změní proměnná chapter_list
+{#await} block počká, až se změní proměnná chapter_list (pomocí asynchorní funkce, která dělá HTTP request) a zároveň zobrazí "filler"
+{:then} určuje, co se zobrazí, až se aktualizuje chapter_list  
 
 ```js
 {#await chapter_list}
