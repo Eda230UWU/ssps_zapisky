@@ -76,8 +76,10 @@ html:
 		number += 1;
 		const countElement = document.getElementById('count');
 		countElement.textContent = number;
-      }
+	    //změna hodnoty a resetnutí hodnoty
+	}
 	const clickButton = document.getElementById('clickButton');
+	//Event handling
 	clickButton.addEventListener('click', handleClick);
 
 </script>
@@ -89,9 +91,11 @@ Svelte:
 <script> 
 	let number = 0; 
 	function handleClick() { number += 1};
+	//handle kliknutí
 </script> 
 <div>	
 	<button on:click={() => {handleClick())}}>Click me! Clicked {number}{ number == 1 ? 'time' : 'times'}</button> 
+	<!--jednoduší handlování, použití proměnné v HTML a shorthand if statement, který zajistí správné časování slovesa-->
 </div>
 ```
 
