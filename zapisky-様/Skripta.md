@@ -101,7 +101,12 @@ Svelte:
 
 #### Logic bloky:
 {#await} block počká, až se změní proměnná chapter_list (pomocí asynchorní funkce, která dělá HTTP request) a zároveň zobrazí "filler"
-{:then} určuje, co se zobrazí, až se aktualizuje chapter_list  
+{:then} určuje, co se zobrazí, až se aktualizuje chapter_list (filler zaniká)
+{#each} iteruje arrayem a určuje, co se zobrazí pro každý index
+{#if} funguje jako if statement
+{:else} funguje jako else pro předcházející if
+{/} zakončí specifikovaný logic block
+
 
 ```js
 {#await chapter_list}
