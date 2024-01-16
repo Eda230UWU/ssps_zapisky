@@ -106,7 +106,7 @@ Svelte:
 ## III. https://svelte.dev/examples
 Online examples od Svelte - není potřeba nic instalovat gg
 
-### Cool věci
+### Cool věci k otestování
 1. Logic Blocks
 2. Adaptéry
 3. Event handler
