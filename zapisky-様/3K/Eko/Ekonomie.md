@@ -177,3 +177,6 @@ TH - soukromé vlastnictí podniků, právní samostatnost (Obor, Ekonomická sa
 CPH - státně vlastněný podnik, opak
 
 RVHP - Rada vzájemné hospodářské pomoci
+
+---
+
