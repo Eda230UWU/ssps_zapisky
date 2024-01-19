@@ -5,6 +5,7 @@ Družina se jmenuje podle: Máj - Karel Hynek Mácha
 
 ## Karolína Světlá
 Autorské jméno -> K. Světlá - Světlá pod Ještědí
+Uchýlila se do této vesnice po smrti dítěte. 
 Reálné jméno -> Johanna Nepomucena Rottová
 
 ### Černý petříček
