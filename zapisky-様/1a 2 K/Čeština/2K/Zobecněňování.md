@@ -3,6 +3,6 @@ Autorské x Realné jméno
 ## Autobiografie
 pokud napsal
 ## Dílo
-1. obsah
+obsah
 ## Legacy
-Nějký útvar, odkaz, ž
+Nějký útvar, odkaz, žánr
