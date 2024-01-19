@@ -15,7 +15,7 @@ Vesnické příběhy z podještědí
 
 #### Vesnický román
 \19. století na vesnici
-Pracovitý Antoš je oblíbený u rychtáře a rychtářky. Když rychtářka ovdoví, vezme si pana Antoše. Důvod pro tento sňatek nebyla láska, ale Antoš by musel na vojmu a rychtářka Jirocová se nechtěla vzdát statku.  
+Pracovitý Antoš je oblíbený u rychtáře a rychtářky. Když rychtářka ovdoví, vezme si pana Antoše. Důvod pro tento sňatek nebyla láska, ale Antoš by musel na vojmu a rychtářka Jirocová se nechtěla vzdát statku. Přestože si pořídí děti, Antoš je terorizován a odjede prodávat koně. Jirocová se nemůže sama starat o statek a tak si najme služebnici Sylvu. Sylva, i přestože je vedena Jirocovou k opaku, si uvědomí, že Antoš je dobrý člověk. Sylva vychovává jejich syny a tím zíká Antošovy sympatie. Zamilují se do sebe, ale Antoš je ženatý. I přestože jeho matka ví, že je s rychtářkou neštasten, nedovolí mu odejít z uzavřeného manželského sňatku. On i Sylva upustí své fantazie. Antoš dožívá na statku a Sylva odjíždí do Prahy dělat ošetrovatelku do klášter
 
 
 
