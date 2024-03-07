@@ -28,7 +28,7 @@ html:
 <html lang="en"> 
 	<script>
 	document.addEventListener("DOMContentLoaded", function () { 
-	  var textbox = document.getElementById("Textbox");
+	  var textbox = document.getElementById("TextBox");
 	  var button = document.getElementById("Button");
 	  //promenne priradime jednotlive tlacitka a boxy 
 	  //
