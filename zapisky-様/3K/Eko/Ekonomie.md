@@ -180,3 +180,13 @@ RVHP - Rada vzájemné hospodářské pomoci
 
 ---
 
+OSVČ - osoba samostatně výdelečně činná - F.O.
+A. Živnosti  
+- 18 let nebo zplnoletněn
+- Žádna zadluženost státu
+- Trestní bezúhonnost
+- Občan ČR nebo povolení k trvalému pobytu
+- Právně způsobilost
+Druhy:
+- Koncesované - 1. volné 2. řemeslné 3. vázané
+- Ohlašovací

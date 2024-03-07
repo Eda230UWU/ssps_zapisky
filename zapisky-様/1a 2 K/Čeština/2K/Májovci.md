@@ -25,8 +25,10 @@ Pracovitý Antoš je oblíbený u rychtáře a rychtářky. Když rychtářka ov
 ## Jakub Arbes
 Ke konci života volil pseudonymy
 
+##### Romatena - lit. žánr
+
 #### Svatý Xaverius
-wsad
+
 
 
 ## Svatopluk Čech

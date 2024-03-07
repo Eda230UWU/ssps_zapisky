@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/3K/Eko/Ekonomie.md",
+                "file": "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/frekvence.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e8efaf204c5d943a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
               }
             }
           },
@@ -61,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/1a 2 K/Čeština/2K/Májovci.md",
+                "file": "zapisky-様/3K/Eko/Ekonomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/1a 2 K/Čeština/2K/Májovci.md",
+                "file": "zapisky-様/3K/Eko/Ekonomie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,18 +199,20 @@
   },
   "active": "61e21e200ed6a82a",
   "lastOpenFiles": [
-    "zapisky-様/1a 2 K/Čeština/2K/Zobecněňování.md",
+    "zapisky-様/1a 2 K/VYP.md",
+    "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/kmitání.md",
+    "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/frekvence.md",
+    "zapisky-様/3K/Eko/Ekonomie.md",
     "zapisky-様/1a 2 K/Čeština/2K/Májovci.md",
+    "zapisky-様/1a 2 K/Čeština/2K/Zobecněňování.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/elekrtika ig/120.67.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/elekrtika ig/727 pocitani.md",
     "zapisky-様/1a 2 K/Čeština/2K/Literární prvky.md",
-    "zapisky-様/3K/Eko/Ekonomie.md",
     "zapisky-様/Skripta.md",
     "zapisky-様/Příklad z Keplera.md",
     "zapisky-様/Učitele.md",
     "Pasted image 20240114185520.png",
     "zapisky-様/OpenDAW.md",
-    "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/kmitání.md",
     "zapisky-様/1a 2 K/Čeština/2K/Baroko.md",
     "zapisky-様/1a 2 K/Sítě/2K/Mlsoun.md",
     "zapisky-様/1a 2 K/Čeština/2K/sloh.md",
@@ -216,8 +228,6 @@
     "zapisky-様/3K/APS/Příklady.md",
     "zapisky-様/3K/Výchova k pondikání/Podnikatel vs Zaměstanec.md",
     "zapisky-様/3K/KB/Modulární aritmetika.md",
-    "zapisky-様/3K/KB/Logika.md",
-    "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/Světlo/Zrcadla.md",
     "zapisky-様/1a 2 K/TRash/Obrázky/Pasted image 20211001090656.png",
     "zapisky-様/1a 2 K/TRash/Obrázky/Pasted image 20210923135343.png",
     "zapisky-様/1a 2 K/TRash/Obrázky/Pasted image 20210923110700.png",
