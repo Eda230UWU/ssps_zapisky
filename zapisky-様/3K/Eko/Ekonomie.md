@@ -188,5 +188,11 @@ A. Živnosti
 - Občan ČR nebo povolení k trvalému pobytu
 - Právně způsobilost
 Druhy:
-- Koncesované - 1. volné 2. řemeslné 3. vázané
+- Koncesované - 1. volné 2. řemeslné 3. vázané (k volné není potřeba odbornost)
 - Ohlašovací
+
+
+
+činnosti bez povolení
+- cenné papíry
+- 

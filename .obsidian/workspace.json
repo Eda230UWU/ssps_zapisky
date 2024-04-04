@@ -71,9 +71,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/3K/Eko/Ekonomie.md",
+                "file": "zapisky-様/1a 2 K/Čeština/2K/19. století.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d237f9dae9f3022e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
               }
             }
           },
@@ -90,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -156,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/3K/Eko/Ekonomie.md",
+                "file": "zapisky-様/1a 2 K/Čeština/2K/19. století.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,17 +207,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "61e21e200ed6a82a",
+  "active": "d237f9dae9f3022e",
   "lastOpenFiles": [
+    "zapisky-様/1a 2 K/Čeština/2K/Literární prvky.md",
+    "zapisky-様/1a 2 K/Čeština/2K/19. století.md",
+    "zapisky-様/3K/Eko/Ekonomie.md",
     "zapisky-様/1a 2 K/VYP.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/kmitání.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/frekvence.md",
-    "zapisky-様/3K/Eko/Ekonomie.md",
     "zapisky-様/1a 2 K/Čeština/2K/Májovci.md",
     "zapisky-様/1a 2 K/Čeština/2K/Zobecněňování.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/elekrtika ig/120.67.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/elekrtika ig/727 pocitani.md",
-    "zapisky-様/1a 2 K/Čeština/2K/Literární prvky.md",
     "zapisky-様/Skripta.md",
     "zapisky-様/Příklad z Keplera.md",
     "zapisky-様/Učitele.md",
@@ -227,7 +238,6 @@
     "zapisky-様/3K/APS/1..md",
     "zapisky-様/3K/APS/Příklady.md",
     "zapisky-様/3K/Výchova k pondikání/Podnikatel vs Zaměstanec.md",
-    "zapisky-様/3K/KB/Modulární aritmetika.md",
     "zapisky-様/1a 2 K/TRash/Obrázky/Pasted image 20211001090656.png",
     "zapisky-様/1a 2 K/TRash/Obrázky/Pasted image 20210923135343.png",
     "zapisky-様/1a 2 K/TRash/Obrázky/Pasted image 20210923110700.png",
