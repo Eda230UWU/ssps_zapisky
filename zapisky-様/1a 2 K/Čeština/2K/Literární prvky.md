@@ -38,6 +38,10 @@ Román - nenaplněná láska
 ---
 
 # Typy textu
+
+## Epika
+Novela - odehrává se v krátkém časovém úseku
+
 ## Funkční styly
 
 Prostě sdělovací - inzerát, pozvánka, plakát

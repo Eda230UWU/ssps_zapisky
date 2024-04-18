@@ -195,4 +195,26 @@ Druhy:
 
 činnosti bez povolení
 - cenné papíry
-- 
+
+
+
+---
+
+
+Právnické osoby
+
+1. státní podnik
+například ČP, Budvar, atd. 
+
+2. Obchodní společnost
+skupinové vlastnictví - 
+VOS - min. 2 společníci, žádný vklad, ručíme celým majetkem
+KS -
+SRO -
+AS -
+
+3. 
+
+
+ 
+
