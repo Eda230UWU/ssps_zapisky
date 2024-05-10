@@ -4,103 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "95b39291d746cc7f",
+        "id": "a3b56373f856e2e3",
         "type": "tabs",
         "children": [
           {
-            "id": "3bd686e763383d56",
+            "id": "ae202f8a17d1b775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/OpenDAW.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c16344e5a6b7f052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/3K/Eko/Ekonomie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8efaf204c5d943a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "c62f2cc9db45cb3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/3K/Eko/Ekonomie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb3d7dc9835471d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/Skripta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61e21e200ed6a82a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/1a 2 K/Čeština/2K/Literární prvky.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d237f9dae9f3022e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
-            "id": "28a6113ca6d8ba57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapisky-様/1a 2 K/Čeština/2K/Zobecněňování.md",
+                "file": "zapisky-様/1a 2 K/Matematika/geometire/Kombinatorika.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/3K/Eko/Ekonomie.md",
+                "file": "zapisky-様/1a 2 K/Matematika/geometire/Kombinatorika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,37 +126,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c16344e5a6b7f052",
+  "active": "ae202f8a17d1b775",
   "lastOpenFiles": [
+    "zapisky-様/1a 2 K/Matematika/geometire/Zobrazení v rovině.md",
+    "zapisky-様/1a 2 K/Matematika/geometire/Kombinatorika.md",
+    "zapisky-様/1a 2 K/Matematika/geometire/Vektor.md",
+    "zapisky-様/OpenDAW.md",
+    "zapisky-様/3K/Eko/Ekonomie.md",
+    "zapisky-様/1a 2 K/Čeština/2K/Zobecněňování.md",
     "zapisky-様/1a 2 K/Čeština/2K/Literární prvky.md",
+    "zapisky-様/Skripta.md",
     "zapisky-様/1a 2 K/Čeština/2K/hodnocení textu.md",
     "zapisky-様/1a 2 K/Čeština/2K/cheat literatura.md",
     "zapisky-様/1a 2 K/Čeština/Literatura/Husictví.md",
     "zapisky-様/1a 2 K/Čeština/2K/19. století.md",
-    "zapisky-様/3K/Eko/Ekonomie.md",
     "zapisky-様/1a 2 K/Matematika/geometire/Untitled.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/frekvence.md",
     "zapisky-様/1a 2 K/VYP.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/kmitání.md",
     "zapisky-様/1a 2 K/Čeština/2K/Májovci.md",
-    "zapisky-様/1a 2 K/Čeština/2K/Zobecněňování.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/elekrtika ig/120.67.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/elekrtika ig/727 pocitani.md",
-    "zapisky-様/Skripta.md",
     "zapisky-様/Příklad z Keplera.md",
     "zapisky-様/Učitele.md",
     "Pasted image 20240114185520.png",
-    "zapisky-様/OpenDAW.md",
     "zapisky-様/1a 2 K/Čeština/2K/Baroko.md",
     "zapisky-様/1a 2 K/Sítě/2K/Mlsoun.md",
     "zapisky-様/1a 2 K/Čeština/2K/sloh.md",
     "Pasted image 20240111093742.png",
     "zapisky-様/1a 2 K/Čeština/2K/Realismus.md",
-    "zapisky-様/1a 2 K/Matematika/geometire/Vektor.md",
     "zapisky-様/1a 2 K/Matematika/geometire/Ukol smichov.md",
-    "zapisky-様/1a 2 K/Matematika/geometire/Ekvigonála.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/elekrtika ig",
-    "zapisky-様/1a 2 K/Čeština/2K/Renesance a humanismus.md",
     "zapisky-様/1a 2 K/TRash/Obrázky/Pasted image 20211001090656.png",
     "zapisky-様/1a 2 K/TRash/Obrázky/Pasted image 20210923135343.png",
     "zapisky-様/1a 2 K/TRash/Obrázky/Pasted image 20210923110700.png",
