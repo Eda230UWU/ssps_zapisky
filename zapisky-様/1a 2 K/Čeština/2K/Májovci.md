@@ -1,4 +1,8 @@
 Družina se jmenuje podle: Máj - Karel Hynek Mácha
+jinak než národní obrození
+básníci mají psát podle sebe, ne podle národa
+Starší generace měla s něma beef přes noviny
+kolem roku 1850-1860
 ## Jan Neruda
 1834 - 1891
 ### Povídky Malotranské
@@ -18,17 +22,30 @@ Vesnické příběhy z podještědí
 \19. století na vesnici
 Pracovitý Antoš je oblíbený u rychtáře a rychtářky. Když rychtářka ovdoví, vezme si pana Antoše. Důvod pro tento sňatek nebyla láska, ale Antoš by musel na vojmu a rychtářka Jirocová se nechtěla vzdát statku. Přestože si pořídí děti, Antoš je terorizován a odjede prodávat koně. Jirocová se nemůže sama starat o statek a tak si najme služebnici Sylvu. Sylva, i přestože je vedena Jirocovou k opaku, si uvědomí, že Antoš je dobrý člověk. Sylva vychovává jejich syny a tím zíká Antošovy sympatie. Zamilují se do sebe, ale Antoš je ženatý. I přestože jeho matka ví, že je s rychtářkou neštasten, nedovolí mu odejít z uzavřeného manželského sňatku. On i Sylva upustí své fantazie. Antoš dožívá na statku a Sylva odjíždí do Prahy dělat ošetrovatelku do kláštera.
 
-
-
 ## Vítěslav Hálek
+Novinář - RUCH, Lumír, Národní noviny
+Inspirace od K. J. Erben, Puškin, Mácha
+#### Večerní písně 
+láska - milostné lyrické básně
+#### Vesnické povídky
+lyrické básně
+optimismus a radost
+
+
+
 
 ## Jakub Arbes
 Ke konci života volil pseudonymy
+měl za vzor Karla Hynka Máchu - rozluštil jeho deník o sexu s milenkou nebo tak neco tf
 
 ##### Romatena - lit. žánr
+dobrodružná povídka, žánr vymyslel
 
 #### Svatý Xaverius
-
+Arbes je hlavní hrdina - snaží sse rozluštit obraz sv. Xaviera
+Na konci je Xaverius nespravedlivě odsouzen
 
 
 ## Svatopluk Čech
+Ve stínu lípy - povídky z litně
+výlet pana broučka

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a3b56373f856e2e3",
+        "id": "4128a236a039108c",
         "type": "tabs",
         "children": [
           {
-            "id": "ae202f8a17d1b775",
+            "id": "704d4bfe614e98f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zapisky-様/1a 2 K/Matematika/geometire/scitani veci.md",
+                "file": "zapisky-様/3K/DVOP - D/DVOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapisky-様/1a 2 K/Matematika/geometire/scitani veci.md",
+                "file": "zapisky-様/3K/DVOP - D/DVOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,9 +126,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ae202f8a17d1b775",
+  "active": "704d4bfe614e98f6",
   "lastOpenFiles": [
     "zapisky-様/3K/Eko/Ekonomie.md",
+    "zapisky-様/3K/DVOP - D/DVOP.md",
+    "zapisky-様/3K/DVOP - D",
+    "zapisky-様/1a 2 K/Čeština/2K/Lumírovci a Ruchovci.md",
+    "zapisky-様/1a 2 K/Čeština/2K/Máj - Karel Hynek Mácha.md",
+    "zapisky-様/1a 2 K/Čeština/2K/Májovci.md",
+    "zapisky-様/1a 2 K/Čeština/2K/Preromantismus a Romantismus.md",
+    "zapisky-様/1a 2 K/Čeština/2K/Realismus.md",
+    "zapisky-様/1a 2 K/Matematika/geometire/scitani veci.md",
     "zapisky-様/1a 2 K/Matematika/geometire/Kombinatorika.md",
     "zapisky-様/1a 2 K/Čeština/2K/Literární prvky.md",
     "zapisky-様/1a 2 K/Matematika/geometire/Zobrazení v rovině.md",
@@ -140,22 +148,15 @@
     "zapisky-様/1a 2 K/Čeština/2K/cheat literatura.md",
     "zapisky-様/1a 2 K/Čeština/Literatura/Husictví.md",
     "zapisky-様/1a 2 K/Čeština/2K/19. století.md",
-    "zapisky-様/1a 2 K/Matematika/geometire/scitani veci.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/frekvence.md",
     "zapisky-様/1a 2 K/VYP.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/kmitání.md",
-    "zapisky-様/1a 2 K/Čeština/2K/Májovci.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/elekrtika ig/120.67.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/elekrtika ig/727 pocitani.md",
     "zapisky-様/Příklad z Keplera.md",
     "zapisky-様/Učitele.md",
     "Pasted image 20240114185520.png",
-    "zapisky-様/1a 2 K/Čeština/2K/Baroko.md",
-    "zapisky-様/1a 2 K/Sítě/2K/Mlsoun.md",
-    "zapisky-様/1a 2 K/Čeština/2K/sloh.md",
     "Pasted image 20240111093742.png",
-    "zapisky-様/1a 2 K/Čeština/2K/Realismus.md",
-    "zapisky-様/1a 2 K/Matematika/geometire/Ukol smichov.md",
     "zapisky-様/1a 2 K/Fyzika+Elektrotechnika/2k/elekrtika ig",
     "zapisky-様/1a 2 K/TRash/Obrázky/Pasted image 20211001090656.png",
     "zapisky-様/1a 2 K/TRash/Obrázky/Pasted image 20210923135343.png",
@@ -172,7 +173,6 @@
     "zapisky-様/1a 2 K/Matematika/geometire",
     "zapisky-様/3K/KB",
     "zapisky-様/3K/APS",
-    "zapisky-様/1a 2 K",
-    "zapisky-様/3K"
+    "zapisky-様/1a 2 K"
   ]
 }

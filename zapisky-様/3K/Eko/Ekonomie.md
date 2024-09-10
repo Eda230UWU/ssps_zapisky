@@ -217,7 +217,5 @@ AS -
 
 ---
 
-skibidi toilet
 
- 
 
