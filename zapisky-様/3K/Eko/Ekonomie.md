@@ -173,10 +173,20 @@ poptavkova pruznost idk
 Nevolnictví -1781> TH - 1948> CPH -1989> TH
 
 
-TH - soukromé vlastnictí podniků, právní samostatnost (Obor, Ekonomická samostatnost, mzdy zaměstnanců, rozdělení zisku)
-CPH - státně vlastněný podnik, opak
+TH - soukromé vlastnictí podniků možné, právní samostatnost (lze volně vybrat Obor, Ekonomická samostatnost, mzdy zaměstnanců, rozdělení zisku)
+CPH - státně vlastněné podniky, právně a ekonocmiky nesamostané
+
+TH - volná směna a volný zahraniční export, lze zaměstnat někoho jako soukromá osoba
 
 RVHP - Rada vzájemné hospodářské pomoci
+
+---
+
+### TH
+Samostatná činnost na vlastní riziko, odpovědnost a náklady
+podnik je zisková org.
+
+Soukromé, státní a kombinované vlastnictví + družstva
 
 ---
 
@@ -187,33 +197,90 @@ A. Živnosti
 - Trestní bezúhonnost
 - Občan ČR nebo povolení k trvalému pobytu
 - Právně způsobilost
+
+
+
 Druhy:
-- Koncesované - 1. volné 2. řemeslné 3. vázané (k volné není potřeba odbornost)
-- Ohlašovací
+- Ohlašovací - 1. volné, nákup prodej 2. řemeslné, instalatér, vyučení 3. vázané, optika, vyšší vzdělání (k volné není potřeba odbornost)
+- Koncesované - nenárokové, kontrola trhu, prodej zbraní
 
 
-
-činnosti bez povolení
-- cenné papíry
-
+činnosti s malou kvalifikační předpovědí
+nejsou žádné podmínky
+pronájmy, zemědělské podnikání
+vysoká kvalifikace
+advokáti
+soukromí lékaři
+geodeti
+soudní znalci
 
 
 ---
 
 
 Právnické osoby
+všechny zapsané v OR, obchodní rejstřík
+vznik je zapsání do OR
 
-1. státní podnik
-například ČP, Budvar, atd. 
+Osobní typy
+nepovinné vklady
+ručení majetkem společníků
+podíl spol. na chodu
 
-2. Obchodní společnost
-skupinové vlastnictví - 
-VOS - min. 2 společníci, žádný vklad, ručíme celým majetkem
-KS -
-SRO -
-AS -
+VOS
+min dva spol.
+ručí celým majetkem
+uzavřena společenské smlouva
+rodinné firmy
 
-3. 
+
+KS
+dva spol, komplementář a komandista
+komplementář
+1. celým majetkem
+2. nepovinný vklad
+3. vede společnost
+Komandista
+1. min 5000 kc vklad
+2. pouze vkladem ruceni
+3. nevede
+uzavrena spol., sml
+málo v cr
+
+
+Kapitalove
+
+SRO
+az padesat spolecniku
+ruceni do vyse vkladu
+minimalni vklad 1kc na spolecnika
+valna hromada 
+
+Valna hromada
+vydavaji stanovy
+jmenuje a odvolava jednatele, povereni
+j a od dozorci radu, kontroluje jednatele
+delaji rozdeleni zisku
+velke organizacni zmeny
+
+AS
+1 zakladatel
+akcie
+dividendy, podil zisku na akcii
+ruceni akciemi
+2 a 20 mil kc vklad
+20 mil je vstup na burzu, nema horni hranici
+Valna hromada
+vydavaji stanovy
+jmenuje predstavensto, min tri lidi
+jmenuje doz radu
+rozdeluji zisk
+vstup na burzu schvaluje burza a valna hromada
+
+
+
+
+
 
 ---
 
